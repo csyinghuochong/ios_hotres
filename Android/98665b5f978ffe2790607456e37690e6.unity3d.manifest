@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2538872796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71c001a9d6f320081ddda9a3ae404a93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_1/shuguai/ShuGuai.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2ab1358fd4faf8effc456e2dba51dc9e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ba4d01c7085eda0f4ab1df3c1dd9bc1.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/954a9cf6182402d4f48bb09cc6046a26.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/aa3bb7167b6333459448563ff41a6511.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/de4a1d57e763e9b3a12bdf8543163cb5.unity3d

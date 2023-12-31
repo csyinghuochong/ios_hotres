@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3323447511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df7152ef521736b880009fae2c71da75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/Projectors/Textures/Light.psd
+Dependencies: []

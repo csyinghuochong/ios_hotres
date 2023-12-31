@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3801494208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b32389ea7ca448c7e50356fd0853fa09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f587ae8b4b7b90655a2f5c83f827dd0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/G_Tree_06.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/12eab75f96fa54bc0202199c15c2e139.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f47c598e3be4f8ae60f02f8cdc2eaa0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f9f2ac4031fee250068f959cc09dbda.unity3d

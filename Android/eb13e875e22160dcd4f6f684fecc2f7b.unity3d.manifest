@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1591371155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 392f9875d2519fce07323880ceed72ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Stone/Model/obj_metope_012.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6eb9aee6979bbc96a523c114ad98c6b7.unity3d

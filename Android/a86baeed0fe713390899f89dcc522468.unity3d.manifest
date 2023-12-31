@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3185141308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d691888303b78eb625f9b3c000a67ccf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Texture/Faceskin/FaceSkin_00_00.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2348884983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c9beeaac2c5cc912ca56f5a2c4cba08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b07e95eec8d55770ffce51414c7b0714
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_ZhanShi_BaseAct_3.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/00c5bb6f65dce0a05cd577e3b412e3d3.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4dd3ad781802b693ec441147347bcaa7.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6fb789b01b99c3d97df1255d7f2c9c02.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9126460a87b3f05b7a26ca3cac46b4f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f0bd8cc22f26c0b4752c30ff29ca7d2d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ffdf1d6dc56e8941df4f970d01f40ee1.unity3d

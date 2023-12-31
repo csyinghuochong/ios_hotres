@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 653083299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d330dddecf6a60bff163879d53a38ba9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_zhangpeng_04_a.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/006c52fa4a02f229df048efefa85c4eb.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2470e9b9970e5a77d5c3ad627cc7d68c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3e4385d31f652417ad1bc25ed01bfb6c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d43006bffeb325aed47e4da0f45220db.unity3d

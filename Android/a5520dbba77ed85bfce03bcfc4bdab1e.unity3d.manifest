@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2890393755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ad787dbb91995f7942b0fb47bcb473e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Bottle.jpg
+Dependencies: []

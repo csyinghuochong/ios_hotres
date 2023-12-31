@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1118253878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97b1cd8a627c65ecf3b3c96ac0aa1832
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09cd7455ca261e4d8c99dd891d671071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillHitEffect/Eff_Hit_Green_1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/43946489ac5ad622b28773fe2cdec63f.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1389060122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 891e6c1fb0c29e7175d33f57ee198ade
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/mesh/Materials/No
+  Name.mat
+Dependencies: []

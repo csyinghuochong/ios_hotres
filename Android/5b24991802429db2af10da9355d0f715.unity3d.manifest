@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2221490548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ddce118c21e9c1e89a7893c5eb3b1dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/Misc/dot3.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a6dc754197592d9b994a48e5dd20538f.unity3d

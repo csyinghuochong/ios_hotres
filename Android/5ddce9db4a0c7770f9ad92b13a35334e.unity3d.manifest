@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 788092355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba8912a83065a3ce07241e36bbb0cf4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_SunflowerLeaf_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/14b7991e725775ae256bd66b004b7506.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/30c1e7311f0cdaa2682a6d38a4ef5a8f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4e97c1f0203d06c64116b99c7e1642c2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5b5ce51b6e901376ce6f4c3be97e1663.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/99c62df926b4cd749c18764a06b2e5be.unity3d

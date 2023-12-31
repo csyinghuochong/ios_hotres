@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1349300557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c0e0def2fcfae558a7bd726714894ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_648.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_98.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_6.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_488.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_298.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_50.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_30.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_198.png
+Dependencies: []

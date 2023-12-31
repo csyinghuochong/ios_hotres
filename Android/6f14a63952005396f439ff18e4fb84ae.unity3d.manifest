@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2365279806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a021786271388d66d3554497432b7b9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: feaa08ab20190d02d4751c45ba900362
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/RenderTexture/MapRenderTexture.renderTexture
+Dependencies: []

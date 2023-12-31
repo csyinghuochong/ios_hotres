@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 760662725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c59f37ecff3b6dc8621639e61cdfda0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_3/prefab/fb0_caocong_01.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0e3064bdc5ba06cf57edd22a17c41217.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/73c11f04f464c848c50a3ff7fadc9f5e.unity3d

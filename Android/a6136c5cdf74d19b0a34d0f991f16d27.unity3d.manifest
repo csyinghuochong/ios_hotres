@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1325521523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3de49d27336fd8b70c7473b587d51b7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_398.Png
+Dependencies: []

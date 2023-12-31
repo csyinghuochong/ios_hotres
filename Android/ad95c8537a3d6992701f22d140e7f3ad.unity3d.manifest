@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4165859211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e96104960145576c385c16de5a335f41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Back/Back_10.jpg
+Dependencies: []

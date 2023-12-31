@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2643719562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40e048a98a70d2b8950a0a232d23e341
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_3/model/Materials/t_fx_daoguang_05.tga
+Dependencies: []

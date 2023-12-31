@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 790767300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b31e5beb27e94b408ecbd7f3f33f42c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_weapon_lv5.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/43143ac401637e9d91edc72a92d0f4fb.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cdc9df6341281abffa9ef13d646f609f.unity3d

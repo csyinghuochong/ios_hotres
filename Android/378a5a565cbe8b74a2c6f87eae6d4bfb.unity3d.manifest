@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1623406398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d0924d9d0da5ce4c3b606ea03f7f357
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Rainbow/Rainbow.tga
+Dependencies: []

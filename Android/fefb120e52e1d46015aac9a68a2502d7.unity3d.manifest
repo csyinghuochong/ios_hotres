@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4084204572
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5821d830608dfb0094a9cb1cb28390c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Textures/healing.png
+Dependencies: []

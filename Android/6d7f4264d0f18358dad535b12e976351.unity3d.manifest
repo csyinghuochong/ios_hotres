@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 696969627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1bb2cf1e681f46b61cc97e31d030c67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Shader46-HDR
+  3.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/705cb86fd1e53381e14ff46bb8c81c7b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7917da4b9c1c0bd1c260ca37a788c1ad.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bf3b229b43c04ccbbb4ba6e7ede38d03.unity3d

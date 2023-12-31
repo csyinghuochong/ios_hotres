@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 487253583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6818fd536345ef45f8f3a02c3e670813
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3284ab4174ab8381d94a9063ecf28b4d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/UI/Common/UIModelShow3.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/054de3cfba17c760ec9d1fc67debcb92.unity3d

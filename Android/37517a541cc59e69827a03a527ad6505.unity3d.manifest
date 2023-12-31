@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3584883121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fea96887d2213bbd3a26fc579225180e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectResources/Effects/Materials/E3D-Sequence124-bh13-urp.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/32b8515acfae429ea61dfdac3831e5d7.unity3d

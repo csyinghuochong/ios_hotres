@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3317934849
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7757dd38a1a839fe3fa7436a298bf04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Texture/Impact.png
+Dependencies: []

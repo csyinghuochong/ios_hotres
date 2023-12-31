@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1580961359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66873f2b3bcbe30a283a8c483cff1fd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/M_smallparts.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1fc04e1bd36be401087be7fac1a39ceb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/420dc74b7f5838e0c78c944fe9baaeab.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/73b38f22c238b56d59f4d22e8313166b.unity3d

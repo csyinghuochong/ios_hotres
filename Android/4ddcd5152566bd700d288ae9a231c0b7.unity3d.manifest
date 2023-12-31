@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1879491157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cf793a343dfc5dc0e4f27daf58521ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_CiGuan/Props_B.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5f777e51d642cd80ae243f1745cc4704.unity3d

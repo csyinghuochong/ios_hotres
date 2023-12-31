@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 281640347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39a878b336f189ea1e5f3280b81351c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9397ff014da44a8632e81480212955cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Animations/Common/StandA_idleAXiuGai.FBX
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0be0bf0cb0a3bdfa5ea5c7ee9e156245.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d91af2d3b6719ce536948e05134aa24f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9f553612cc9013b173e2abd98b6add6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ed32e9390ef86ea8d3aef0d8a87b9fe5.unity3d

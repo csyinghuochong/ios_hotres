@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2239914296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5f38865a66b42666e80085519bedb79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_1/shuguai/Materials/_D.jpg
+Dependencies: []

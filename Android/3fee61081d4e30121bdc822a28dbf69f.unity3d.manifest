@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 456982130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fce6640361b4aaf16beaf71d6ee8c2fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Pro/EmojiOne.png
+Dependencies: []

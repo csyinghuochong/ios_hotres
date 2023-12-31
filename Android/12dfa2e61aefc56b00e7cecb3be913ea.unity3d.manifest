@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3879223025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8328dd33f1bde07492b6ab9584238e3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/JiaYuan/100404.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4298b80e05fdc811e2f3c43f6bc4e31c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/df7ab78f8b6f1d2ddf5ed223a2b9c945.unity3d

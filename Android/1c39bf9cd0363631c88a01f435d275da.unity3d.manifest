@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 72451160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83daffefe07fbc1b3e5bc560c2482e54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/etc_Sword_shelves01.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d

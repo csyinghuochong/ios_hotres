@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3819376387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09b1fc3dfa101cfe7cfc3fb2f496cb5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91616ee0f4a9ff2ba0344d9437b15a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/TeruTeru/Animation/Teruteru@Damage.fbx
+Dependencies: []

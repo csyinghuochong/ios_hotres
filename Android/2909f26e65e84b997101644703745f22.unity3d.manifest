@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3362379578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e4c1e948cfb13b67026a9aea43515d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/tex/105030_bsg_npc_d_256.png
+Dependencies: []

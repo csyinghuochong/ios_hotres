@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2058326588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3493f25c5f7e419daad7dafcf6d59bc7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/Materials/No
+  Name.mat
+Dependencies: []

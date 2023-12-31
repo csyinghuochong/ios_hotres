@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2072765644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8075b5faba7d5251d07797eba9ed06c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleZhanShi/tga/zhanshi_shangyi.tga
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3963144943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7cfc1e29244f0baa1cea5ea8f0386f10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f0252db3c7fb55fc46c0286ed37380d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Models/Parts/Costume_01.fbx
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ad32c5c035064d8f6fc797244339b657.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b309dcd0514eadd7eb3b90ae6c89771e.unity3d

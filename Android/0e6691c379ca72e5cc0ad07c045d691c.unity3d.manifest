@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1484406006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2747edba7252d5f8fd246eca7d81cf78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/Materials/Magic 00817.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6d775c07df3cccee53694cb5bd9ed999.unity3d

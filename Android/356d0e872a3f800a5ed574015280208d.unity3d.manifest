@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 124686526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba513a1abf1cf7e1be2b479cbfa694a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_Fashion_1.png
+Dependencies: []

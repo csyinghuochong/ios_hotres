@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3157560594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08d46536f8c373d21a788f50f1fc50b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Animations/Fire Pig/Fire_Pig_Animations_Check.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f9a0f7cd75e3f7f4bc77c02321686fc.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8d95d009c8e9e76dc889a4e779ca0489.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a213e7d7ef7f4d3589645f73235db973.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c2bd3b4e1f1fd6dd99fe117482a3612e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fad60dd3b1f792010a2278772eaa77ac.unity3d

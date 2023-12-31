@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3064285113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7aa0862acd414f44262bb3d6b7af2c75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-D011.anim
+Dependencies: []

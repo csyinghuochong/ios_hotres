@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1232478160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcccf93baccb943337f7ad2b68897093
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09cd7455ca261e4d8c99dd891d671071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillHitEffect/Eff_Hit_Blue_8.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3041131c8533d08f86e339a63259a8d9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/32ae72b2d3b3ab2b1ec7d5a5db78593a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/351c5015b248c929352575691af33897.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5370fd7af3178bb4ceb2b863acb12be0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a5136d288de244948ea0a4bf8f918be4.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cfeee76cff5e0274422a4e11e8983dae.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddb5a7d28c3dee34b832a6f0087d5d79.unity3d

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 380056543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f730ff38b544f0cabc68c06067b2cad6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/M_rope.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3aaca01b5c4593995bad76d9227012e5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b040487557c4c42bf0360b9eb5738eda.unity3d

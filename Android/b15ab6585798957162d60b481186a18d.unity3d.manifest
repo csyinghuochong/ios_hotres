@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1345655011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91850d1e4d00faf12000c12308c1df29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Spell-Cure-Green2.controller
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/59bad42a7874207aa22cda7f99cc9250.unity3d

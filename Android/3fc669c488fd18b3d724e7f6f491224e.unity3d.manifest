@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 357437491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 138ff5a41c170e227f818cc10e1f8f42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/ForestSpirit/T_ForestSpirit_Head_Emissive.tga
+Dependencies: []

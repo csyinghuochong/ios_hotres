@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2352669191
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66f5c856bb479d26442b861b746fed9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/Role/RoleAct/Monster_bushoujia_01/Texture/bushoujia_1.tga
+Dependencies: []

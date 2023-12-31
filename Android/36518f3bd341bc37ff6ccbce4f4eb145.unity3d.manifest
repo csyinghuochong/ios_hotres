@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1195655000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d95e7d5de4324c52afb3c0ca7aa32ce0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Hat_Emissive.tga
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 626499316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a31252a73188114a7784499c5f11585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Circles/Circle06.png
+Dependencies: []

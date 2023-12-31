@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 120537054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5ab04fcd5921a71d45f8fe4b2d58747
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/LowPolyFantasyWizard/Textures/Wizard_Albedo.png
+Dependencies: []

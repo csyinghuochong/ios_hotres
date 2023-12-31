@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1940815599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6b5a8d3ea2f0705edb655acebd89c50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelFlower_yellow.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d823262a83d3ec90925b3e6843f7819e.unity3d

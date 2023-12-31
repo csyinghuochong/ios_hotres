@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1679011157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad620979a6306a295cac4f494b65c2fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02c32a33ace7c082df8b5d7f948855ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Component/MapCamera.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f14a63952005396f439ff18e4fb84ae.unity3d

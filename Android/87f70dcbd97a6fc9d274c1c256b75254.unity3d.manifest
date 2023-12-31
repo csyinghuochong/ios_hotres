@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3179059693
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c79e8a77bfe074901d5f0fd2507084d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_weapon_ground_lv3.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/42a418995baa02dee8d3d6437ac918eb.unity3d

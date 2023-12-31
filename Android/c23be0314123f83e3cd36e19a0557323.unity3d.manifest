@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 803045021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df77144242b4728cb41c13190c7f6557
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Rose/Texture/zxvbSeal1011.png
+Dependencies: []

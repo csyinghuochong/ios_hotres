@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3017972925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abc60575b383392b9a2875a8efed6252
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/Tree_A_1.jpg
+Dependencies: []

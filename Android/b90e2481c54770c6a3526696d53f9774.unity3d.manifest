@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2933107049
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b5c11c862c4b71fd97962507628329a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/beamglow.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6e18e0e87897011c41aad21109a23d54.unity3d

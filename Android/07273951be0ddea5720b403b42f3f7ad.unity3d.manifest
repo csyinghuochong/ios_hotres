@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 8202440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e8502103e464e2fe5abc481dd88c3b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Media/Character/Model/Materials/ju_du_zhu_001_ty.tga
+Dependencies: []

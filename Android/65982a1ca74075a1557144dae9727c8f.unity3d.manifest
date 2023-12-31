@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4163879683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 712f56162758e6b2834cdc7df9776e94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/SM_woodenbeam_wooden_planklow_default_Normal.png
+Dependencies: []

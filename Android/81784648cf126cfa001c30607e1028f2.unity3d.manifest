@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2347705387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94d964b8e26ad4199fc49def16218c33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Animation Controller/LS/LS Squat A.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2f5edf59932cac2a5d34afa89d230972.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ef4b0bf8687ba9ad0dde3324624ca1d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ffa542384dfc7e62dd4fefeb8cf87c6c.unity3d

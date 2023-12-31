@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1952212739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 027eaca3532664269e0ca2ecb8e7b7a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/Role/RoleAct/Monster_bushoujia_01/bushoujia_buff.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0102470d2937cadb923b18c1cd6f3780.unity3d

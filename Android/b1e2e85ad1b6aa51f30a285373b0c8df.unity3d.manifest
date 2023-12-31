@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4094850002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79a14dbf257fcf36cda6542913ec3a7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Materials/Eye/Eye-EyeBall_00_00.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6609a978e4e7a8e4728a3064c597fbee.unity3d

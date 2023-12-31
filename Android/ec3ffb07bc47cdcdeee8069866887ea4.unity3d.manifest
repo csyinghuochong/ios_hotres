@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 728617241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb869f8e3ed74b560b768f03d3f24d69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleLieRen/tex/wuqi_Base_Color.png
+Dependencies: []

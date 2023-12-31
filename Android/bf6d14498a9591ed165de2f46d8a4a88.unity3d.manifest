@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1320033845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c1f0f1529517326c7d4bfe032a16a4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/ESTHGRAVEYARD_ARCH_01.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1172d872c78acef0d9280f5fac70cc8f.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a17746726a08d4f94f273715559adb1a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a62f62928f0f0a33a36225d20c2c5f8a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6ec8335a64e0a16eabf7e86f6d6b4d.unity3d

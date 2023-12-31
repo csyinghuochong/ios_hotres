@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2724097706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7b927872d8705999ce399f89f5c315c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66323bee4b2f2a2395cc4cafa9775971
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_HuDunQiu_1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/124cea6d4f0f0bc966cbe51f29416314.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/20d0133e96989ae6c1d4d5099046071f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4d746a80a294ea50ae86365a7d44727b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6e8da997b9a13d50d27091343c7914a3.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7b48badc903d691c2cb8f69c4e9e2ba6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a926f93b98be7c43571bd998de1b7bdc.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/aa3593c9af0fd6bb89eede77b61ee850.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c273321e23328ddf51d8b1ada7fd3982.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/eef73fcae75622d152e5be56f3b82861.unity3d

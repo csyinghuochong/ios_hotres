@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 3009191729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c20c77a7a27cee3aba5baf9f21bac37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Shaders/SM_TransparentRim.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-DetachAlpha-Top.shader
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Shaders/Add_Fresnel.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C1-Add-Disslove.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Alpha-Blend-DetachAlpha-Top.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Mobile-Particle-Add-DetachAlpha-Top.shader
+- Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C0-Falloff.shader
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Add_CenterGlow.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
+  Ice Vol.1/Shaders/ParticleCook-Transparent-AlphaBlend-Diffuse-Z.shader
+- Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/E3D-Effect-Shader/AirDistort/E3D-AirDistort-AutoNoise-Mask-Fre.shader
+- Assets/Res/Models/Warrior/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada.shader
+- Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-Mask3.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Mobile-Particle-Add-Top.shader
+- Assets/Res/Effect/BackBlur/BackBlur.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
+  Ice Vol.1/Shaders/ParticleCook-Transparent-AlphaBlend-Diffuse.shader
+- Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonBasicOutline.shader
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Shaders/Blend_TwoSides.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Shaders/AdditiveMobile_Scroll01.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-HardEdge-Opaque.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C1-Add.shader
+- Assets/Res/Effect/SkillZhiShi/Effect/Shader/Particle Alpha Blend1.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Particle-AddSmooth-DetachAlpha-Top.shader
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/JR1/Effects/Shaders/E/E3D/E3D_EF_31_ADD_Top.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-Top.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Blend-Glow.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Shaders/AlphaBlendedMobile_Scroll01.shader
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Distortion.shader
+- Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonBasic.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
+  Ice Vol.1/Shaders/ParticleCook-Transparent-Additive-Diffuse.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Mobile-Particle-Alpha-DetachAlpha-Top.shader
+- Assets/Res/Shader/SimpleAlpha.shader
+- Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3D-distortion.shader
+- Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonLitOutline.shader
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Slash.shader
+- Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonLit.shader
+- Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-Mask2.shader
+- Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-HardEdge.shader
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Blend_CenterGlow.shader
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/JR1/Effects/Shaders/Builtin/Particle
+  Add.shader
+- Assets/Res/Models/RPG_character/Shader/Cartoon.shader
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/JR1/Effects/Shaders/E/E3D/E3D_EF_31_ADD_Top2.shader
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Shaders/Lit_CenterGlow.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/E3D-Effect-Shader/AirDistort/E3D-AirDistort-Noise-Mask.shader
+- Assets/Mono/GameDemo/OldResources/Shaders/AlphaTest-Diffuse-DetachAlpha-Top.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-Tex-WithAlpha.shader
+- Assets/T4M/Shaders/ShaderModel2/Diffuse/T4M 4 Textures.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/E3D-Effect-Shader/AirDistort/E3D-AirDistort-AutoNoise-Mask.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-Glow.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Shaders/Additive_EdgeSoft.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Simple Character Pack/Shader/ToonTransparent.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C1-AirWave.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/E3D-Effect-Shader/UV/E3DVFX-3T-UV-VC-Add.shader
+- Assets/Mono/GameDemo/OldResources/Water (Basic)/Sources/Shaders/FX-Water Simple.shader
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/351c5015b248c929352575691af33897.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/613311d53ab353c42b0d25e3b695cd1e.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/67e09de2cca9549e217fdd435873bf64.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a5136d288de244948ea0a4bf8f918be4.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddb5a7d28c3dee34b832a6f0087d5d79.unity3d

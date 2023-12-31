@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3623127976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45f7e2b937ccddcc1db2b4dbabca2fb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Animator/72002003.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7cd506cca17bf410faad8f25fad6e846.unity3d

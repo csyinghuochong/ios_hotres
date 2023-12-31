@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2860591199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d85bbf977859c2cae5e2d0997e94831
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Skill-Front-Blue2.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/86c9bac675771b0a75a67057e528abb8.unity3d

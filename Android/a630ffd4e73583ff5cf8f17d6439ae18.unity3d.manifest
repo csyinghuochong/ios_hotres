@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1189516879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7f0bc2883120234604dc7e663769868
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/baofengxue.mp3
+Dependencies: []

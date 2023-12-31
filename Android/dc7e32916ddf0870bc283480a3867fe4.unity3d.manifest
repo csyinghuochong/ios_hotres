@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 125194912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3228d514c7deeaac899954d4bfe72838
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4acd3be16b2e90d8e55e23bd1c11454
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/Npc_Rank.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/70777ce7515091fdb2c139818e0d32e0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a41bc0ded7236b897beb18b023714c91.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c78f58a2cd597b211649736898367dc6.unity3d

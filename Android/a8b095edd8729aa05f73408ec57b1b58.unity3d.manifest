@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2916573612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f39db60279ab6f212f85be354c709fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Texture/accessory/Hair_00_subAB_00.png
+Dependencies: []

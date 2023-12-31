@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1703520226
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60c157f70629bd76348908de425bbfd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Materials/environment_common_mudiaoqiao_001_02.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9710aa16d8dc9b5c06627ed593592af3.unity3d

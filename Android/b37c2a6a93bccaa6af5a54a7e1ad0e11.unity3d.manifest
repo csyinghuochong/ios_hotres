@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2195368984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f0ee7a8209a768aa0960b11a2d433b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/ThirdRes/GUI Pro Kit Fantasy RPG/Particles/Textures/fx_glow2.png
+Dependencies: []

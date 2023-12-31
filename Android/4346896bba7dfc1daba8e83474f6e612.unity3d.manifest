@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 100188151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1404e223743920479705f23e740d8ce3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cf0f4debf53e72cd715647c8f304bf8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Human Pack/Humans/Human Models/Animations/Human_Attack_01.fbx
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2497609674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da9913cf41246d6d6fe918a75ec7af26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_TomatoLeaf_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4e97c1f0203d06c64116b99c7e1642c2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5b5ce51b6e901376ce6f4c3be97e1663.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/822cbd9a9a68e53023063952f7c8d1b2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cea036e327489d214be9db18906524ad.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fc7bf74c0ad8cd52c7ba606f00b48c86.unity3d

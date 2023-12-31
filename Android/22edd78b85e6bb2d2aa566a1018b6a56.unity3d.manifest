@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3859445241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c557382b86ebf302a45f9d65be13d660
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Materials/Esthgraveyard_mul.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1bdd79623159b61700677532bac10425.unity3d

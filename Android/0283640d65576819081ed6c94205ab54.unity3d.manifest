@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2142591658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 064d9629b6ae0216f868109557e804b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ebac64479daed4cc03e1bcee586804
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Simple Dungeon Props - YP/Prefabs/Treasure/Treasure.003.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0b7ca612fe2834665aaff8819f332b81.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b62e3ad83a2cd76055e7feebdea3cbfa.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6f316118abb5d24d364cc2ebf803609.unity3d

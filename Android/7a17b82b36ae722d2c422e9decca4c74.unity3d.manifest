@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1604536762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed17cc45f39721b6237431e5b6f4d6fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Texture/Costume/Costume_01_00.png
+Dependencies: []

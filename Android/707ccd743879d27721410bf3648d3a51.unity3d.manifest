@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2900823884
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0caf8cd692889eff34fed055029a0311
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Prefabs/Ice wall/Icewall.png
+Dependencies: []

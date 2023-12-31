@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1834864424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4692467f8b384d5ba20b99105589ab66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
+  Ice Vol.1/Models/Materials/001.mat
+Dependencies: []

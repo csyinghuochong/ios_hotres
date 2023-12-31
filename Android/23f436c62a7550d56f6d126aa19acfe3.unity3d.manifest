@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2640008034
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30c1b7f58abed7fffad7bbacc2e0462e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Buff-Sphere-Blue2.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4338977716dcceedd7a17de3bfe3ad43.unity3d

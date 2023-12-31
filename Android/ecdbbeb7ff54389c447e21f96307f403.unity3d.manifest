@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1704626923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4eadfa2310a31e0108a6b3bd396751c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Button/Btn_123.png
+Dependencies: []

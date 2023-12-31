@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2218754086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e40c88e026c43de8e9760d1acc04a1ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Loop2-36.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/37156359e7aff6b6cf92d9f581290cb2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/71a63e242e5e0b94b3eb5fd8a838ac72.unity3d

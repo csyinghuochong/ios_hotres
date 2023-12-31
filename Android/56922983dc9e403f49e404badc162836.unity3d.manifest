@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1247287920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cb12f9d3831c13e0381aa1cbb78dbcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8fd004ffb52f60d92350f7438461cb46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e937b0d42fca0174db85a89fe55e2739, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e49acef51a4bfa640b08cc31ba00c2c6, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_JiaXue_1.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/02a95a256e3c04be919d32cfd845eeae.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d

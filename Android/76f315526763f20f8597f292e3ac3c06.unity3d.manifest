@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2070205529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ac87bd7d9a4b579c9a74b7fa4db8da6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6893d17f7a813c37f4f7b51abc5be221
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Models/Box_C2.FBX
+Dependencies: []

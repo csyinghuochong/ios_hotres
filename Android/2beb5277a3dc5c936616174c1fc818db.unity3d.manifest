@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 670084514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84a58e4f083206cce5b672706ed77c05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/LowPolyFantasyWizard/Animations/Wizard.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/eb46b618f54d9b0c697bdc0d23ed810d.unity3d

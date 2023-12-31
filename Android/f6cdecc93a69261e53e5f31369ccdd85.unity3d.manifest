@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 526350861
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 615d6dff21aae9746d66a15ea8c19c7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Water/Animations/Cute_Octopus/Cute_Octopus_Animations_Check.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0246f6ac9d7284527db5566cb079b0d2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/346ba823b49a8708d1f7b1cf25a358e5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/457ecdc44c01c90a3678feba4e12cb15.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/661c27f4da9be5dfde4339f60cc42649.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/acaf03cd430ed2ab2a819318d543e715.unity3d

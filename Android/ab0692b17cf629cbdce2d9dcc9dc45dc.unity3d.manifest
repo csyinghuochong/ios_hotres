@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1092433879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94f5eb70315b333350961e138a8f389a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/MonsterIcon/72003011.png
+- Assets/Bundles/Icon/MonsterIcon/70003006.png
+- Assets/Bundles/Icon/MonsterIcon/70001206.png
+- Assets/Bundles/Icon/MonsterIcon/70003012.png
+- Assets/Bundles/Icon/MonsterIcon/70006013.png
+- Assets/Bundles/Icon/MonsterIcon/70006012.png
+- Assets/Bundles/Icon/MonsterIcon/72001011.png
+- Assets/Bundles/Icon/MonsterIcon/72000101.png
+- Assets/Bundles/Icon/MonsterIcon/70002007.png
+- Assets/Bundles/Icon/MonsterIcon/72005011.png
+- Assets/Bundles/Icon/MonsterIcon/72001003.png
+- Assets/Bundles/Icon/MonsterIcon/70005003.png
+- Assets/Bundles/Icon/MonsterIcon/81000022.png
+- Assets/Bundles/Icon/MonsterIcon/70005004.png
+- Assets/Bundles/Icon/MonsterIcon/72000001.png
+- Assets/Bundles/Icon/MonsterIcon/70002005.png
+- Assets/Bundles/Icon/MonsterIcon/70004003.png
+- Assets/Bundles/Icon/MonsterIcon/72005013.png
+- Assets/Bundles/Icon/MonsterIcon/72002013.png
+- Assets/Bundles/Icon/MonsterIcon/72001013.png
+- Assets/Bundles/Icon/MonsterIcon/72009003.png
+- Assets/Bundles/Icon/MonsterIcon/70003016.png
+- Assets/Bundles/Icon/MonsterIcon/70002003.png
+- Assets/Bundles/Icon/MonsterIcon/70004013.png
+- Assets/Bundles/Icon/MonsterIcon/72005012.png
+- Assets/Bundles/Icon/MonsterIcon/81000021.png
+- Assets/Bundles/Icon/MonsterIcon/70001004.png
+- Assets/Bundles/Icon/MonsterIcon/70001011.png
+- Assets/Bundles/Icon/MonsterIcon/70002012.png
+- Assets/Bundles/Icon/MonsterIcon/70005012.png
+- Assets/Bundles/Icon/MonsterIcon/70006011.png
+- Assets/Bundles/Icon/MonsterIcon/70004006.png
+- Assets/Bundles/Icon/MonsterIcon/70003003.png
+- Assets/Bundles/Icon/MonsterIcon/72004013.png
+- Assets/Bundles/Icon/MonsterIcon/72004011.png
+- Assets/Bundles/Icon/MonsterIcon/72002012.png
+- Assets/Bundles/Icon/MonsterIcon/70004010.png
+- Assets/Bundles/Icon/MonsterIcon/72001012.png
+- Assets/Bundles/Icon/MonsterIcon/72003012.png
+- Assets/Bundles/Icon/MonsterIcon/72002011.png
+- Assets/Bundles/Icon/MonsterIcon/70001209.png
+- Assets/Bundles/Icon/MonsterIcon/72003013.png
+- Assets/Bundles/Icon/MonsterIcon/72009011.png
+- Assets/Bundles/Icon/MonsterIcon/72004012.png
+- Assets/Bundles/Icon/MonsterIcon/70001104.png
+- Assets/Bundles/Icon/MonsterIcon/70001006.png
+- Assets/Bundles/Icon/MonsterIcon/72009021.png
+- Assets/Bundles/Icon/MonsterIcon/70005013.png
+Dependencies: []

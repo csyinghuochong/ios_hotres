@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3235252963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af1502b8b238a4f308b83dcad672361f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Eff_Skill_StoneWall_01.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/299d6e4e5d415fbf6a246109c35a2c67.unity3d

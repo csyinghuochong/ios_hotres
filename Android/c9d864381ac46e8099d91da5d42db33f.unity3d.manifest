@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 405876061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 823f0ed7dddae8b77c55039105aa9b95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ba0c52346031a1553e1ec994640a143d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Player/Hero_copy_1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0458fc11ee74a17380284b0c46fbc14a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5231d2c9c63e2fce9aca92e9cb9e2577.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ca84aa87bf4f5ab6b8baea5940734e4.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7fc1c47d0a51f0056c94e321dcfc26b3.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/96df006e313af22ff15c199b389a9d97.unity3d

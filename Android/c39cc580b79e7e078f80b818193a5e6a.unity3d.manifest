@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3490945855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0443cb4aa270320884c6aae74f224377
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927992f938b2fd1472c3a014541d1669
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_GongJian_Skill_2.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/131ae6ecae2a556c883fe86a4efe4d8a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/42a119be970def7555537b8eba793abd.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/456fb660e266571308668e71351807cb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/658a21d8736e03cdf0ddef01f39608db.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/80a95e39e4a4196c8d4471ee36ef1333.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/858585759d7be3f8b0b73d71935e5bad.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/89fb3db92cf572a8f54d343bb7475ab2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8bc679ea33c12fe6409e476fd3ef680a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c11099921e61056691adf4487dcaf577.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c8b4cad050d285bb1d523dbf09135083.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d581e1e7154badd6efa628ff3bf08b5b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d799e34e11887e3838686726372af69f.unity3d

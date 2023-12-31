@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2241751357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef52981b5bbb994e11f68a5f55f64a5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4289b850c9f5b272ad465182145dd97e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_RoleUpLv.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0282becc4020f3e848c2a6a54350b51b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/157161f752f93b88b344a715575861f2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/246179c90b31c3eed558f380a3297a15.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/38fa2b2f73adf9c43e69240f0c6316e8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4cc41789d917eca801ff30560dd24d56.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6226bdd0749250e3f10d496855581424.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/99386a23ac927f10ef6e0bd5c789509d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9ab0785e2665dbb929ad7794105be925.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b0fb2186ba9ac04831ed77300bbf059b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b9e1b3866aee9549536bb9eb23bf7eb5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cf17271afd3f0d8c2b2cde53e1aa1afd.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/de6b8d2bd92c1a66bc70278f2c86c8fb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e7a7ab99ed4de1e1ae37e4b1f1f90d25.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ef86f9034d2a096eb784974f9b3cabc8.unity3d

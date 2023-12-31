@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4188094881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 581adfc6ec4d88bd008a56d8a619bb8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Materials/Geometric/circlecurve.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3046316a6f7816bf61f2703078601716.unity3d

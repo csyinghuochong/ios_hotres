@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1528128390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42d9401e43a0ade2184431eb3bdf546d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f0af9edeb2eedebfc9b44088062794b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Effect/SkillZhishi/Skill_Area_60.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/79deb227f583ad08ecc8ff4ce4bd5e09.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c061d644a2da2c3008ab26259434a3fe.unity3d

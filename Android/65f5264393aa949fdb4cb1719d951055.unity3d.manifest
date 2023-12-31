@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 866392050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59a1fab509687e2b0d62f0db43dd19cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/BattleDragon/Colosseum/Dust/ParticleSystems/Materials/ParticleDuststorm.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/769e52454fbb67d710388fc533cf209a.unity3d

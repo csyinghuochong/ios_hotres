@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2575401880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8672824f06d1f7f8a9b2a7c2da06666d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Sequence163_H.tga
+Dependencies: []

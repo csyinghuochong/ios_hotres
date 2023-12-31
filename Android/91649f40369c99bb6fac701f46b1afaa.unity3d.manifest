@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4291503195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 942cd452dbb0bbf273682a1c921554b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Sequence168.png
+Dependencies: []

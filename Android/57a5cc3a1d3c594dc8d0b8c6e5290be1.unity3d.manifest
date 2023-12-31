@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3975747021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4032db75e25cef39ee7b5871667ca9bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/CritterPack/AnimalModels/Materials/turtle_green.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/23b5f14dfd351df1b115ca8de0547897.unity3d

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3603971425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3ee1b0a1eaa599856d1d058d5927110
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cca730513d6d6a3d6334f4367da0bebd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1359aeb37551d8a49b82c3d932442b18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04a1754bcad980849929c345cbb8c9f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc4f070279f26fc4eab7a0aef8205a91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 078352b62bd7e2043b7c676b2b7f23a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39af0a37559f0c044a88a9f004ed556e, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_FireWall_9999.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/43946489ac5ad622b28773fe2cdec63f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f5e909960e4395e39dd4797b71f8e73.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a77ec3f64d1834fbd820381be15d4e6f.unity3d

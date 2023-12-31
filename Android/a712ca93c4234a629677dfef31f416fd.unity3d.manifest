@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 978302674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b0fddf10f00e0d53d66decf734b954d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Staircase2.jpg
+Dependencies: []

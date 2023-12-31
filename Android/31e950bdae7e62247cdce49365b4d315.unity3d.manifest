@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 135099041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e3e9f023139f654961660031fcc120b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b07e95eec8d55770ffce51414c7b0714
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_12.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/088817b5a0183a6a62071723bf03bd1f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0d7386619a70802c698100bd77118fbc.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8fe73f2c4a5d5a22b01b29f8029a304a.unity3d

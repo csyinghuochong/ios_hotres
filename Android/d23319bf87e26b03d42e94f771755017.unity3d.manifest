@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 418114133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 738dcd86cc23595f5b8ccd9c25c1b953
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fd6089ee756c89abace9cc27ff36415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/URN_03.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8c6f95fcaa09fcb58d78cc0d240f4772.unity3d

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3676067506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fa3a63e94f08d85f24de0fce94b67b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6b230e224cd4ed04e4a3b2d854bf37b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Prefabs/Face/Face_00 BlendShapes.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ad32c5c035064d8f6fc797244339b657.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b1e2e85ad1b6aa51f30a285373b0c8df.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce11661be4f9218e0f792634f7ac439b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ed5071eff6fbdb3026f7c6c5b8851ceb.unity3d

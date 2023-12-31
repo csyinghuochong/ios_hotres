@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1910748085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92273bd0de5507f0dbedc1744dcf0571
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_inn_roof.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/45e3d1935f47c5ef9c5432a7827e3014.unity3d

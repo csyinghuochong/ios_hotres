@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2995293420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6101feb6b6c323b18d99e93096769746
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Cute Zoo 2/Texture/T_TurtleA.png
+Dependencies: []

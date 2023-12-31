@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4112609128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efe98b71a5977a9429bd8f0a43059da6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Sunflower_01_Normal.png
+Dependencies: []

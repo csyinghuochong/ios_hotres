@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3893216683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 378b58495341f2f7e99aaca50e8e25b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/ESTHGRAVEYARD_ROCKS_04.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/70e0498b2a0da3a688322e78d1674efb.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6e95a85dc7a2771c53da4c6b8931918.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ee471350240857e2e3a69d5d1565ac9a.unity3d

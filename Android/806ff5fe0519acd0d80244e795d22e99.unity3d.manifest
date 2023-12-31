@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3599398851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d95dd852deba8cd385c0052fe9daa9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Building/Tent1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/01ea88d8beb0a9b24fb8c2cf815f69c9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/80d24460a55b8a1635034a70614641f2.unity3d

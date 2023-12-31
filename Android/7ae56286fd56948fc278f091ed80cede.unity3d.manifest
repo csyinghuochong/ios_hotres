@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1256892266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7eccebca78a77b8580c8d4f012bebc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/UI_duizhan_baoxiang/run.anim
+Dependencies: []

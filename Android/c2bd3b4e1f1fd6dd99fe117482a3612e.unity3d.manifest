@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4204422061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f490ef193b44be64bcec308e2bb48461
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91616ee0f4a9ff2ba0344d9437b15a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Animations/Fire Pig/Anim_@Move.fbx
+Dependencies: []

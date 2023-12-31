@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3472266300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80bc8726527a32bceb06faf0270ee261
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/Misc/treasure_ray.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8552b6ff659d596d0d9ac3bbc72ceada.unity3d

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4191638171
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a419f6b55ff19828aecd95e30da9f87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_WatermelonLeaf_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/178f9659ed624decc3278332e76eeb58.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/40315e338acff41c8e17fb1d273e3e88.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4e97c1f0203d06c64116b99c7e1642c2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5b5ce51b6e901376ce6f4c3be97e1663.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c7a589e1dea799c2a94aa2e21c5d7a37.unity3d

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 865755075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46a59e7555a9eef68b67bc33a3812b8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_Herbal_sprout.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2c3da8ba63bb8d9dc6d445982cd91421.unity3d

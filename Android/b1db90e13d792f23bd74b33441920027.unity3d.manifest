@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3534436527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9416b60aa718a131826d21f16e01223
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Materials/Esthgraveya_grass.002.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/39486820370bc4bd9d0c3376e735e9ad.unity3d

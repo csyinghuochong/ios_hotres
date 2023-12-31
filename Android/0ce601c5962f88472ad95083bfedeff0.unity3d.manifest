@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2888694242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0407dc17a06162eb203903f23e8bf6ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/sculp_010_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/dcf986094ee976b5ca7601b18e796b1c.unity3d

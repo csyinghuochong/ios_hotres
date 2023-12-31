@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3087819278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b9db5281888c38b04c1bbb5937c763c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Potato_01_MetallicSmoothness.png
+Dependencies: []

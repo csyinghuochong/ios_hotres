@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 876462293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 387a69a388cbbcfae8d650b92c05e970
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/B1/Effect/Animations/E3D-Ballistic-Blast-Blue1.anim
+Dependencies: []

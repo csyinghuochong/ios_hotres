@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2422711513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1e8170085fef2669dca528e6ba8e14b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/Animations_Cute_Animals/Squirrel/Anim_Squirrel_Rest.fbx
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2895021408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f91c725dec005f9a70a49496dacc7aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_306.png
+Dependencies: []

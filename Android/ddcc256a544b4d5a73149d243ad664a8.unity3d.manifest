@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2010587710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e37cc84d90c3bf823bb38ff12cc2bfc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BossAnimator/70006013.controller
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a21c758b70bf1e3ea3de74d70905c939.unity3d

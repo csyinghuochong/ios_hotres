@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4081846130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2a920f23215c6c49f27f26aefd439a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Common_Buff_dalong/nengliang.anim
+Dependencies: []

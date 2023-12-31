@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2936659922
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a0e4e19057cf5d995874d0c684e49fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/star.png
+Dependencies: []

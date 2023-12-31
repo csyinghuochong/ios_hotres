@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1384596240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65cc76623bb4f5caf991f17e0d3d8c81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/Slug/T_Slug_Normal.tga
+Dependencies: []

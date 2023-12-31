@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4159431501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b67463a5a2649e0c3ec769d3400c10d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/ThirdRes/GUI Pro Kit Fantasy RPG/Particles/Textures/fx_star2.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1715036999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6f8ac387bb4457c048e77b12445f5ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_BuLiao/Props_C_1.jpg
+Dependencies: []

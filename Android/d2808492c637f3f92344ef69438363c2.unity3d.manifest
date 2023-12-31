@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 356144168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca69de080306a028c5ecdb6665ecd6ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Cucumber_01_Normal.png
+Dependencies: []

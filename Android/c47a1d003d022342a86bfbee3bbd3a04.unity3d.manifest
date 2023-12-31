@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1507926481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da48c699c5f978221edfc3db1a45db99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_house.png
+Dependencies: []

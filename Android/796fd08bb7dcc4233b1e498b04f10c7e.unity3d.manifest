@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3310943493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 351b0e25fc0d494871c816c869980638
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/M_treebase.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1d889cf1681094542c50c3c538fd40e3.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/65531aa4f1f9b2f45de5a6a813c50255.unity3d

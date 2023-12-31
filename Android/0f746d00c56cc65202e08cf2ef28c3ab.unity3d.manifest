@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1381916014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 873a1d1091f79dcf2f68b80a60d0dcbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Occ/zhanshi/tga/zhanshi_meimao.tga
+Dependencies: []

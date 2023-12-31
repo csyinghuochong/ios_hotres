@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 220667654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5064293d36c283f9991c21bc3220dd2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/TeruTeru/Animation/Teruteru.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/132df6e393f51790ec90814006677a40.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9e31d3149bfd768a98f24867fb5e6a38.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a0f9f6c659f969ed979b6e41e7d610da.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a9652b4f6594110f9284f9becccebd1f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ca0a0d54e0cf339f7915c0344ffacd4b.unity3d

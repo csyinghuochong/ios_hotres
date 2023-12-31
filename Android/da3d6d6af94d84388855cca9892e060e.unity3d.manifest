@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3351445185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6b27248368dff76821d8dbd78e72c93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/Runes.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/372e06a854af05dbf2052837588ab6aa.unity3d

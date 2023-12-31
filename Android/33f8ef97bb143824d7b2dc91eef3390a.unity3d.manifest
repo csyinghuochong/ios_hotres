@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 44464045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90b31aeaecb24777a98e320c6f97f0b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Dragon/Textures/FX-FireBreath.tga
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2637885899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1366de05775782974b4ecdd61dae00d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/modelBox.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8a3712f7093d91cf3b742f71508582de.unity3d

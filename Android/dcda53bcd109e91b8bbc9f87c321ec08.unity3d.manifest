@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1088434373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c3a49739bca5fe8c57b621488eff120
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_Sunflower_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/14b7991e725775ae256bd66b004b7506.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/30c1e7311f0cdaa2682a6d38a4ef5a8f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/99c62df926b4cd749c18764a06b2e5be.unity3d

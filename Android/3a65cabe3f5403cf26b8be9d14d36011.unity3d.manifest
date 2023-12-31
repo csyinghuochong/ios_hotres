@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 837713469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 717ab2434f0a605b4ddabd787adf90e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Warrior/Role_FaShiOld.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/137344cba5f9f1ae3eb02713c859d803.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/30c32fdb45f3d4c326ad7682e48cfa01.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3cb411ac4add3c68e46a8fe06df513c6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cf22228312f4d56fe77f71b54227a011.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d4fde9fd8c9b04b043d3168280d46a2c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/de1cb27617903d1d2a6fa6014bec70b2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e4fc831fe65642cadd94202e644a3970.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9f553612cc9013b173e2abd98b6add6.unity3d

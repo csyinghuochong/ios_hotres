@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2278232860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79681ce1531a69092d99406a247ad70d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/PREFABS/Nature/SM_tree_01.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/796fd08bb7dcc4233b1e498b04f10c7e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fce9582443a7bde6098730e604e4fee7.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fd7474d79222f472724e90b810914b05.unity3d

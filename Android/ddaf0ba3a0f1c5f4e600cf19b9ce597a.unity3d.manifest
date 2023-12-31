@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1113333793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2827b01e4de2744e74f9f1f2e5f14804
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fd6089ee756c89abace9cc27ff36415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/modelRock08.fbx
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/46758cd191b6c41c420a3456719152b3.unity3d

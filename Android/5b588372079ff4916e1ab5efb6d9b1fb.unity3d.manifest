@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 774803984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96e08be598d8606fd909e4efddf36a35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/NPC_AnDi/NPC_TOWN_MALE_02.png
+Dependencies: []

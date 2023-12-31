@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4138690182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7bb6da58835a16d8a93aa12bde86695
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9df39041634ef16e17ea13cbd63cc7db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Pet/1009301.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1c558245fc215f1bf6b3efe1052a95c2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/33bf2a1214a550f168ee3075fb96ee4b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f55f9c1d9f6fb2659c1cac299d6ed3f5.unity3d

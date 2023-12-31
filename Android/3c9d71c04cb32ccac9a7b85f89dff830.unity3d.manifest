@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3072283075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f19be6108f8d45bbfd595574fa45a2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ebac64479daed4cc03e1bcee586804
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/PREFABS/Props/SM_waterwell.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2671e49a7be4a57f37d458015dc34fff.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/597d16871a3c16b6fc7c0cf8d1566d44.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/75bf2352b70a41861b3a954d084c7037.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ef87a9e91fc0054541b4c13dc361436.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a5a43af2fda07482a503d263844500c3.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b5f6c86b76b265be1d69bb643d341c98.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ebee8a5bf2d682a86521eb4726452ccb.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 813931084
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98cbb5593b84465db8362782570d3f3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Direction137.png
+Dependencies: []

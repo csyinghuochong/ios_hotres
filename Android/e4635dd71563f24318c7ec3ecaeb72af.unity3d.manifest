@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2252270757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50a1fb51d27788a97093ed65c1cfed8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_146.png
+Dependencies: []

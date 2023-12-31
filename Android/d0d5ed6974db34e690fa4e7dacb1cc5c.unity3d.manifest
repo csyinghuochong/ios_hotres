@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1648107407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68a5bf82b1138f358f8723fb83a80da8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/met/Quzak_spark_001.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2fe4ac1c4fc17297a5b23aeda9866191.unity3d

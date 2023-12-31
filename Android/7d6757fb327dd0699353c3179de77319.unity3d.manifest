@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1740702187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8871a6ac70a8ad6591cd6eb2e3d6265b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Vein/E3D-Vein29-bh.png
+Dependencies: []

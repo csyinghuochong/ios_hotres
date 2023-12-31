@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 4012303092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5da64db27ea361387bcdad4577d6d380
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/ItemQualityIcon/ItemQuality_2.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDi_2.png
+- Assets/Bundles/Icon/ItemQualityIcon/ItemQuality_5.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDi_3.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDiline_5.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDi_4.png
+- Assets/Bundles/Icon/ItemQualityIcon/Link_3.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDi_6.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDi_1.png
+- Assets/Bundles/Icon/ItemQualityIcon/ItemQuality_4.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDi_5.png
+- Assets/Bundles/Icon/ItemQualityIcon/Link_2.png
+- Assets/Bundles/Icon/ItemQualityIcon/Link_4.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDiline_3.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDiline_2.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDiline_1.png
+- Assets/Bundles/Icon/ItemQualityIcon/ItemQuality_1.png
+- Assets/Bundles/Icon/ItemQualityIcon/ItemQuality_3.png
+- Assets/Bundles/Icon/ItemQualityIcon/QuaDiline_4.png
+Dependencies: []

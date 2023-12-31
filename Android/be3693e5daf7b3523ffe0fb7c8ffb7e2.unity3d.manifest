@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1358957144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 916d40d0a0c6688023547597f6849b5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_spell_roof.png
+Dependencies: []

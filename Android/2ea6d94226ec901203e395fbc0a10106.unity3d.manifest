@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 876799882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a37fba3ccda35a5ad2331bd5fa8b9a8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Cabbage_01_Normal.png
+Dependencies: []

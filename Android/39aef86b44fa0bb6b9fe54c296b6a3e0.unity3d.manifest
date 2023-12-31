@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1098893996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78f80489283f4ff140a548fb860370a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleFaShi/fentiModel/texture/FaceSkin_00_00.mat
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d91af2d3b6719ce536948e05134aa24f.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4043000419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9afa6277da919537c421adbfe7f8387
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Loop2/E3D-Loop2-51.png
+Dependencies: []

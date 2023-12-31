@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1395500334
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 122b67976993fb2dc49291e8c7c9ab31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Text/RandName_Name.txt
+Dependencies: []

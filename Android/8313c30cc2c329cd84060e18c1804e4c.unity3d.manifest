@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4021532635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 937b52a8878a9ed6ab9d1d1202d04cc6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/KuangDong/LaoShu_1.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/896d940126f687fb2167adb5846a0879.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1867015633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab9c70719184f72ab53810fd22a644a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Materials/shrubs_01_mat.002.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8ea20192135965e7ac872ed842d9531b.unity3d

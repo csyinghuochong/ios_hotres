@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2006025715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c92aaa4da49b374d7a1895c247be7a9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Pro/Pro_14.png
+Dependencies: []

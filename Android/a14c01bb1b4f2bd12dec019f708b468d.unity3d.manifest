@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2267059569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf499c08917071fa16be74fe62c46f00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/Zone01_grass_tund.002.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e3c1b19ccf84a82109da11c257db026d.unity3d

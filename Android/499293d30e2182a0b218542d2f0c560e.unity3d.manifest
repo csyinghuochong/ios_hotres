@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1365152827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec6c0b952d5115a76ebe09edc55af54f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/PlayerIcon/3.png
+- Assets/Bundles/Icon/PlayerIcon/1.png
+- Assets/Bundles/Icon/PlayerIcon/2.png
+Dependencies: []

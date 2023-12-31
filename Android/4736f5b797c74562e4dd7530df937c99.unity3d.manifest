@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2996983700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0518a3781882c6c6558fba731ccc5fd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927992f938b2fd1472c3a014541d1669
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/UIEffect/Effect_GetTask.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6a5a623ab9fede55b530482ae788e73.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f5899c3fa18c6866cc9b0b1f47a30b61.unity3d

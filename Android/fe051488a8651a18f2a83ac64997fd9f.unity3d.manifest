@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3892046143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fbe8b35242b8d99d8c2b154049cfd46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Sequence164-2.png
+Dependencies: []

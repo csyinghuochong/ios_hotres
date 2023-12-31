@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1720823656
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5814146871826c02fe30346d202c20ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3D Items - Mega Pack/origin/Textures/bow4a.jpg
+Dependencies: []

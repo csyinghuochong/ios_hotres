@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3312071420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8807f9fadc1de0bc483948c0ae2c84f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Material/Bom.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/32ec9e8e86481db3c9867d7eb1eb0d5c.unity3d

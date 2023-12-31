@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1040485317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a98873b71fcd5a8cc0bf259e737d60fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/UnityChanShader/Texture/FO_CLOTH1.tga
+Dependencies: []

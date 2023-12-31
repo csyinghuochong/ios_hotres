@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1289094699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4b7aa1d53bdae83a07c7dbfe6ff5494
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Model-E3D/Materials/1efc_ring18.mat
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1941579415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d20411bb2a0618684cbe3bbea474121
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectResources/Effects/ModleEffects_Ain/E3D-Skill-Spread-Green-Flower.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/52ec8d779692d3ddb9211ad4cf52cf2b.unity3d

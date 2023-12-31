@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3858386773
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f24aad8df55f87984747c94564548573
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Meshes/BearMinions/BearMinion.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/999449c9bedd9dbf76f06f481731962e.unity3d

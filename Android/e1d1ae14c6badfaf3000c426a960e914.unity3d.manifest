@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3839746546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e67d0b52be019b3fdd30dd6122559d94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Effect_Fire.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bd14cb481f2810faf42b0b2fd115bfe0.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3891827478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 320d47871f2e77c93a5d1c9a7e300ec2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Textures/Mask45.png
+Dependencies: []

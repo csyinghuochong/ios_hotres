@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1152310677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c00ea05e894aa0a7ce91377dfb1154bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b07e95eec8d55770ffce51414c7b0714
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_ZhanShi_BaseActJian_3.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/349e5eec9c164857d9b4a76e6aa1c100.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/49bc233d2bf3bcb0e27f0697b9ce8dd9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5570d03a7991d61cc4e92e3efd0cbd5c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6d6093783b94326a15e2e7cf0d257197.unity3d

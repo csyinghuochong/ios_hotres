@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3498882209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab9f2517ceef6321340b3c972855ec5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3D Items - Mega Pack/Set_Items1/origin/Materials/s2_2d.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/134ea2b03b70fdc00495691d035c1693.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d

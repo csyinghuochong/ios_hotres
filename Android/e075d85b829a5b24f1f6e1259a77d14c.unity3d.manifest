@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2100377351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de5d04440bf790c8b3e2714406e7d80d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Texture/Materials/Rock1.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2b0f1d5bd4f85d56188089234cb4a3b5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a5e2cc540ca9e431f9644f32a6d6c9f2.unity3d

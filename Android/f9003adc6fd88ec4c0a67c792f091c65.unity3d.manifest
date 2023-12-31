@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3257328344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5db4c1b6674dc189b5297d6e2f1ffa5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c4511d6cd88becaa016c5ed41865fe3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Login.unity
+Dependencies: []

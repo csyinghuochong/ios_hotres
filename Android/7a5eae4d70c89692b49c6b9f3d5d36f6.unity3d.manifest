@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 150703236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59dd5197f71a27878c13275457b9c3a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09cd7455ca261e4d8c99dd891d671071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_8.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0b9b83d8e73e4cb201e68f92d5bee91a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0bb829f8e120e501ab29d0fb734cae45.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/118b87192ef463a88cdba2f642f04a96.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/46b3cbfc6ec5c212cd6935118209884d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/559377e064cbf7db78e478d4caa611b6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddd31433d506cd0c8bca29ef7e0145c7.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddf536ac0fb346ee817f20fa9437df1c.unity3d

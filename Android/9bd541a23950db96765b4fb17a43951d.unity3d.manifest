@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2527823801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbdb2da78882a09e215f3820fdead1f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/questmarker_blue.png
+Dependencies: []

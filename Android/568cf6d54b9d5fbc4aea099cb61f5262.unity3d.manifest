@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3510484863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4da1044cb300053d918df9a1bd7de3c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Materials-E3D/E3D-Vein12.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cf458b252bc23fea5eed9dd821d25bd4.unity3d

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4226743004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bc3618745c32ea86d3bc270fa75a4ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91616ee0f4a9ff2ba0344d9437b15a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/CuteMushrooms/Animations/Anim@Damage.fbx
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1271592552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4aece880ce79f2dbd26c44e2b35d5cd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_armor.png
+Dependencies: []

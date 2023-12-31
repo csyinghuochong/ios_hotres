@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1861894563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 868745b9a9c10826964d4a6fbd5cb0c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/ForestSpirit/T_ForestSpirit_Head_Normal.tga
+Dependencies: []

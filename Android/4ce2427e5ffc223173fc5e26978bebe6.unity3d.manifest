@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3890132648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32d393e8eada3a40dcc6364d05f20244
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/VFX_Klaus/Textures/Tex_fx_splash_set.tga
+Dependencies: []

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2779353396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20a4a81f8d9096b1e082df9e4a37f495
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4015646bf4d45a8359fadc3899a7bae5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_Fireball_9.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/32ae72b2d3b3ab2b1ec7d5a5db78593a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/42a119be970def7555537b8eba793abd.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/456fb660e266571308668e71351807cb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/80a95e39e4a4196c8d4471ee36ef1333.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/858585759d7be3f8b0b73d71935e5bad.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/89fb3db92cf572a8f54d343bb7475ab2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9ea97a6a41cbb04757aa2bd74003c5b7.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c11099921e61056691adf4487dcaf577.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c8b4cad050d285bb1d523dbf09135083.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d581e1e7154badd6efa628ff3bf08b5b.unity3d

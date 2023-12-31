@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2787869034
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96325d3f4ad6d0c85c0936957b3d8e08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/environment_common_guaqi_001_02.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7cf7dac271026a926ebee0bf34a3b024.unity3d

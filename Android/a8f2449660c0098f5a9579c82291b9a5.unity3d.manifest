@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2416447599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6c351dbc925046644eedf2c41f15c4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Psd/yewai_dixing_01.psd
+Dependencies: []

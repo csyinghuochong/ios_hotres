@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3698124172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49eceea317ee5f63cbda933c2656fbe5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Direction151.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8b3c990f9498cb3bc196217e19fd83ae.unity3d

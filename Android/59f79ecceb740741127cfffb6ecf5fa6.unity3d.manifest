@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 891110326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bc1fc0eca35f3a5aec8793497900ef0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Animation Controller/LS/LS Emotion 1.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2f5edf59932cac2a5d34afa89d230972.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ffa542384dfc7e62dd4fefeb8cf87c6c.unity3d

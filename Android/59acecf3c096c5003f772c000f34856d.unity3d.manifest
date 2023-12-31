@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 214043069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a924de22990412a5cef48bd7aafbad2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_weilan_001_a.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9e35f40123f8a057e57a7ae00bace80c.unity3d

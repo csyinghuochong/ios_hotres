@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1233893308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 883cf4a9d12d25873f24c4a9f5df9e1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e048b4fb955bc04d5fd9104ecb9b848e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/JingLing/10009.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/57d66d7405d7250038ab0498a0267d32.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c99dfd284a52689b0b80553cde3fdd95.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9f0e8e84ca1ccdc45ad83631c60a056.unity3d

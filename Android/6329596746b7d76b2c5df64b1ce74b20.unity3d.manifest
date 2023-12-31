@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 453665917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 507b271a3f7efa58090bb572e99ea030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A_1.jpg
+Dependencies: []

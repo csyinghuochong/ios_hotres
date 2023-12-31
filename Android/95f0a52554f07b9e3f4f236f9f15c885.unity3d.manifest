@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1172120314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f99b4d746b43ce3fa34f84da1e55fbde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c4e76beefa2994022e73b340b5d8010
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7bf2b5d07837e844b57b2738e95ce73, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_ShanDianLian_1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/62a1416c273032fa41f1176e3a38b370.unity3d

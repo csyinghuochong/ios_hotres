@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3110323547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f26a25d429daf9138773c29f8447990
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/Scence/Modle/FB_4/Model/FB4_yuantai03.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/71e7065fe9f23e2556f6c1400d14f858.unity3d

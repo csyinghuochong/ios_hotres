@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 22638272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6d3fe14470aa81942d9b35f41972762
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Sequence132.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2395509708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 854c8f8b0f45d4c2c9c7ebcb7fc79da0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f0252db3c7fb55fc46c0286ed37380d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3D Items - Mega Pack/Set_Items1/origin/Models/Set2_2.fbx
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/db0dcb0bae7bc31edb96e8c433cb5cc8.unity3d

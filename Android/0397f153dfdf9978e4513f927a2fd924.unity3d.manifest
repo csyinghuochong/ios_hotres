@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1292224903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6942984ee12cacf38338fa5c319d1bfc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_glow_00180_0001_C.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1701901744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 365dcf5dc1fac4b5844e9724c12d669d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Human Pack/Humans/Human Models/Materials/human_Albedo.png
+Dependencies: []

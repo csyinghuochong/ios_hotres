@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1950298403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc5821d8d45c4eb281c8ace9b5ea2b72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/caOut_groundSand_14_diff.png
+Dependencies: []

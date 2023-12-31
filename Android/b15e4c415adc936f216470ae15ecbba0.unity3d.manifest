@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3525457142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 032cea2deb0de76f055a8e050e14f103
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Materials-E3D/E3D-Ring51-2.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a97fe964823cd3d22ddb3bf9e9233e95.unity3d

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1538181671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7b2556315fbeed3f75161819405b90d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: afca19c22f3a1c0863082a46c865f040
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e937b0d42fca0174db85a89fe55e2739, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Scenes_FX/Common_FB0_shuiwen.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5bd50368ba29cf4fa1c8e67a67eda34e.unity3d

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2237986660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a0f7eddcbf74633014d6dc557f00cda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/BROADLEAF_01.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cfc4145fd29591e3e9a0b2816bdc0c05.unity3d

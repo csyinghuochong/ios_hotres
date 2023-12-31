@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1354239313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 128d38067f50fb8c364c2784b11bb53f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/Texture/BANDIT_PROPS.png
+Dependencies: []

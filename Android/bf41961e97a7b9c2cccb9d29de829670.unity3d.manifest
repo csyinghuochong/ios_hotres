@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4142495358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6a3cd8a90e0224a126e8f4bc66a8ca6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b07e95eec8d55770ffce51414c7b0714
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_ShouLie.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0afd4435ea5759b54307de7b12dda8b6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/21d61cbda988007716a4826d04a2454d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/43946489ac5ad622b28773fe2cdec63f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/61bd4638374cb5beb1ae3f267508a631.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7c2c0f071148a74b00b76a855a43e95d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a77ec3f64d1834fbd820381be15d4e6f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fd2c3da38db74020665a52bb4699ac80.unity3d

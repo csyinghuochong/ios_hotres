@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4145500852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 793c029fd0645bf70fc28bef771c83e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_Onion_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/35b2628d68fa4cb0d2b36139864c527a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/57b9458a3f50ce2e62c588294380c1d8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c252e4b7356cdd65e349e3b7c9105d56.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3388202532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e361566304ba367ef763e718719b66b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Vermilion-BuiltIn/Textures/Pillar_A_MaskMap.tga
+Dependencies: []

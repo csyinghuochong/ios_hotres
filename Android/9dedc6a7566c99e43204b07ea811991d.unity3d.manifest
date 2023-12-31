@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2240328443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8048a9edbc43043c5c70896e8baf6cdb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/Old/FBX/UseModel/Materials/Standard_20.mat
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2423367197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c64796482f9b3c7352383f42bc049660
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Vermilion-BuiltIn/Textures/Pillar_A_Normal.tga
+Dependencies: []

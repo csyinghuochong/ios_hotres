@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2833732766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1a5d0ff93c57eb85ed5fd2a7aef4ebd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Materials-E3D/E3D-Direction355-bh.mat
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9d59d5cf8844bcbbc9c38046d3c699fc.unity3d

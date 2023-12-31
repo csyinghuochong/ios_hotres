@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1319056735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 840644e8b93f471a76f64e91390cce98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Hit_Ice.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/32f3b2498c36be7587fa6169cac633ae.unity3d

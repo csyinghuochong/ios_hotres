@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1468856309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5014810912b70512f7f34f6a45fbcecf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Texture/STONE_04.png
+Dependencies: []

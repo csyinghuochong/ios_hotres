@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3614518219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e766fcb7a5fe06d5341363f31d28bf76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/mage_act.mp3
+Dependencies: []

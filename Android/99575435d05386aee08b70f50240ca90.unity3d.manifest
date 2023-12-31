@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 121119352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a3203de54073cae99b9c18e34314d97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f25b83e67f06eb15b14d04447d2fa9f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundles/UI/CellDungeon/UICellDungeonCellItem.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3348d778abc06d222a53fa68b3a85731.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/35f4fc684c705f8344e6bed441f9fa63.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8cc7d1a1c8acafbb4b52d92a67e790a9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9a9d644f94b9115963abb1a561f3f8e6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/be5ac324b384a9dc304a33b48272b2d0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/dd75dd98edaee765f85d40778a638096.unity3d

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3154590779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ed17d89fbcc54c8d3c4efb314fe58e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/Prefab/building_Accessories_lv4.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/399f09fb4acdd8c7927a40915d54b671.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/471925b7aaefccb0168c04e0ce17b7e2.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5d3696bf5b7a2f4a7231f273d88b556f.unity3d

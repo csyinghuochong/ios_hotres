@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2898891748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48ba6c3e732c4fbbbe3192e7433776e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Materials/Mobile/BearMinions/M_BearMinion_Weapons_Purple.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1d9aa91d16a115145abc076d89e44681.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6380d3d0512f7d5347f001595cec1465.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9b76daa00761993840697d8819ad84dd.unity3d

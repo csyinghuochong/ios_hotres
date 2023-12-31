@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1205017738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 788fa6911bbe80f7f26b0db90ef55568
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/M_woodenkit_02.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/277157a2725d111e0e154557d1fd858a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9648681f88c32a15d5632d18d8262a71.unity3d

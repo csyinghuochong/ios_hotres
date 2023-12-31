@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1184067662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65b33a8fc1dfacfe99798a6c07614145
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Toon_RTS/Elves/animation/Cavalry_Archer/ELF_cavalry_archer_03_run.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5affec7cc60669c0bee84783759237e8.unity3d

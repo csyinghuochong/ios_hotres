@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 967055432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7aa468db5140eb1fa6a59f69f299058e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/MonstersFlower/Texture/MonstersFlower/MonsterflowerC2.png
+Dependencies: []

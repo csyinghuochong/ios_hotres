@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 583393518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe6bfa6b4927303a563873dda791a224
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/WuQi/Effects/Material/Slash03.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cc2f9af1c8c7093386ef67e07831a5a3.unity3d

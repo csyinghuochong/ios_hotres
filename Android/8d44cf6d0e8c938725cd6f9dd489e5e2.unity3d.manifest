@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 456515774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34917a79b6d66a8ee0f0bdd2f198234d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c232596dc2e85dca1dcea687ba0eca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundles/UI/Main/Camp/UICampStrengthItem.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/21f8f91ec896036f9521b37150ba8823.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/368b42540a165a44a5865aafa221da41.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4340ea9a031f7a0a8d577262c31ba2aa.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/803297a374d8a383fee39c2c4d9fbd87.unity3d

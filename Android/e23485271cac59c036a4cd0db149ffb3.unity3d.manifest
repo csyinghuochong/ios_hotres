@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3981445551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1313709321c83ec631538b962d63e4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/TerrainTieTuSet/Textures/Stone/Stone5.tga
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4181754411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68b659d0f662c656d7c2c363920d778c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/TerrainTexture/Materials/Haishui.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/65bb312ce5fbef9847e912b676c908f8.unity3d

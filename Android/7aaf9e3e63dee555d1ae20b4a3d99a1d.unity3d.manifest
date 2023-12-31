@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2176261538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16f37afa76f37f11017d0460f81234b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/ImageBig/Img_1.png
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2168767725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b3185843c4955aaa049fbeadaaf57b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Animations/Gazer/Gazer_Animations_Check.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/026fb250593f203458f59fae0adf06a5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1821f8aa624efd8e8ae00e1a0da12cc6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/531683cd40dcdd11d8f9ae382d0a4e2f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b8823c0345bee2159423bb44384fe125.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e34a1e5791295f5c03b7a87bcf90ccc0.unity3d

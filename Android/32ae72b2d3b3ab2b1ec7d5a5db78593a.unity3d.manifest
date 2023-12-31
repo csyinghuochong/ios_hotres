@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4175732926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2d5766ed4772d3871ccfa89b67c88e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/UniqueProjectiles_Additive_8x8.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/23ddf89aeb7a260d39510a157df87a13.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/613311d53ab353c42b0d25e3b695cd1e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a5136d288de244948ea0a4bf8f918be4.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b4e299d431ffbd7cfd18dca26ff990bb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddb5a7d28c3dee34b832a6f0087d5d79.unity3d

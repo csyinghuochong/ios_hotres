@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 917243040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6554abf9943df64c4502a438bb9a5258
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Textures/Cute Phoenix/T_Cute_Butterfly_N.png
+Dependencies: []

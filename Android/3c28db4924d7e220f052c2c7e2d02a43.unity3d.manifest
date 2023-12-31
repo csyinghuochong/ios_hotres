@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3024327814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2b1f853c4a445ec3f03957673916f80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Circle02_Add.png
+Dependencies: []

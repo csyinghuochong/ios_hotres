@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2450331723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71bd86b788ff0c8c63b5ae055a6f2d84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f9b3aebd354f5ac613a8e412f8b4ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Unit/ZuoQi/10001.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/027a329febb58d60e1079e50019dac7d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/13df73091e57b9d5e69048bc2c669fcd.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/26b9e9c2fefb1e42bebeaeec82463c46.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d

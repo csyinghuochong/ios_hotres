@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 531051101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57ac25533c6b9b29555f06ec6a4db19e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Shion/Models/Textures/HairHighLight.png
+Dependencies: []

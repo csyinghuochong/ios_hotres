@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3167216846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d00132100d5fb37476cd60119c3204ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX_wuti_yanshi_001.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/21ab770f5291b1281b2450c411d78b68.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8c83b2e06a6bab7444f17aee4490465e.unity3d

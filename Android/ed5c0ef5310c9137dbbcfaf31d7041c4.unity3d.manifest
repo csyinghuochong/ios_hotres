@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3477717071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4306974e9d778006547fbedc4493f225
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Cloud/Cloud.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/61a24c6aebea08115f1dcdcd3720cd6b.unity3d

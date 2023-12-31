@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3422187821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4fdd73d7ce1281abafcd3b4a80c0c76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Toon_RTS/Elves/animation/Infantry/ELF_infantry_08_attack_B.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ed25edb14faa9503a8aa7e2a9c71c8c3.unity3d

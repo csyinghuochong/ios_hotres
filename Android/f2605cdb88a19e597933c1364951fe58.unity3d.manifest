@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 627998885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 651bd1a40a12b8697daa95b402273e4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/texture/stsm_build_001.tga
+Dependencies: []

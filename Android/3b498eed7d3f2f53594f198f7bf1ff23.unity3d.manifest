@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 172510810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ea70963671368042d55a0df19029e9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_289.png
+Dependencies: []

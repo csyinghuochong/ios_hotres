@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3859532051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ed194af6c19fa475445d1286467feb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Monsters Ultimate Pack 02 Cute Series/Dragon Inferno Cute
+  Series/Textures/Dragon Inferno2.png
+Dependencies: []

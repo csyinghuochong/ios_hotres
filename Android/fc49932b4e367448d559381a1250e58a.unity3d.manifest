@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2393746177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ee2738a7cb2b8a39bdb85065c7ba43f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/SkillEditor/E3D-Strong-Distort-Spread-Blue.anim
+Dependencies: []

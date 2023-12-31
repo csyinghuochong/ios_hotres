@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2332599390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e64ff8a6291159c66149aa1e51986916
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Materials/Glow_1.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9fd1102b83f135cee3f81e4b023085b2.unity3d

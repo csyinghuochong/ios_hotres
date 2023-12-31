@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3794845118
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21f8555f019bd769d604678c37b782b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Rainbow/Rainbow.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/378a5a565cbe8b74a2c6f87eae6d4bfb.unity3d

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2628449769
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f50ebed3719e14861b75847b3505f193
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/M_flowerpots.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0c6be3e4ef3c755a8510a6a5f4d48675.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6050b7307d2f80c20efae2672ae02ea7.unity3d

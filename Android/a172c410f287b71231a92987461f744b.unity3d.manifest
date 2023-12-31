@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2218706293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43994cc3ba7225d60dfc4a6c0198fade
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_etc01.png
+Dependencies: []

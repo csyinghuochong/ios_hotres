@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 864511355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 475017052e7bed7292f340ad73a4e476
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bba49157d0bc6134d35f05a6296f4e1a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_ShiDu_1.prefab
+Dependencies: []

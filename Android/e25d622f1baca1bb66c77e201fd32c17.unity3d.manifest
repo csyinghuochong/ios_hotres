@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2962265805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a818d77a4c97fd5664aa43cfad1c210
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_379.png
+Dependencies: []

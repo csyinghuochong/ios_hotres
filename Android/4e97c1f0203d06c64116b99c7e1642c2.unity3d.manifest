@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1548557138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bea5d6c5d5fb56a4f479e7fea46d4931
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_RedBeet_01_MetallicSmoothness.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4270677696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 865776ebd8fab0b98196bb02c032a3d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2b4acb50f128e667416455a493f3dbf5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: af276926b0db1c248a93ab3c1134a6c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03118221f4bfcd74ba0ad8075da02411, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Prefabs/Accessory/Accessory_00.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/561b9f64200930d32a3821b933108c87.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f51ad62312eb5828cf277facf30f0033.unity3d

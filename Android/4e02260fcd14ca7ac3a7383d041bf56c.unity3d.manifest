@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3080775056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5236f942a05fc2a7163e0c7ceef9f02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927992f938b2fd1472c3a014541d1669
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Scenece/DoorWay.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6986f903b6ea7598709408e3fd1b697a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9c407be29bfd9eac05ae4c82d6c78370.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b3a538d976c04dd1f2c115f43b715f9e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e4f7fdf7057fb2a49274a7b48d475fcd.unity3d

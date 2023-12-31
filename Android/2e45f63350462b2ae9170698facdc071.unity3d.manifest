@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2879920959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c94100ccfc3c4cbced9fed80384d849
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Button/Btn_4.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3010924548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dd39b24bb645da936750ae82e484c1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87d8350b46029255406d612579664277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Shine/Shine.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d3de9dbc8882d56d235603cceef9edec.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d65bd7e708aee1b7b75162b41bc86cd8.unity3d

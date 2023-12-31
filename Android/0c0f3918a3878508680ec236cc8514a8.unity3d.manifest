@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4283298806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3deea9d41bc2451ab028e77d106f894d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX_path_00434.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bf96156b5b2e4a44a0b8957c98724505.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c2c4e745251523dcbcccd0898e684c9d.unity3d

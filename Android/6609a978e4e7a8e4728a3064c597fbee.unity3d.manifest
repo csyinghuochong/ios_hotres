@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2385534032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69b8b1aaafd0e00122ebb4afbfdef467
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Texture/Eye/eyeball_eyelight_TextureGuide.png
+Dependencies: []

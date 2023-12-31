@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2490968433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac905905f74771211b8a71184876c93e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ebac64479daed4cc03e1bcee586804
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Box_C2.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/76f315526763f20f8597f292e3ac3c06.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d0159560637af1cd3961291909551208.unity3d

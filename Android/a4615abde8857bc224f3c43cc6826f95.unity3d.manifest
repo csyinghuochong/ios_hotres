@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2935074392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e88a6db736acfa9da40a7756635c82a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f0252db3c7fb55fc46c0286ed37380d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/2/Hero_pifu1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/39aef86b44fa0bb6b9fe54c296b6a3e0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d3f395e1c582b7bf2a2a4240a34b1521.unity3d

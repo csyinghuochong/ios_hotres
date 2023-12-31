@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2973721634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14a7ac457a892f5c0aa851c398ec215f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Spell-Vertical-Orange2.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0657c8bebee534a0a2408ebbde83abc1.unity3d

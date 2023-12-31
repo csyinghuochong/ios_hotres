@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3765659103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5ee925f0147fc5601d8578b6525b1cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Models/Parts/Accessory_00.fbx
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1ed854f439188c10f4f4c125f5a4fec7.unity3d

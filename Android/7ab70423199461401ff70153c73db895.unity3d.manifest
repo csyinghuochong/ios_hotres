@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 812889794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 325070deaa61306082e1b80e321bdc67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91616ee0f4a9ff2ba0344d9437b15a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Water/Animations/Cute_Starfish/Anim_Statfish@Attack.fbx
+Dependencies: []

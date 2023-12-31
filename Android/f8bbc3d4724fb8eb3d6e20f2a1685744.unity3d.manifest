@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4110961105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c82fd8e4646130e9a35425806a04bcef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/SkillEditor/E3D-Strong-Distort-Spread-Blue.controller
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/fc49932b4e367448d559381a1250e58a.unity3d

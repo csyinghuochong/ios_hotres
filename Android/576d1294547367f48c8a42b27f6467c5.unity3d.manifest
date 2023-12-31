@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1773822269
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78aa8d99fdf6b1f21516796845204e9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/Lantern.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6a6f102327266d02b5517c9352a87cd8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d2e19c35c391a72ff6add451e007847d.unity3d

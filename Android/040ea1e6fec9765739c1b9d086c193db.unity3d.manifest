@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1876675380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 165e4b7e8e149e9749253ea6bac34fcf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_75.png
+Dependencies: []

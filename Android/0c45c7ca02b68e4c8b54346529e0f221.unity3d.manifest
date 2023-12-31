@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 999231272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d173efdb0262f2a67cd466821146750
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/obj_small_044_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3e9a1b313edde2dd8e212217e7e654ff.unity3d

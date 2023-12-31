@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3915345673
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15eac5406189a86b991b7b600ea284ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/JingLing/10015.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/45e1012c5eef0b303a9aa0beb637ffbf.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d34be65e0dcec364a100aab9b3769233.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9f0e8e84ca1ccdc45ad83631c60a056.unity3d

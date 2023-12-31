@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3254111551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 723316101a6bbf0a6f6e56966354070b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/questmarker_yellow.png
+Dependencies: []

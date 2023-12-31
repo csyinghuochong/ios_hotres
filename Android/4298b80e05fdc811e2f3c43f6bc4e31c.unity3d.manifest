@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 888570311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa29da14ed7d03dd28a3c76555087be4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_RadishLeaf_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0388478aaedf02f7951c210a8140da3a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1f44201202bcca304b3ae90cf2e02a21.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4e97c1f0203d06c64116b99c7e1642c2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5b5ce51b6e901376ce6f4c3be97e1663.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d669739522fb750db1dddd5de126b05e.unity3d

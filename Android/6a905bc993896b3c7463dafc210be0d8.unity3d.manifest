@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1880130931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60e3c3dac2b4efaa0d525b8e50fa32b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Meshes/Slug/Slug.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/da3529a96f6d4d85e117d14f6d0553fc.unity3d

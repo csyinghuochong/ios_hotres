@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1731801591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4ef3432867564c28b015f1e1a425044
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 86832698987bbc691c9c2ccae70fbe00
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98335f20237e3de42a9f0b6415312e23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f742ccbd25717e438dd6fdea4d66bad, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: PigeonCoopToolkit.Effects.Trails.PCTrailRendererData
+Assets:
+- Assets/Bundles/Unit/Player/Rose.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0458fc11ee74a17380284b0c46fbc14a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5231d2c9c63e2fce9aca92e9cb9e2577.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ca84aa87bf4f5ab6b8baea5940734e4.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7fc1c47d0a51f0056c94e321dcfc26b3.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/96df006e313af22ff15c199b389a9d97.unity3d

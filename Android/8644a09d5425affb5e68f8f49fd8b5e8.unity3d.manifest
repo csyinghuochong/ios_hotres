@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2872598354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41f808d0fd0e18fb91dae19eb8f77d60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Spark_Increase.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0aa6f58ac1a7dc766908fb91ff3acb16.unity3d

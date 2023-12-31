@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1807133799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15260bc7423c7e7f4dbfacbaf7cef70f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/gong1.mp3
+Dependencies: []

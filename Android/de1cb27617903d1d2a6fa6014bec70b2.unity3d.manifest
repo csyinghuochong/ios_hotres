@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 484415342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 633750d5a455298a9f88d16d6604ff4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f712b4c429d4e71592fe26b15049b2b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Animations/WeaponMaster Twin dagger(WTD)/WTD_AttackA
+  np.FBX
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1ae33eacf7db74c1456ee4e2751f1d75.unity3d

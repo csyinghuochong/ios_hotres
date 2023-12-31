@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 963461725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 484f0308d5177e71c9ab642c3777a7b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Stone3.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3195092964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 645f9f55d422cbaa8c49a5de75643d0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelBox3Box.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/59dcea8318713399d0824eeb26ca12f3.unity3d

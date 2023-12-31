@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 768224397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1ac710864ca68d535e815039c5fdea0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fd6089ee756c89abace9cc27ff36415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/environment_Building_fenghuotai_h.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/97212ea14b2cd952438184d0b50dd1bd.unity3d

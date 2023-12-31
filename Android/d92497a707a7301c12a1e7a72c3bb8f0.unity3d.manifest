@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3254470356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a950d5601a9c110eae1ad4d9c01ee5a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/ChengJiuRewardConfigCategory.bytes
+Dependencies: []

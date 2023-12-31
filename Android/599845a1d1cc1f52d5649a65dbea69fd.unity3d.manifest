@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2676739576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14c4acc584cc6913b8db59a41f768ed3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/UI/10001.mp3
+Dependencies: []

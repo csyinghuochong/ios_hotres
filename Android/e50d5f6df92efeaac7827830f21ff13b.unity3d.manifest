@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1927846946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6aac905849331b32864aa5f26335e69e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927992f938b2fd1472c3a014541d1669
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_28_1.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2244c733d3d6128c0626f05feea04fdb.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2856262832ed02a375b24e6e7fd1a34d.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/35a5e5bb43b3337fe597b3af01117df3.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3d3bf79e859f3de6bb97e5b8a53bebdc.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/56e9e6fd4df96d464e01ef76d7646693.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6a2509465e8ee306d71fcb8e9c31d0b4.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7c3742a8c05ec872978e05f7b386fcc9.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/87e6c59829171c6ef4f60dbc084466ac.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8aa5d5345691c6958f8c45de49b51c97.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8d4ebe2bd574ac96d1ea8e368b26b3aa.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b519cc56bb2dd026ff6c701399958625.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/bfb527a68e5cbf82cd2bbf83346d7ba7.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cb7b1925342de61dce27e579b720064f.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce89f90b3b01256fe957b535f38737af.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ff41af48bb1072e2991a7119020c7617.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2904324638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5662f5bd4ed183219f519a9bbf6027c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Tree/Materials/grass_dead_mat.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a41ef5088e6d51b4ad4f4338f9af0800.unity3d

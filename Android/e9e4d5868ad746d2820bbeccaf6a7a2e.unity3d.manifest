@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4016680232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c04c17b7d1067e1b2c0edd06b4402c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cef0ff3d74dc1707a6ef02119582b724
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BMFonts/Font1/font_1_0.fontsettings
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5b177d5cf259b3a406f0be34e5ec98d5.unity3d

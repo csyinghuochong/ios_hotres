@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3672001368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2caf3c2540d903bac1667b5fc09e3c86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/PropertyIcon/Pro_4.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_8.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_5.png
+- Assets/Bundles/Icon/PropertyIcon/PetPro_2.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_1.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_6.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_10.png
+- Assets/Bundles/Icon/PropertyIcon/PetPro_3.png
+- Assets/Bundles/Icon/PropertyIcon/PetPro_1.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_3.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_2.png
+- Assets/Bundles/Icon/PropertyIcon/PetPro_5.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_9.png
+- Assets/Bundles/Icon/PropertyIcon/Pro_7.png
+- Assets/Bundles/Icon/PropertyIcon/PetPro_4.png
+Dependencies: []

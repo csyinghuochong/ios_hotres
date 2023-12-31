@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1480883285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e17acc99c61b3d08dff49dc43e69dc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/WeaponModel/Textures/texture01.PSD
+Dependencies: []

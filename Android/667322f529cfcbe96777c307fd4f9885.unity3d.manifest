@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1316846448
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7cb44f0503bed757f8cd6a91bd546aba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX_Tanxianjia_wuqi.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/24c0e7be24428650d5ef24b945ddf14b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c5d11d0893f88884dc4a618851a504c.unity3d

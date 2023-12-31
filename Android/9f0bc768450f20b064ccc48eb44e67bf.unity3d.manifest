@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3538198067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5eb5449a6d33bc591aea6e62d681c65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/D_Hit_05.tga
+Dependencies: []

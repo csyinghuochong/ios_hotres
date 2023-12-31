@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1631236152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58ec69bddf32a25b647ee04b30557157
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/Materials/Tx_TablePotion.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/699328d3a76664fef44e19a812b584de.unity3d

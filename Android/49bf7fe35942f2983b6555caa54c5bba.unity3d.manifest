@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4198104896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c2cf3b2e1603ee76571f4b20d82ecce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/RFX_Resources/RFX_Buff/Materials/LensFlare_Light01.PNG
+Dependencies: []

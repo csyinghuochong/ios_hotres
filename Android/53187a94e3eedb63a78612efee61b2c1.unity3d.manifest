@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2939262344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a8738d5f055d171c3c66f07607da37b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelPond2.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b07a2993b8188487661e8eef20934558.unity3d

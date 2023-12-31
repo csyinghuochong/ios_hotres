@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 893685136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70b97c25afe7197375be5f183f1a4e6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/Slug/T_Slug_Emissive.tga
+Dependencies: []

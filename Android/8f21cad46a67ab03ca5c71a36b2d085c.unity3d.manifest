@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1570682706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8a2734b4f692613e86aa74b028871e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Skill-Direct-Front-Blue1.anim
+Dependencies: []

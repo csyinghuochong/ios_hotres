@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3108247730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d1be98568370fa5ae4e4d71ec817833
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Tonton/Tonton.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2ed8ad8eee3bded324b4079aa903966a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/441ea1b1fb34efc78f010812cef888e0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/55aaa8399ab23387f27aaa8087aaea9a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e2a2a46dcf5c6af35f2f5201251acf61.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f466cc53648766c7cec9b239140cf949.unity3d

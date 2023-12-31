@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3722882396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c2568979f20f3643df6281c0b934194
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/dot3.png
+Dependencies: []

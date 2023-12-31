@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3490345277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 066d1a33b803ca4de65d2fdf216e15bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Carrot_01_MetallicSmoothness.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2994949014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb3a0d3496dc8d3f2e0903a4e56fd629
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Noise34.png
+Dependencies: []

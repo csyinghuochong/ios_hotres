@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4256882705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c89c31804477d89aab2fa8a2785d81aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/obj_small_048_01.tga
+Dependencies: []

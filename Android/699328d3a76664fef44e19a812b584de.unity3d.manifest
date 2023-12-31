@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3770342214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92a2af0ed128279cef653a6d32a89c52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/prefab/Tx_TablePotion.jpg
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1343101885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e371974d6717600155c51625320f89b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TJEZTX_Textures_0440_M.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6bf6fb8efc5f80673d46dfb3558206c2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/73634a3149e94209dfb7c50671b62b84.unity3d

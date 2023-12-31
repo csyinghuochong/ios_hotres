@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 449322117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d28ea518ff60a9d1be80f9a29bb6a6e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Direction/E3D-Direction48.png
+Dependencies: []

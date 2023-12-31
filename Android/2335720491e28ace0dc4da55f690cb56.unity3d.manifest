@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 329406840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db65a5a75e19278d7fafe6dcad72d1cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/ImageBig/gongzhonghao.jpg
+Dependencies: []

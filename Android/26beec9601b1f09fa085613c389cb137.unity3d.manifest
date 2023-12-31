@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 265320056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47d6baa7c26f11be8a480f1146980ef2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Wood_Mesh.png
+Dependencies: []

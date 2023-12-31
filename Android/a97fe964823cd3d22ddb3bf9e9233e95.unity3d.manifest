@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4288086001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9c8b47e8a23c6615e9344438140e139
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Ring19.png
+Dependencies: []

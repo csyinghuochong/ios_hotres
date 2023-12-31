@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4025157703
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 584a10f8c9cf3d8f6b319f450cd5dda9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/PaiMaiSellConfigCategory.bytes
+Dependencies: []

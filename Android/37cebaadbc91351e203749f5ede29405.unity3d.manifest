@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4028970930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3eca81223a602a46626dce4c4f8a81d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ebac64479daed4cc03e1bcee586804
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/obj_small_070.FBX
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bb0307ea90a0ea26a1db3a061fc32254.unity3d

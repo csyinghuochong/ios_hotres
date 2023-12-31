@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4092614534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fab97a25dc78fbfbdc9f35a06a631444
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Materials/environment_common_jiazi_001_02.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f002322bdc104441ab907e01f3a6be3e.unity3d

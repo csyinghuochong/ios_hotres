@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2641859263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15e7f4cb871a3542b440ca5c2af9a2ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Critical
+  Strike/Impact02.png
+Dependencies: []

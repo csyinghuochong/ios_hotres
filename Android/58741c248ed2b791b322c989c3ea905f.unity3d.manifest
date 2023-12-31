@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 440310476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f29e25f63bda2f273657b41be1ba06f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Point116.tga
+Dependencies: []

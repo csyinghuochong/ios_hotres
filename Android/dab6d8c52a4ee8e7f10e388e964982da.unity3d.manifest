@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2938908535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32b31ded3ecbb01601f9b72f61e741a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/TerrainTieTuSet/Textures/Ground/Ground24.png
+Dependencies: []

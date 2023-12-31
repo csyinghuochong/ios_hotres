@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3230448984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 673e06cd1f2d1977abe14b5d0fbfd688
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Wolf_Baby.jpg
+Dependencies: []

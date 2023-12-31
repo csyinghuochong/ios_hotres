@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 893962926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 192de6e85a34298dba3d37208ca70c3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Simple Dungeon Props - YP/Material and Texture/Gradient.png
+Dependencies: []

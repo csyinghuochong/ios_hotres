@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2240991437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8d1d0a5ac194b029471528bbbbe9b93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_2/prefab/ZC_zawu03_008.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2c0e473dcb88f0a6c2278c4566ed39be.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f345d6e04ac82842f821ee3fafd1ba42.unity3d

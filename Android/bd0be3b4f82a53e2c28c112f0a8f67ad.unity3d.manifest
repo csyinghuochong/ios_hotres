@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 764097719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe291b498b680eead0601c79a097cce4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 444966610bc7fd885616cae26ad18309
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/Shaders/Textures/toony lighting.psd
+Dependencies: []

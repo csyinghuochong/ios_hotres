@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 69490715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77a1c629897be5fd7f929abca28bde11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/RongYan/Texture/SALAMANDER.png
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2280979412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f942e907c4f083bb0253d285fd81cedb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ef33ccab19ac41d12108816871ec1d8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 338e9578d1797374b858ead231938d29, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Scence_AddHp.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1328d534980063c35eca2a3d6b059b4b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1e23400da6dd39872a09b2c7feae0872.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4c170cae02d7f1010776c02118f52fa4.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4e425bb477cdd67d0e3f22b2e249f3ed.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7f745c62548b708eff8abc40978484c6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/80a5fb2056febad7a285f3294cb37269.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/96e6a9eff59663436d0d7b239b4a00ce.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e1df16908fb69b637c7bdbab967a4cc4.unity3d

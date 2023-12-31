@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2589520832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edba0fb88cad44f39ffb0cf7a4ec34c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Critical
+  Strike/ImpactCircle.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/297d4e1988cd9635ce02aa59669a673b.unity3d

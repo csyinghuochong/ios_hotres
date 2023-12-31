@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2076841489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99f2ef91e2bca4a80a8fef352647d37e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/TerrainTexture/Haishui.png
+Dependencies: []

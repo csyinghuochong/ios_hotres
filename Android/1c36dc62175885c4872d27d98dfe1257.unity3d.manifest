@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1942111084
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5e0b55cf3f05dd9057b735f7b5c6d4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/Prefab/building_weapon_lv1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/43143ac401637e9d91edc72a92d0f4fb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7a72a3c3cb2b37c5b5818d1970c42808.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8932361af4f2d6c162ae50ac86d08c2c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cdc9df6341281abffa9ef13d646f609f.unity3d

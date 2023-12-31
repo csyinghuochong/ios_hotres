@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1357633778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6618d74d6d10a74ab4e4f11be993d279
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e86aac4e67c8d3402f337ee83293a758
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/NPC_CunZhang.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/683cd67a0cdbb2c2aa0bfc84e05212e8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/74b1f7c0c08bcb43f6929a67f65aba48.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ae1be88fc973418423c6d967e8ddc1b5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/dbe0b0701f1c38254ca5e655453d827f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9179501792d32e46567f5ea7e73b03e.unity3d

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3656026595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 934f590693c49f316d5501763303eb51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/UI_duizhan_baoxiang/UI_duizhan_baoxiang.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/12bbd6e0afd871b122c51e89059964ff.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3aec9cd0bbe859c9bb65f6f20e1f98d6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ae56286fd56948fc278f091ed80cede.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cf96dfdf47ac2881a3c569f758f01c66.unity3d

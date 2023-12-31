@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2831467001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ddee90730c872b92a0ede3620e48b1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_potion 1.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/87cc170abea6fe94c14132da0a85b426.unity3d

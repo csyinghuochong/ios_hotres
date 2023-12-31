@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 78144118
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d445e58bc43baabbe058e253da15440
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/prefab/objectB/build/stsm_build_diaoxiang_001.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/05c99a5d46c3318686955f2ad3ac30b5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4fc16e3af1356ffbc261bed7269e938d.unity3d

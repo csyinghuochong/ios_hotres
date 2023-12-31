@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3337682420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b35d409fcf02d6897de6df5e4d47609
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Materials/Tree_leaves.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/609eab88ff6d677b405b8119975ec20a.unity3d

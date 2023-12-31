@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 838742478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 933e77333cbd62764188da8e3fba6c70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f0252db3c7fb55fc46c0286ed37380d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/LowPolyFantasyWizard/Models/Wizard.fbx
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3d08a21e93719409b5d2cd93c843ffeb.unity3d

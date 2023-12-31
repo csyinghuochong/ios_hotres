@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2173805782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e84b676dcf97b8c9a9f428c6b7347df8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Monsters Ultimate Pack 02 Cute Series/Wolf Cute Series/Textures/Wolf.psd
+Dependencies: []

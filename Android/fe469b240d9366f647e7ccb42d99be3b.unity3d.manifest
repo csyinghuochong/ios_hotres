@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2787432274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 030a63421fe09ff14ab35fd0060068a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Meshes/MushroomMinion/MushroomMinion_Weapon.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7cd506cca17bf410faad8f25fad6e846.unity3d

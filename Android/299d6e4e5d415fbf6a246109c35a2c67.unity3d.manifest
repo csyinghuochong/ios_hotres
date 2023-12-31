@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3675121716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad6378fa56234f15a9ea056319ee2421
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Eff_Skill_StoneWall_01.anim
+Dependencies: []

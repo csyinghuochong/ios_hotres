@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2962602069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cccd9ea9674c4da042765ba634eaa2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Materials/stone_001_02.mat
+Dependencies: []

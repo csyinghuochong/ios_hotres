@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4231634747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3991af179f9ae2489a6cf7edcb7eaa13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Stone/modelRock03.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c7d6e2856f51d6ed8d94f75135a25285.unity3d

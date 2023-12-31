@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1058254841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc5c3edaff8f2e79338687b0afed1b41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0bebb63c9413dfefeb12c7860c577764
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5adaa9a4c3fdef840a58462d041416de, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_StoneWall_2.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2d3e44ece816e0888fdc740873d396f9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/894483c676929cf116986a2b83516818.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/92ee3c0949e2c9b9e13f9e8ef9b12137.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d3b1338612d6996c6f93b99ce9e49d7c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e44b5fdf29fdbf0c895256de92e84e6d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f3858b2e9b8a61a3bfb5444ce0d85498.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fa7c9e4efc1df9d5927370cda4f62cfa.unity3d

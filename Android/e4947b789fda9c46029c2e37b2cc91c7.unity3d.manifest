@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3033084867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b103adae3e629f1c735d72f07e4e969
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Water/Textures/Cute_Octopus/T_Cute_Octopus_A.png
+Dependencies: []

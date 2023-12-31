@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 386916029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 793b191c2854802a16c30f53f66c7f16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91616ee0f4a9ff2ba0344d9437b15a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Animations_Cute_Animals/TypeA/Animal_TypeA@Idle.fbx
+Dependencies: []

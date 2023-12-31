@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 158388436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 895250ca165e91289bf87d8b7b6fd80d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/Prefab/building_potion_lv1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/793568b7c6dc3aeb08deeb8603a1581b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/979aa2c2d291a378752e7fb3b7f0e98d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d3dfab13e901bbe9af68572a3871f12a.unity3d

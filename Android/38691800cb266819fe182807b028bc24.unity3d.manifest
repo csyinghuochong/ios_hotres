@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2685728645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00761a46f06061135d5798bed62cf69b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/CartoonSkyboxMegaPack/CartoonSkybox/CartoonSkybox.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/55d1a3ceef19a07a9cfbc19df3cdc518.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b47657d0bbf4485c024d1107687989f1.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bbc58b25d06cc3d3125e45a89f18881c.unity3d

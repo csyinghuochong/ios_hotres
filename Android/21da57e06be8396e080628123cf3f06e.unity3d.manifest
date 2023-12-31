@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3901620445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3449ee72a14f61d246eb6090bb8c852e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Holy/Animations/Angez/Angez_Animations_Check.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0e71b010202879d318d0873094fcb262.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5f5e87db94d617614e6e734e4c01e6ba.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8fd54821cdae97327081ac9a18134ed1.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b3ec2d80ee5fa716c25a613be9c970e5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c44adec6ef1fff3ded051619076ad437.unity3d

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4026358792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bf8bcc9ef99e4f1097089ba64ee082e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 61c8099d97b4908ee3be3c619753181d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcab237b25e847e4e92bcbca979983b9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/ScenceEffect/Effect_Yun.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ed5c0ef5310c9137dbbcfaf31d7041c4.unity3d

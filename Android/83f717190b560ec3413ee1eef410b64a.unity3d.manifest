@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3877913743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c4114f48b6cba942e97e9e53f260033
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleZhanShi/tga/Lian.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2d35fd346bf563ab57ed8aa1eed73d42.unity3d

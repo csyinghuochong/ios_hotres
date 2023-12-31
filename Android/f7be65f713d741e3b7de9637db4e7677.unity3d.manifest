@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1036191019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f747335fe98aed11fc64f2f8b2bfbbe3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b07e95eec8d55770ffce51414c7b0714
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillHitEffect/Eff_Hit_Fire_5.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3929f0a1bcccecf4d28d942df676e8ae.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5cd8627c076452ed9f454520d15c50db.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a19cb6f6aab34a7d51bdfcd71b090a34.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d0d5ed6974db34e690fa4e7dacb1cc5c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e1c99aeb8952881ba5a8f7e40dea3a6b.unity3d

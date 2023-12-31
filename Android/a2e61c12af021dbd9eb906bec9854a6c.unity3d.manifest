@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2913575145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e99c25d040a38b706a5b20813a3d167e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ebac64479daed4cc03e1bcee586804
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/obj_small_048.FBX
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c66b0de1c512daa089726ce9563e903a.unity3d

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 97563687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb0c6fcba6047b202293b7ab7739d9f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87d8350b46029255406d612579664277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_FireWall_6.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2d3e44ece816e0888fdc740873d396f9.unity3d

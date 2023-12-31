@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2782260743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d705a91dd741077277f385188a339b5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/questmarker_purple.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/39f92c9f3e1b4bdf8ecb75b8036ddfba.unity3d

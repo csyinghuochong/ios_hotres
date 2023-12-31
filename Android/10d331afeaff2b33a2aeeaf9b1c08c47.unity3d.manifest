@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3408491464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8983fd7bb372e887541ac78a2855b2c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelBarrel.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8fe7da1d3382d2ea8441c6fb9570fca3.unity3d

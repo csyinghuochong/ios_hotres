@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1789782775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eff1d06cfb5f04f5b040855c1d1933a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87d8350b46029255406d612579664277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Common_FB_guangsu.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/25edb2df8194e0114397f7e149a39d60.unity3d

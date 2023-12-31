@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 118945123
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54e9a525d48702fce721a360bae2a1f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BossAnimator/ZhuBoss.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/199665dd55620ba5d5729ff2777ea408.unity3d

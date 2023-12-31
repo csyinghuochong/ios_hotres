@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1254498868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b41ce160e302e93eee813ad07710a6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Models/Parts/Eye_00_R.fbx
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cd5a510bda0f49312fccd5e2281fe3c6.unity3d

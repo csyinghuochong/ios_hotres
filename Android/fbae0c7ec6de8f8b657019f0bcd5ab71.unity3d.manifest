@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3365906694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ef4241c24350052e0518653fcb46a7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelChair.fbx
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c3d0084717fcf3b599af681a03ed5933.unity3d

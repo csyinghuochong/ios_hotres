@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3326178624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be0d01d32a63f7ed42cbfbd74fc95b71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/BattleDragon/Colosseum/colosseum.fbx
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/107cbca0e2a09faa454974a81a415729.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1f774dfba303252d61e74c3d19e28d6f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/29344155370f5d6fd7504a0c0d03fba2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3c9165c8ff411f2b4e3c1baf90146653.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/40bf40e04fad0f80606fb4ccc169dc69.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b11310843559e5c83227406844ec3198.unity3d

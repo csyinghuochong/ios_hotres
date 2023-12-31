@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2550512593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1995d7c4b7234bd78a1be6682167b430
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Tree_Fall4.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9417484cd0ea434ea9a47c32063f346d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f98647c1e99d54fd6eaef5904c17b38c.unity3d

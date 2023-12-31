@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2670869981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc1184b366383e46bdf2bed96bcef44b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e65d81438aa2f182e32f4adc0897a2a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_RanShao.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f5e909960e4395e39dd4797b71f8e73.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8475564b0f7cbc3e7e4dece1db341f78.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a674a4d5b7efe61b962ebc23ae6f0a97.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b3eaf917b8dfd3af40138228a31f3c9f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b9045f14c054a7bd8a2fccb0d14d1e6a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d225f411fded1964386b8326a3aff057.unity3d

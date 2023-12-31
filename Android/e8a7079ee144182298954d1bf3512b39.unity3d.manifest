@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2489300725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 390264ccca84e48ceab501a94caeac72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/OldRes/OldNpc/AnimatorSet/NPC_XiaoGui.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6e8d3232990e71adbc848fd814da376f.unity3d

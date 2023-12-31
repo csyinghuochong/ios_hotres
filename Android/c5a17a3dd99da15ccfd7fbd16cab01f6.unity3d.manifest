@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 159643232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c444e8f5e43387bc92af2ab02591b1d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/VFX_Klaus/Textures/Tex_fx_elements_set_01.tga
+Dependencies: []

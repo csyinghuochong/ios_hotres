@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2890461498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b64db5ddf006ba2f5998ea0e396c69b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/B1/Effect/Animations/E3D-Skill-Continuous-Violet1.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e83d08e1bb6b9c4bd885f11858f8a13f.unity3d

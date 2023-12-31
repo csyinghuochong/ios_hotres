@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2568179446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7899f94966f35372ba054a6e06df19fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/BearMinions/T_BearMinion_Weapon_Diffuse_Blue.tga
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2560904277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2636f0f294ff57799f86d1e86283aa47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Textures/glow.png
+Dependencies: []

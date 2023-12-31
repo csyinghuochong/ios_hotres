@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 963081088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a0362b0615bf13afa4f4b98a583c10c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TJEZTX_Textures_0440_A.tga
+Dependencies: []

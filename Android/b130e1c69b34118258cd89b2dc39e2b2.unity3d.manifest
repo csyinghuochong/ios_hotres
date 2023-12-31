@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3110860967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6158a26f37a2a93d8e0e3f0bdd18525e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Common_Buff_dalong/qiliu1.anim
+Dependencies: []

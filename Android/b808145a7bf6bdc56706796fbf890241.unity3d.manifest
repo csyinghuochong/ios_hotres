@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1853872144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eef0067c925ce5126c16ab16f4f99e2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1403a7ef51177f5ce8f1b1db6e0ecd82
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5adaa9a4c3fdef840a58462d041416de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 760e21c6793f79a4ea96b659e2823eb6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_XuanFengZhan_5.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/265cb03f49b683679c4b99bb88265c3e.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/648ee80254505850c9e3e00092db3f1c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/afa6f997a6165e76bd1505f12eea6b2c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d0bdb1ee771ea309db03c4a6464574a7.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddd31433d506cd0c8bca29ef7e0145c7.unity3d

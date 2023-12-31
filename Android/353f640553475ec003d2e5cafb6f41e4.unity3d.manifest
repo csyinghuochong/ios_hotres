@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2155708232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebf293e2fefb95fe675fadb87eb90bb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fd6089ee756c89abace9cc27ff36415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Models/aura_straight.FBX
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9e2ff7cb644e45c114c5a3e840fe1220.unity3d

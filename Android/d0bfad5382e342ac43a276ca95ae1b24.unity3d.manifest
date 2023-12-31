@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2569498565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d33eb483764419b1651dfa2ba58f5bad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93338f85de941cb8e4d2bfc819e9e123
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 338e9578d1797374b858ead231938d29, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_ItemQuality_4.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/225351762ba95498f43c96049c122261.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6c3b70b49bc4c798bfd6fcc36e9449eb.unity3d

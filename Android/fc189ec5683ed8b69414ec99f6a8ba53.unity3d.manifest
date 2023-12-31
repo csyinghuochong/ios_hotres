@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 789949710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b65ded82924d3e21f13e25262379ae16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterModel/Monster/M20006/texture/M20006.psd
+Dependencies: []

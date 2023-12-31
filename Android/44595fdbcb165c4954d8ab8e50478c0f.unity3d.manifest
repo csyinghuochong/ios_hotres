@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3869450322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 343abc104855da3680176e8c70525043
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Trail04_MobABScroll.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3041131c8533d08f86e339a63259a8d9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/351c5015b248c929352575691af33897.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/613311d53ab353c42b0d25e3b695cd1e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9aa60b4e4b29a3a4e97d52a68f5fa8f7.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddb5a7d28c3dee34b832a6f0087d5d79.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/dfe3469ce4612aeebc661cf6bc81972d.unity3d

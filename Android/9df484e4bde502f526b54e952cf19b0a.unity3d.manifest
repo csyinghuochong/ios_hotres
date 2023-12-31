@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3588768983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1766447e59f23588e357706ef1df68e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 789e2790b0ef41f0a83539b7c77b0723
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/100101_3.terrainlayer
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/dab6d8c52a4ee8e7f10e388e964982da.unity3d

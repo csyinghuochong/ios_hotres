@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 49840894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60485b4cac72bfc950f90dbc43b99de4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_CarrotLeaf_01.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2764e91259a464154f827068b097395c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3c6ec48c7e75737dc741b068e8bfbba5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4e97c1f0203d06c64116b99c7e1642c2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5b5ce51b6e901376ce6f4c3be97e1663.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/914693f3f65815846c55b66758fc6837.unity3d

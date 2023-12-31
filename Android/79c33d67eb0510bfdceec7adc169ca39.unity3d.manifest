@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2220690802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55e879e173a7c386b07564ae00bc1fbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d2c2a5a7ccdddd38c0999f98298ff1ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 338e9578d1797374b858ead231938d29, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/NPC_ShenMiZhiMen.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/128395e31b48e68d8463f75f9a2c27cb.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6c3b70b49bc4c798bfd6fcc36e9449eb.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a2d490896b2872106cd8b6d2678400fe.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f5899c3fa18c6866cc9b0b1f47a30b61.unity3d

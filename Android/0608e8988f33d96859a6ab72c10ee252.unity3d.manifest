@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2853289318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 880bc696f50b31771434b78e27d1b020
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Forest/Textures/T_Rabby_03.png
+Dependencies: []

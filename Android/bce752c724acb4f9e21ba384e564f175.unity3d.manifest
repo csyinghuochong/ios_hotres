@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1730545834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10bb3a8cf210c872b2c35822a451fed9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f75ac15af31c7604a1a79174cdee23e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/20001019.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/141658d55b8cb3d24786438e72ee1a99.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/46b2c1ef88fe18796d748a5f2e20e6aa.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f52779b2cb9bc44a2da58309d395a12a.unity3d

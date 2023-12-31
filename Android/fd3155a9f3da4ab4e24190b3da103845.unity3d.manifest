@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1878346054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47bea7d235e4a7eef73eaafb71730539
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/Water (Basic)/Sources/Textures/oceangradient.psd
+Dependencies: []

@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 769826940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6fc029359486d83e7c6c7e91d423d93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/PetHeadIcon/1000501.png
+- Assets/Bundles/Icon/PetHeadIcon/2000003.png
+- Assets/Bundles/Icon/PetHeadIcon/1009101.png
+- Assets/Bundles/Icon/PetHeadIcon/1000402.png
+- Assets/Bundles/Icon/PetHeadIcon/1001101.png
+- Assets/Bundles/Icon/PetHeadIcon/1000802.png
+- Assets/Bundles/Icon/PetHeadIcon/2000002.png
+- Assets/Bundles/Icon/PetHeadIcon/1000101.png
+- Assets/Bundles/Icon/PetHeadIcon/1009204.png
+- Assets/Bundles/Icon/PetHeadIcon/1000502.png
+- Assets/Bundles/Icon/PetHeadIcon/2000001.png
+- Assets/Bundles/Icon/PetHeadIcon/1001301.png
+- Assets/Bundles/Icon/PetHeadIcon/1000902.png
+- Assets/Bundles/Icon/PetHeadIcon/1001401.png
+- Assets/Bundles/Icon/PetHeadIcon/1000602.png
+- Assets/Bundles/Icon/PetHeadIcon/1000801.png
+- Assets/Bundles/Icon/PetHeadIcon/1001201.png
+- Assets/Bundles/Icon/PetHeadIcon/1001304.png
+- Assets/Bundles/Icon/PetHeadIcon/1001303.png
+- Assets/Bundles/Icon/PetHeadIcon/1009202.png
+- Assets/Bundles/Icon/PetHeadIcon/1000201.png
+- Assets/Bundles/Icon/PetHeadIcon/1009304.png
+- Assets/Bundles/Icon/PetHeadIcon/1001002.png
+- Assets/Bundles/Icon/PetHeadIcon/1000404.png
+- Assets/Bundles/Icon/PetHeadIcon/1009303.png
+- Assets/Bundles/Icon/PetHeadIcon/1000704.png
+- Assets/Bundles/Icon/PetHeadIcon/1000703.png
+- Assets/Bundles/Icon/PetHeadIcon/1000202.png
+- Assets/Bundles/Icon/PetHeadIcon/1000302.png
+- Assets/Bundles/Icon/PetHeadIcon/1009203.png
+- Assets/Bundles/Icon/PetHeadIcon/1000503.png
+- Assets/Bundles/Icon/PetHeadIcon/1000901.png
+- Assets/Bundles/Icon/PetHeadIcon/1001402.png
+- Assets/Bundles/Icon/PetHeadIcon/1001102.png
+- Assets/Bundles/Icon/PetHeadIcon/1000702.png
+- Assets/Bundles/Icon/PetHeadIcon/1009102.png
+- Assets/Bundles/Icon/PetHeadIcon/1001202.png
+- Assets/Bundles/Icon/PetHeadIcon/1009103.png
+- Assets/Bundles/Icon/PetHeadIcon/1009301.png
+- Assets/Bundles/Icon/PetHeadIcon/1000102.png
+- Assets/Bundles/Icon/PetHeadIcon/1000504.png
+- Assets/Bundles/Icon/PetHeadIcon/1001003.png
+- Assets/Bundles/Icon/PetHeadIcon/1001302.png
+- Assets/Bundles/Icon/PetHeadIcon/1001203.png
+- Assets/Bundles/Icon/PetHeadIcon/1001103.png
+- Assets/Bundles/Icon/PetHeadIcon/1000601.png
+- Assets/Bundles/Icon/PetHeadIcon/1001001.png
+- Assets/Bundles/Icon/PetHeadIcon/1000301.png
+- Assets/Bundles/Icon/PetHeadIcon/1000401.png
+- Assets/Bundles/Icon/PetHeadIcon/1000904.png
+- Assets/Bundles/Icon/PetHeadIcon/1009302.png
+- Assets/Bundles/Icon/PetHeadIcon/1001004.png
+- Assets/Bundles/Icon/PetHeadIcon/1000603.png
+- Assets/Bundles/Icon/PetHeadIcon/1000403.png
+- Assets/Bundles/Icon/PetHeadIcon/1000903.png
+- Assets/Bundles/Icon/PetHeadIcon/1001403.png
+- Assets/Bundles/Icon/PetHeadIcon/1000701.png
+- Assets/Bundles/Icon/PetHeadIcon/1009201.png
+- Assets/Bundles/Icon/PetHeadIcon/1009104.png
+Dependencies: []

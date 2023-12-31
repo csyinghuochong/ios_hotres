@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2458849248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4084c6cc2e8e8162984ad38bbf270f08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EScene/XWX-Effect-Dev/MaterialSample/E3D-Sample-Distort-Direct-Blade
+  29.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/05c54fb1b12167b8cb8aeb1f230730e3.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/51ccae9651720d92256e99bf592f715f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c2ac415c554d38819bd6da5979fbe717.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/edaaf08e8beb3d9d20de8a608d167ea3.unity3d

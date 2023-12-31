@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3948141125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 206edc16cd86986240000da8a3ba5387
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/TaskIcon/100062.png
+- Assets/Bundles/Icon/TaskIcon/100103.png
+- Assets/Bundles/Icon/TaskIcon/100013.png
+- Assets/Bundles/Icon/TaskIcon/100007.png
+- Assets/Bundles/Icon/TaskIcon/100015.png
+- Assets/Bundles/Icon/TaskIcon/100003.png
+- Assets/Bundles/Icon/TaskIcon/100111.png
+- Assets/Bundles/Icon/TaskIcon/100102.png
+- Assets/Bundles/Icon/TaskIcon/100121.png
+- Assets/Bundles/Icon/TaskIcon/100002.png
+- Assets/Bundles/Icon/TaskIcon/100004.png
+- Assets/Bundles/Icon/TaskIcon/100011.png
+- Assets/Bundles/Icon/TaskIcon/100010.png
+- Assets/Bundles/Icon/TaskIcon/100009.png
+- Assets/Bundles/Icon/TaskIcon/100016.png
+- Assets/Bundles/Icon/TaskIcon/100014.png
+- Assets/Bundles/Icon/TaskIcon/100001.png
+- Assets/Bundles/Icon/TaskIcon/100005.png
+- Assets/Bundles/Icon/TaskIcon/100012.png
+- Assets/Bundles/Icon/TaskIcon/100006.png
+- Assets/Bundles/Icon/TaskIcon/100008.png
+- Assets/Bundles/Icon/TaskIcon/100052.png
+Dependencies: []

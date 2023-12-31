@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2907189788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77b3bb688d5f8101b9d2645be307be85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Ring/E3D-Ring187-bh1.png
+Dependencies: []

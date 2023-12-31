@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1874246063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df774fb2eb99eaa3c9a87a21340741bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_391.png
+Dependencies: []

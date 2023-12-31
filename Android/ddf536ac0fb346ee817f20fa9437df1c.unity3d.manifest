@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 538488689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddc8b9409dbd27886660866c6e3ab026
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/BlackHole.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0a51295cbc4a8bbc88f334109d47c24f.unity3d

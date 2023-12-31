@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2526075547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f40f0e0bd6c8eea881c8d732af7b479
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_metalbars_BaseMap.png
+Dependencies: []

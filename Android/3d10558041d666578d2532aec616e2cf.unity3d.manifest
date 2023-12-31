@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3732031963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73bfb3312521fc5ab8f26bd3d2250629
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_xuedimuxiang_003_02.png
+Dependencies: []

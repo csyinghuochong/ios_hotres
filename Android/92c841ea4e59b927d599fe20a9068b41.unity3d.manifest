@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1987450164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e01be5730b4b65a89684a57987cd7a2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Other/Materials/5.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/aaf8650013e2c4bce73e54220eedd3ef.unity3d

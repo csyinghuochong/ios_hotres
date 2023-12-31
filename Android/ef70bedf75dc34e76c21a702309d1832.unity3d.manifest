@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1469979300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1ed04703eb69aa6c1ce9300c3db87e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Materials/Misc/grab2.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/64db670905dd9dddfc6c078855e71a68.unity3d

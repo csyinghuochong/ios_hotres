@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1858709530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 071e8a823b0a7d4ce9d2e83d3e1f914f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b07e95eec8d55770ffce51414c7b0714
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_QunLiao_1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3fe6b8444e7ceea0cdb63358867c43f0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7442f8415c3c93377e86b424d9354847.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c5542690fcdc0736471e8895df3e41ae.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e4de53f9b15ae1db8b52e4074fe8826e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e74cc52a3266c037773d3f7cca823a82.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ef877b5e2302e2da1bfadbef12692df9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f69550029efffdc45c874661193e28d8.unity3d
