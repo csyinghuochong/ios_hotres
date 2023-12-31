@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4089588056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73daea0e8f9866919a4ba751ea41854d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/tent_stump_glow.tif
+Dependencies: []

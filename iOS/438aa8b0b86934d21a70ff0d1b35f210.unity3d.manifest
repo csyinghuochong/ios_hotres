@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2138197558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6604c0fafca05cdf46736bebed13832b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/ChengHaoIcon/10015/5.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/8.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/6.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/9.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/1.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/4.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/3.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/7.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/10.png
+- Assets/Bundles/Icon/ChengHaoIcon/10015/2.png
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3334807542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10d34b98547d16e4668dc588b2ac4d01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08a1f09909337ebfaa4cc93807d162c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_Fireball_6b.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9ea97a6a41cbb04757aa2bd74003c5b7.unity3d

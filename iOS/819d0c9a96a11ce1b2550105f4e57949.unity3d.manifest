@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 1005630145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f218f22ceb0d27ac82e1d5340c46154
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fbb37185c9b0c8c593d2a63b29ea2ac4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 338e9578d1797374b858ead231938d29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Effect/MonsterActRange.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4c170cae02d7f1010776c02118f52fa4.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4e425bb477cdd67d0e3f22b2e249f3ed.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8c1741ae4da73d6768fd4c8248672456.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/96e6a9eff59663436d0d7b239b4a00ce.unity3d

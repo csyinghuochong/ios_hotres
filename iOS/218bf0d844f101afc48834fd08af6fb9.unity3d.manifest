@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 537634442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3fe69cfb63157498a8ddcba2982cb1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e24076d2d50c36910a40aa4b1b9133b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/MonstersFlower/Prefab/MonsterflowerC.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ab8e0eaeb9c50b6b12c8579aabfe839e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d06c50f2b0ae19ce177996a4fb001345.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d6b07d98f082fae906df88c89bb8f004.unity3d

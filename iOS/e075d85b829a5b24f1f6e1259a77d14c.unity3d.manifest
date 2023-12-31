@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1986397085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98acbe9271d54c504bb868bf07165224
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Texture/Materials/Rock1.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2b0f1d5bd4f85d56188089234cb4a3b5.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a5e2cc540ca9e431f9644f32a6d6c9f2.unity3d

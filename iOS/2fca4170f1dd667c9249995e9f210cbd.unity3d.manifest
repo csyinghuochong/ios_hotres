@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3649840284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7dbd175225e814f47743dd52f75ebe41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f0252db3c7fb55fc46c0286ed37380d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Animation Setting/_Humanoid and Add-Bone Mask
+  Base.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/676ac023f2248940e6306477f6b34dec.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ccadf587dbebfe70b22789ddd297f5de.unity3d

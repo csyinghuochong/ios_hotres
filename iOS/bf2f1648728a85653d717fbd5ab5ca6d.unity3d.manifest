@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4166049976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e468a48d27a72e4d9bb3d30669ecb8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Point80.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1939128691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f12478b2497dae04ceed5b336df54c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a107dc2e5b91368bb715249dde775ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Component/zhanshi_jian.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0d536a6b4529dc5a383a89524d8c9c65.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d

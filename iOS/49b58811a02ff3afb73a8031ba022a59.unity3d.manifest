@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3337153483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89b9084ce4090774632d542646080c00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Materials/Glow_1.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9fd1102b83f135cee3f81e4b023085b2.unity3d

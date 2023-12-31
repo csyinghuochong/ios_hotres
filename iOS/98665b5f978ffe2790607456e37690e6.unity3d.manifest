@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2217300136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26e66d3ca9693c4b2b1c6cf27bc84135
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_1/shuguai/ShuGuai.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2ab1358fd4faf8effc456e2dba51dc9e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7ba4d01c7085eda0f4ab1df3c1dd9bc1.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/954a9cf6182402d4f48bb09cc6046a26.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/aa3bb7167b6333459448563ff41a6511.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/de4a1d57e763e9b3a12bdf8543163cb5.unity3d

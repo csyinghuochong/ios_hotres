@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 159915198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67a760e2fe34f484504ae8194b444cf9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a33cf649865cb3c0056ee5671e5f04e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Fbx/yewai_dixing_02.FBX
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2974250007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 429c2fa4b3897f34132eca73c23002ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d00ee19a64e9bebd8066ab01a53b54d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Monster/DorrWay_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4e02260fcd14ca7ac3a7383d041bf56c.unity3d

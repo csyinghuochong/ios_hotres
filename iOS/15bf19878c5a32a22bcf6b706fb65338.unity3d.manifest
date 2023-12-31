@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1092786587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4966ca0a757b90c72fcc1b994cd1a726
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleZhanShi/tga/zhanshi_xiezi.tga
+Dependencies: []

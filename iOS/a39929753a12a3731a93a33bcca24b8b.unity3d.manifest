@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3287484413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7639d5982f6fd3d5701639421b208ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/BeamDark.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/613311d53ab353c42b0d25e3b695cd1e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a5136d288de244948ea0a4bf8f918be4.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d457feb112abc48ed59a77fb3c9c999a.unity3d

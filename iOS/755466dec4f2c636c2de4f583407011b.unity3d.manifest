@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1659248396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0ce363e2d18fa388102d53d39ad6d7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3D Items - Mega Pack/origin/Models/Materials/bow6.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/53114702014bd16b6e8f1dc9094e29e0.unity3d

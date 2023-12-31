@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2078779584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 732fef498f9d63c1d11222da9b5899a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_1/model/Materials/FB1_toutezhenhe01.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4f138a0cc61871820dbd348d904b6317.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/724067ba7dbadeaa27ee2e36139d8b2a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fbb0326bf4843a764d8c4e09a0f0785c.unity3d

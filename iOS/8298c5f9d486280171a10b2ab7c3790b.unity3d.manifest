@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 587260707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c7c5a369c451f4d150b46feaeab1909
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 665b02852da9eea38f31efb1acfd9034
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Effect/SkillZhishi/Skill_TargetOnly.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/52ad1618149a8b634511408564910199.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/93f4121a684493d42bd8640278acf4fb.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c061d644a2da2c3008ab26259434a3fe.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3831828537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06ae4300758035d576e0a86031cefe6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/cemetery_set_01_atlas_4096.tga
+Dependencies: []

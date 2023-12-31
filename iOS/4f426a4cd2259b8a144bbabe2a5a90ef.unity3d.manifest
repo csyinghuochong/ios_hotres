@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1480900944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e420299ad3f59f3ced8db7d95cb287b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ef6ba447bd16ea765ca310c95df10dc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/2/Hero_fashi1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/36ab60de7e6f866c65e6f7ad6a2d5256.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3828633807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40878ad35d0c85c6f0065e054610e850
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleLieRen/tex/BaseModel_Base_Color.png
+Dependencies: []

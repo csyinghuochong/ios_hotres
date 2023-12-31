@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2742562608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5a671522a96151a493c3e5553d8234b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Lang/Lang_1.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7b88a827ba2cea4113cea415de3ad049.unity3d

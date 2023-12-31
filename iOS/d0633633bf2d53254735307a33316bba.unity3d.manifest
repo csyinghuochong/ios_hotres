@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2232541114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19d5f6178be2af9c93ba75c4fdf34745
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Holy/Textures/Angez/T_Angez_A.png
+Dependencies: []

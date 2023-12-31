@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2863355601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc8fb57516428c9ceda5a81cbbe7cd74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Materials/Misc/aura_punch.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f9640504df2012180bbc52b4014fa135.unity3d

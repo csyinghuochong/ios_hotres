@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 842594993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3ac52950ee79d7fc9a55e8da1c181dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectResources/Effects/Materials/E3D-Direction114-bh58.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/07eb1cba2115d1f284a79496a768119b.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ff127e90502eb71b98d54c487aa68d22.unity3d

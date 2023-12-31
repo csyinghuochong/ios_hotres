@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3916121131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6886a67b954d422b3a7a0089c2d9d45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Ring65.png
+Dependencies: []

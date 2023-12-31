@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1444951768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf3769c0e522a2115b0beb47a08a2182
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/Tower_Base1_1.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e65c7126080f4352a655ca0ffc5c1c85.unity3d

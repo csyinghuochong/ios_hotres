@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3610999562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37f8929f7e6aad5848abe6e4094fb224
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_xunhuanguang_00005_C.tga
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3991004050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f525686663c2e0a35ccb1107c0ea381
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87d8350b46029255406d612579664277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_GuangHuan_6.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4e5bbc76581fe136ef4b3c9d6e3c72b0.unity3d

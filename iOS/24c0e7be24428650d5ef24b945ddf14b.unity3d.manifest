@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3127081960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 383a117582f64ff0cf22d48c92c67235
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_Tanxianjia_wuqi_A.png
+Dependencies: []

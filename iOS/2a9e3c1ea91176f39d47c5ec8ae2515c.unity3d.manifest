@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3925019735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 527a2c7bd335498bcb80687e8c5b3d43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_5/HuoZhiZhu/TARANTULA.png
+Dependencies: []

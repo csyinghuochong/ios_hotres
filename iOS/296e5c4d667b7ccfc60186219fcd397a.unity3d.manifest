@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4013405589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10a1c1b5ce3dc177a3d09aab49bf3c4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87d8350b46029255406d612579664277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillHitEffect/Eff_Skill_Target_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/07da9763c23d914731403b3da32023d9.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/df59de71ca380a7a1a23d8b32f31e974.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ea325455b2ddda37b4f7d450e5abf57c.unity3d

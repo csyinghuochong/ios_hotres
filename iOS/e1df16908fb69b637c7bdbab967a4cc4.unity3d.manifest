@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2979223158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc94b603e518426c1b7f7a6a6d132306
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/Misc/doorwayglow.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/07f3b86365c5072d6635295e92c8c407.unity3d

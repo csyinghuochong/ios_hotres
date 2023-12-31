@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1168882068
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da33cf3741712fcc647415fbc27e41c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Vermilion-BuiltIn/Textures/WallTile_A_Basecolor.tga
+Dependencies: []

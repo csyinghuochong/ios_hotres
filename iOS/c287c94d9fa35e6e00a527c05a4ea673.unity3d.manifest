@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3433038397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 845132a3b46d5a2db6577e64de84dc4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f506b9622ae27fda89e6ac5748aa74c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/2000008.asset
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0fd97bdad8b3da112ca07fb1b8789598.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9df484e4bde502f526b54e952cf19b0a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e4c4249e374d2b99ab8cc15618c3771f.unity3d

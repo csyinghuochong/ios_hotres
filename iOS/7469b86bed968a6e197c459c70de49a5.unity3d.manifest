@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3771554680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e8446949b82a5ae1861a3f62050a343
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad2103df4861a14a13e988405720969c
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Atlas/Blood/Img_241.Png
+Dependencies: []

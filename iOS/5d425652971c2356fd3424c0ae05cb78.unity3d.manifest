@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1564077222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97c7d1cd5adc4e712766f7e661555b86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_rooftiles_Normal.png
+Dependencies: []

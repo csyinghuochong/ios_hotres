@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3750436763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 676bd3640c6bd76278d16acd0e71865d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Ivy4.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/784d875cffb636f146940d139056e23f.unity3d

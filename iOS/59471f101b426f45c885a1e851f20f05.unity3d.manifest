@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1742269644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6a676b2e5cce9b1bcec944395a67dbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/huifu3.mp3
+Dependencies: []

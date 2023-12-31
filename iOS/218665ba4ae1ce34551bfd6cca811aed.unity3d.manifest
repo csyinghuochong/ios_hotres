@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1517406069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 240931d2980c5d722abaaefff9d39ad2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Bucket2.jpg
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 979839274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04ee7bab662e2b78bfd42dfaadd81d2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Object88.png
+Dependencies: []

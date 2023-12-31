@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3840347694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1477d42401fb8849df86eb744e5be2ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/xulie_yan100_3.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1ad23aafa1c02a5fdf1657a070b25f78.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6ccd0a9777d3d716d02daecc56622a24.unity3d

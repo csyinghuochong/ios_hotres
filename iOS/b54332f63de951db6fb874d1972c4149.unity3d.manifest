@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3133578694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e85af382fe9cdcd56fa1bf06bead753a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/FirstWinConfigCategory.bytes
+Dependencies: []

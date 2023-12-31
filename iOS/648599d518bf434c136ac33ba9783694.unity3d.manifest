@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 614854213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8916c73635ba21f4f315a2fe9a0e5622
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_2/model/ZC_diaosu02.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/11eddb2cf6c2735e688527be7bc82821.unity3d

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 373038737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4002495454126ed955e69ad395f5d458
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Props_Ice_6.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5b1f75a22a4463ed190a2162dcde7880.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ffbca68969116805eb360d72ac25aa2d.unity3d

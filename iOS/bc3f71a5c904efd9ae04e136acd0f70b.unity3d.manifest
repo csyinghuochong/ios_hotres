@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1923007110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35039697487960e9f99bf823caefbde0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Eff_Skill_XuanFengZhan/FadeAnimation/Ground02.anim
+Dependencies: []

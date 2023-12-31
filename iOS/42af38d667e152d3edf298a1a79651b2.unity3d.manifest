@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2764232454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ccd100b75c6d026b1358df7bfe1ed5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Res/UI/Font/\u963F\u91CC\u5DF4\u5DF4\u666E\u60E0\u4F53M OutLine3.mat"
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/777dae2cebb5ad0c2749c3cd529dba0a.unity3d

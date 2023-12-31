@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4272824785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bec591d90dd6bd13926fd2deadf97dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09cd7455ca261e4d8c99dd891d671071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillHitEffect/Eff_Hit_Du_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9c407be29bfd9eac05ae4c82d6c78370.unity3d

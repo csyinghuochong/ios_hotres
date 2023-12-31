@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2058432557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d0fae92031932f264186b7de4a5edc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91616ee0f4a9ff2ba0344d9437b15a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/MonstersFlower/Animation/FlowersMonster/Monsterflower@Damage.fbx
+Dependencies: []

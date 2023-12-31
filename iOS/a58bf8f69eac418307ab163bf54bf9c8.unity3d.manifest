@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 910041882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66ed60d2ef6c20f67b5fae10af896110
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Warrior/Suriyun/Animations/Animations_v3/AnimSD@IdleB.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/063b1d375fc60f398487df1d2aefa388.unity3d

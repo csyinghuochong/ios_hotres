@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2289757429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c19f6958a68edda163f44de0db8a81d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 61d262f4dae18014025da01b5f112540
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Component/MonsterCamera.prefab
+Dependencies: []

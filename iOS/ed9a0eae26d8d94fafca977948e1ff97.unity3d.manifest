@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3085733390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e54a6299506b4aca3a866c445029772c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Materials/Circle_11.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bbc871ad0dc5e7bed03aebf7f64ab62f.unity3d

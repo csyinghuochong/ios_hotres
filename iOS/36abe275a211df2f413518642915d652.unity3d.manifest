@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2102696432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccfa46691e83b85de02bbe4ce8061cab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_bookset_Normal.png
+Dependencies: []

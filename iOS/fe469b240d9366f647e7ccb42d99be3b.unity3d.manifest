@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1650076418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3256b284cec9861b8f02321f755bd779
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Meshes/MushroomMinion/MushroomMinion_Weapon.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7cd506cca17bf410faad8f25fad6e846.unity3d

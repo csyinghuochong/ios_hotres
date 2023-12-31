@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1892636420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac7e3c511e570268094492195148de83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Loop4-57.tga
+Dependencies: []

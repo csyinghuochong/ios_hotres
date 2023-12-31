@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1324928527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93beac76f6b3aff6309c198af5f08d81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Body_Normal.tga
+Dependencies: []

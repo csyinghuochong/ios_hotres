@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3425268177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c235e6c77cc2301215ef2a17067c76f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BMFonts/Font1/font_1_0.tga
+Dependencies: []

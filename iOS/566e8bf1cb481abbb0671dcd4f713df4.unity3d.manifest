@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 850035840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15118d93d9248dbb4e4a3dbc075f815c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db0e312b6b14d29c3f5efd4298b934b6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleLieRen/zhanshi.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2eacbdfecd197dd083218c697657052e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c6a8253037240ae3e475216caf19c138.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ec3ffb07bc47cdcdeee8069866887ea4.unity3d

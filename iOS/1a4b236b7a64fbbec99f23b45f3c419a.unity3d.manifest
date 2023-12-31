@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2547236414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51c12d1338ffdb04882e2cc0e8a7bf75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc9a9295674c033203852a6dfe573d41
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4fa024c655054d81b090022033e5eda, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Rose_CriAct.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2bab62feecbb92ac94af005f61a6e4e2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/77fb299ed9d5406debde33b2b89950a9.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9519c398aad25244b2a0d90419d6da89.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b3a538d976c04dd1f2c115f43b715f9e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c2fb22bd164c526f0a7df0f8c2e7cb4b.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d5618f6f44f9f52a7d7766fa462d2a76.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/eb2ec300ca029c0eb1220c46fc77070f.unity3d

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 424377425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9c908ab5f55b8984c92e7ae897f70f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Point/E3d-blast-58-Allen
+  1.png
+Dependencies: []

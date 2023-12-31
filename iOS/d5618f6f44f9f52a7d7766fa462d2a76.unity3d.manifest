@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4179674118
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46a7b26bba32490e3ea5995538593058
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d52e6fc37abc9baeae2e5a2026c904f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Model/Bom_Element.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0c4c67f4b69e2df3257ce3c22b4c0272.unity3d

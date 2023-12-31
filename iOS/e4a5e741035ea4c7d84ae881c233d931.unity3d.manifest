@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3159851493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c3481447b4f0047e1c0ed8532eb5cd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Holy/Materials/Angez/T_Angez_A.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3753a48329a6494e3187aed2e43d7aea.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7ef70646b2b8aef4b653811f8ed7361e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d0633633bf2d53254735307a33316bba.unity3d

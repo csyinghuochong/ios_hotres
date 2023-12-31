@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4042609453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4fa24c243845fd1f70818f7f4f566d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fd6089ee756c89abace9cc27ff36415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/environment_Building_fenghuotai_k.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/97749c6de79f61ed0853a4bf9f4bee02.unity3d

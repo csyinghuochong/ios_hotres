@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4260881678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e81bab5223e0f5d459bbe3f4b1f3fb3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Glow_A/Glow.png
+Dependencies: []

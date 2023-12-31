@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2733695649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3f831177e5638b67b85d6d23d074333
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_OnionGarlic_01_AlbedoTransparency.png
+Dependencies: []

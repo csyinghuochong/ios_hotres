@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2701275370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31e65aa8fc8cf2227778363475f2ecf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Point112.png
+Dependencies: []

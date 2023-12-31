@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 240012916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d85c4839b64e33f43cbb2a886cdf32a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/Ground_01_winter.jpg
+Dependencies: []

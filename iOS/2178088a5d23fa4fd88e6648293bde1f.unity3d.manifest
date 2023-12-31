@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2443169637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dea03112098a6f5826e526763226d9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Flare6.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1503563016
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24486cdb685a0d15c9977361efa0ecd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5a08a11ca3e67b0ba0c8e2a2129af5b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Holy/FBX/Angez.fbx
+Dependencies: []

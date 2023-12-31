@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 141484402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1230b52f68f086109e0c8046631324b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/OtherIcon/hexin2.png
+- Assets/Bundles/Icon/OtherIcon/HuJia_13.png
+- Assets/Bundles/Icon/OtherIcon/Mine_3.png
+- Assets/Bundles/Icon/OtherIcon/Img_22.png
+- Assets/Bundles/Icon/OtherIcon/HuJia_11.png
+- Assets/Bundles/Icon/OtherIcon/Mine_2.png
+- Assets/Bundles/Icon/OtherIcon/WuQi_5.png
+- Assets/Bundles/Icon/OtherIcon/keji_8.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_302.png
+- Assets/Bundles/Icon/OtherIcon/ShouHu_1.png
+- Assets/Bundles/Icon/OtherIcon/ShouHu_2.png
+- Assets/Bundles/Icon/OtherIcon/hexin3.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_201.png
+- Assets/Bundles/Icon/OtherIcon/Img_20.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_202.png
+- Assets/Bundles/Icon/OtherIcon/Img_19.png
+- Assets/Bundles/Icon/OtherIcon/Img_hole_103.png
+- Assets/Bundles/Icon/OtherIcon/keji_2.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_103.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_303.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_102.png
+- Assets/Bundles/Icon/OtherIcon/WuQi_4.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_203.png
+- Assets/Bundles/Icon/OtherIcon/Occ_3.png
+- Assets/Bundles/Icon/OtherIcon/keji_6.png
+- Assets/Bundles/Icon/OtherIcon/Img_hole_101.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_301.png
+- Assets/Bundles/Icon/OtherIcon/ShouHu_4.png
+- Assets/Bundles/Icon/OtherIcon/Pro_16.png
+- Assets/Bundles/Icon/OtherIcon/WuQi_3.png
+- Assets/Bundles/Icon/OtherIcon/ShouHu_0.png
+- Assets/Bundles/Icon/OtherIcon/Img_23.png
+- Assets/Bundles/Icon/OtherIcon/Img_82.png
+- Assets/Bundles/Icon/OtherIcon/Img_hole_102.png
+- Assets/Bundles/Icon/OtherIcon/Img_26.png
+- Assets/Bundles/Icon/OtherIcon/keji_1.png
+- Assets/Bundles/Icon/OtherIcon/HuJia_12.png
+- Assets/Bundles/Icon/OtherIcon/keji_4.png
+- Assets/Bundles/Icon/OtherIcon/c11.png
+- Assets/Bundles/Icon/OtherIcon/Img_hole_104.png
+- Assets/Bundles/Icon/OtherIcon/Mine_4.png
+- Assets/Bundles/Icon/OtherIcon/Img_hole_101a.png
+- Assets/Bundles/Icon/OtherIcon/c12.png
+- Assets/Bundles/Icon/OtherIcon/Img_28.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_101.png
+- Assets/Bundles/Icon/OtherIcon/Pro_17.png
+- Assets/Bundles/Icon/OtherIcon/Occ_1.png
+- Assets/Bundles/Icon/OtherIcon/keji_5.png
+- Assets/Bundles/Icon/OtherIcon/Img_27.png
+- Assets/Bundles/Icon/OtherIcon/WuQi_2.png
+- Assets/Bundles/Icon/OtherIcon/keji_3.png
+- Assets/Bundles/Icon/OtherIcon/Img_29.png
+- Assets/Bundles/Icon/OtherIcon/Img_25.png
+- Assets/Bundles/Icon/OtherIcon/keji_7.png
+- Assets/Bundles/Icon/OtherIcon/Start_2.png
+- Assets/Bundles/Icon/OtherIcon/Img_24.png
+- Assets/Bundles/Icon/OtherIcon/Start_1.png
+- Assets/Bundles/Icon/OtherIcon/ShouHu_3.png
+- Assets/Bundles/Icon/OtherIcon/Img_21.png
+- Assets/Bundles/Icon/OtherIcon/Img_hole_105.png
+- Assets/Bundles/Icon/OtherIcon/Mine_1.png
+- Assets/Bundles/Icon/OtherIcon/WuQi_1.png
+- Assets/Bundles/Icon/OtherIcon/Occ_2.png
+- Assets/Bundles/Icon/OtherIcon/hexin1.png
+Dependencies: []

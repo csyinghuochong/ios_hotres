@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3692993629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bed0d003d2a872a500252911ca0fd949
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/BH/Effect/Animations/E3D-Skill-Blast-Orange1.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ab482992722ca2dc5abb96b81325314f.unity3d

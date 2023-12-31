@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 565624386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51620f76e5769230a809a236a2cb69e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Materials/environment_common_men_001_02.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3d4f31513afa626e0785912449828100.unity3d

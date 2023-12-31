@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2661654497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e87a4d03e07d956f61d5d5e4e7a489d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/Snow4bcg.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2f1cda015b34ee0ff559c6653e4e26bf.unity3d

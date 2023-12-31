@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2688498969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f3a10f5b6057b4aa32bc7c0563216d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/Texture/SHOP_CLOTH_01.png
+Dependencies: []

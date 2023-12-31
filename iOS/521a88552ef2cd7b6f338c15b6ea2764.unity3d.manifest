@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1285335556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 872948203a96e5c1b7b98563ccc8dab0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/JingLing/10003.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2249a9ec6c8069fdd9ca589f4fb208de.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c451ae6554bc49b619763eefe9a9902b.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c99dfd284a52689b0b80553cde3fdd95.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d25435aac15f4c114a94f7b2b5ce4280.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d76986d1d55fef87265b4d8761a34401.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e9f0e8e84ca1ccdc45ad83631c60a056.unity3d

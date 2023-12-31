@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2731713954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28f0f3ea59402d55fe87ad3b0b1c5a77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_358.png
+Dependencies: []

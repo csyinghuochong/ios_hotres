@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 698751623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11ea75c046e9b817e9b4a64e7b3972de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/Scence/Modle/FB_4/Model/Materials/FB4_Zhenghe02.tga
+Dependencies: []

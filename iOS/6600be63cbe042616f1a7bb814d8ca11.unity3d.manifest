@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3193360042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5652c902cfa39324e177776b340960fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d30ebf20103afac8b6cbee25e8a2d07e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Model-E3D/E3D-Squaresheet33.fbx
+Dependencies: []

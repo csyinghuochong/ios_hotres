@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1280537730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ea717a5f1610d122b79b0da5f1399ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Skill-Brandish-Blast-Cyan.anim
+Dependencies: []

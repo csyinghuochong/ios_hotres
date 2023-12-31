@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4051665236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 804d544ba07b7e6938daee41e4ca7148
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/StylizedProjectilePack1/materials/smoke/realisticSmokePuff_alphaBlended.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/63703f1f70d6062d04d3b773f193613b.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 193581543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31f7f8fc8911310f2b3e68fcbb2d3a26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Eff_Skill_FireWall_01.anim
+Dependencies: []

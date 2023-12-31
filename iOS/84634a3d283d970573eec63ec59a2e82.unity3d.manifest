@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1531504144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f74a8ab06b21b641f914034ad48f169f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Soft_Smoke.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 317774983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9af72b90654f01d53ffbd053fe84747d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09cd7455ca261e4d8c99dd891d671071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_ZuZhou_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/01f9c93bb6bc15d95b0d68a12ed64f23.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5c3fcc341d2d1afde59b74847acb8e34.unity3d

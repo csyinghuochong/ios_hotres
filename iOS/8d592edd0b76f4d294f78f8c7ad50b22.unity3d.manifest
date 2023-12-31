@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1052550854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6004bedcf8d608f0a2d23f16371855a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 444966610bc7fd885616cae26ad18309
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/reflection.tif
+Dependencies: []

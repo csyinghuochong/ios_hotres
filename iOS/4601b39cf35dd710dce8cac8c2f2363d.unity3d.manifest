@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3927929383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0c94732d55c224995032f6dee9c42ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/obj_small_047.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4eb7ec892c29ab65d8beffecbc7c4fca.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/933fba1496bd4940dc40a6a5e1aa515c.unity3d

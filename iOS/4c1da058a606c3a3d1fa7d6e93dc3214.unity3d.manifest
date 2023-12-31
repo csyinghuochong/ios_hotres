@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 447307095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7fd0ae28f5a392cd036892dc0733ad8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Electric_Splat_Hit.png
+Dependencies: []

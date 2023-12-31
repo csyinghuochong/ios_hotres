@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 430495862
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df6b2500f37143237a840b75ad9245a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_muzhixiang_002_a.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f20bb3ac6e1a0044ed7b3ed566573734.unity3d

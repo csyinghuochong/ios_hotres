@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2767970749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efc0c4bb18134c6bd3b4a0261fddaf3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/LowPolyFantasyWizard/Animations/Wizard.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/eb46b618f54d9b0c697bdc0d23ed810d.unity3d

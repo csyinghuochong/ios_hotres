@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1020064714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53252b1eeaa6719c82746e7925de09e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87d8350b46029255406d612579664277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/ScenceEffect/Eff_JiaYuan_Select.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/aa6f4e712dacbfbab5e320cdf79c79fc.unity3d

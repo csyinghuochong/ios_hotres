@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3213517234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 549382719bbe9ced1cb57e50e9baffe7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Meshes/Slug/Slug.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/da3529a96f6d4d85e117d14f6d0553fc.unity3d

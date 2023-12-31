@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3563635854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bdeed533985c54bb76b10a033da9187
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Point112-3.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/cad3ca49621bc735548f04082b6ab680.unity3d

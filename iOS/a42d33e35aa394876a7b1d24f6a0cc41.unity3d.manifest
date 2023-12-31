@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3761505537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a33d6eb58d2e13b8e04cd8261a031453
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Texture/Dust_A.png
+Dependencies: []

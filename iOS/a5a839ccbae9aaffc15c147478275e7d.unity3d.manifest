@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 620619291
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c98ef927b4b074a9498090a32fc80b76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Glow1.png
+Dependencies: []

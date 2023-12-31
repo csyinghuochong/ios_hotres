@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2681870839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76cd4125d2d31e1490c6ee76d6a4110b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/WuQi/Texture/slash03_anim.png
+Dependencies: []

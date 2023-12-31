@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2600962556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16e7a28f0ff50fd96a8a2c8bca79dd63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_muzhixiang_002_a.png
+Dependencies: []

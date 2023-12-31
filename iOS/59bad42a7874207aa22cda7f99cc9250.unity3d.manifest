@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 854385026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93b9e7b0b3db29a417618f5ff29143a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Spell-Cure-Green2.anim
+Dependencies: []

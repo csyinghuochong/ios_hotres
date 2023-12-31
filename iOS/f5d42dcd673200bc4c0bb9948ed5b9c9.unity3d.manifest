@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1685591373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f90157b5ad2868535f32865fdf8300a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Common_FB_chuansongdian/Plane001.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/33747cb0c29c91555f80d816ce27528a.unity3d

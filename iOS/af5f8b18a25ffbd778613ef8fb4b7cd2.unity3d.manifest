@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 34422723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3ef44163dd6841dcf3b3d0fcc007bdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_445.png
+Dependencies: []

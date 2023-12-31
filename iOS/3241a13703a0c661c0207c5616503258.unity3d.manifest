@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3560237476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb7d38c539be8f03cdcc45970f73b424
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Eff_Skill_XuanFengZhan/Materials/UV.mat
+Dependencies: []

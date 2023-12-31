@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 144866292
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d093d976d643bd0aea38d77b5767a25
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3284ab4174ab8381d94a9063ecf28b4d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/UI/Common/UIModelShow1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/231b7726f4170e31764ad2f482ce25f1.unity3d

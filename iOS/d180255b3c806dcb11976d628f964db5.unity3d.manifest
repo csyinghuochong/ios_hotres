@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 762280669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e58fd59baab423f08e25b02f177ee6f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/T4M/Tutorial/Textures/Sunny2/Sunny2_down.tif
+Dependencies: []

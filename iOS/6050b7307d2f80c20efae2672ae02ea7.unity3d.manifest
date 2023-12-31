@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3919093449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c1e824c62deb8b34b1e8a40b3a1976f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_flowerpots_Normal.png
+Dependencies: []

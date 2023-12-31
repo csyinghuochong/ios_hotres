@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 631774081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 495ae261774cc75092ad1a4f912a3c52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb36885f50fb4e9d74b5b344ecbda465
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Animations/WeaponMaster Twin dagger(WTD)/WTD_Run_Front.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1ae33eacf7db74c1456ee4e2751f1d75.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2fca4170f1dd667c9249995e9f210cbd.unity3d

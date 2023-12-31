@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 659260765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca73ee264a24675d6a36301a28a5e319
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_house_ground_lv3.png
+Dependencies: []

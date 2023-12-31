@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3075947283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 320b666a76986d3808153fdcfd0092fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Monsters Ultimate Pack 02 Cute Series/Dragon Inferno Cute
+  Series/Materials/Dragon Inferno2.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/407bc5d22851545411d8f3d8300bc61f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7a327c387967eb53b93b15eb4f5ac297.unity3d

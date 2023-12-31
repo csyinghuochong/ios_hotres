@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2336532628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38feba265863ac6ee3f4091995cdc4e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85feaa1460ca3f538dafd1b19ec4b99d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Materials/Tx_flower_blue.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/00a9eb44970c6511995a1eec936b7cdc.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bd0be3b4f82a53e2c28c112f0a8f67ad.unity3d

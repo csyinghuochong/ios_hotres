@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 468077627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cb0369a1e12f86a0f3977e50658e841
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Loop4-34.png
+Dependencies: []

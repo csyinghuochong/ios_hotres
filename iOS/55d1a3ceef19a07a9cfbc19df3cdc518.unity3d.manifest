@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2258983031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3219235bfd7a9405a050356ac3b9687
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/CartoonSkyboxMegaPack/CartoonSkybox/CartoonSkybox02.png
+Dependencies: []

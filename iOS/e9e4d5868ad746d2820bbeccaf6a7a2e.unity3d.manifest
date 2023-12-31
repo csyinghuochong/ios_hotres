@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 550967333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8e9498a91e83be1eb18f629fb2e133e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cef0ff3d74dc1707a6ef02119582b724
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BMFonts/Font1/font_1_0.fontsettings
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5b177d5cf259b3a406f0be34e5ec98d5.unity3d

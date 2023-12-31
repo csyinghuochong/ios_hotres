@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3466339265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47f09fe0c9ec00f83c19cbf5a0bd7c43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/environment_common_huopeng_06_01.png
+Dependencies: []

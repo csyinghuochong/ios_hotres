@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3553033436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89f1124e97e0c4054a3924e5c40cf6b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Other/34be2599.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1072275522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8746d53127f282440d59a8d43b840ce1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad2103df4861a14a13e988405720969c
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Atlas/Blood/Slider10_FrameLine.png
+Dependencies: []

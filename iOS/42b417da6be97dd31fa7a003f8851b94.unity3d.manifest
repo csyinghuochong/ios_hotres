@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 735377106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c77822ce64f2fda58883a2ee429bd5f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/environment_common_huopeng_004_a.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/cd13a918b1d6e72d6c48d4d6100d0ac9.unity3d

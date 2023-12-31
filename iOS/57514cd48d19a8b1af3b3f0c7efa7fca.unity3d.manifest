@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2733279009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee55c904177631638db47d51419838a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/Prefab/building_potion_lv3.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/42a418995baa02dee8d3d6437ac918eb.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/793568b7c6dc3aeb08deeb8603a1581b.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/87f70dcbd97a6fc9d274c1c256b75254.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/979aa2c2d291a378752e7fb3b7f0e98d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a92877fe3d8abd82fdf12460fe15f80d.unity3d

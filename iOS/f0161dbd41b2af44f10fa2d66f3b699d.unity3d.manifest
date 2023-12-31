@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2453526744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6f876ce9496a9c92fbec115aa57350a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/NPC_AnDi.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4c444c270dceaae462b3c6e00a52bf0c.unity3d

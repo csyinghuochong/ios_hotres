@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2242536477
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aed9870db76ba1f52068b7b5aafe56bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09cd7455ca261e4d8c99dd891d671071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_FireRain.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/14d4a3fd4d6e94badc06ab6cd22d59cb.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bf0d9017e287fc590944271b03c74631.unity3d

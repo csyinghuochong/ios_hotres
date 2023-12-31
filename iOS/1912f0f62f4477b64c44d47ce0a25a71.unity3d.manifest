@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3214779949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56b0a371f74b6b6131a916fe43a0778d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Table.jpg
+Dependencies: []

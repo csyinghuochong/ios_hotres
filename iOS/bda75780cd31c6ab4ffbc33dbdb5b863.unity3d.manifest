@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3358632459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe3ad40b2ccf64a7bbc959faf1b3140f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Materials-E3D/E3D-Object-Loop-Loop17-urp.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/47ffe3b67b07e7a1ea6c12fbf5cdbc99.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/62bf2ad389a035a5799c194219c33b0d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/68604fd6e13217efa808431b02053c1d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/855845e5e3215d86fbe8c86783b8b94f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b4a1550cba43196a332fbe65c3562c9d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ccff0f7346524c4864b2248482bcb026.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fde6885f99137494016b0ef537cf3979.unity3d

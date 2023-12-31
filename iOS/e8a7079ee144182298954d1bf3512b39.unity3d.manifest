@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3355691262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2232b716e0617d6663d49bf7e97474d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/OldRes/OldNpc/AnimatorSet/NPC_XiaoGui.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6e8d3232990e71adbc848fd814da376f.unity3d

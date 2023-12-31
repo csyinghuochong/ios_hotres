@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 7668623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b370cfdaba95e211c7ba3e8c5e83c3dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Jpg/Back_24.jpg
+Dependencies: []

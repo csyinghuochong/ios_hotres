@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2702182458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9030995c8342c666faa4daa833752ece
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: afca19c22f3a1c0863082a46c865f040
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1359aeb37551d8a49b82c3d932442b18, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_FireWall_Posi.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2321c10079ee740f4d83a00fc6e06320.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/61bd4638374cb5beb1ae3f267508a631.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/85ef47fc724fea38cf8cc3a6c1a13ea3.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9f02da61c2a945a47efd8f3dc9510066.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bf70c6db0c0c12e04df48bd3f4d4b508.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c33c25bc17b8835a44ebc6961f2d4c86.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fd2c3da38db74020665a52bb4699ac80.unity3d

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2076536043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fd7356d8ef5b6c37ad1f419d3ddbcb3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927992f938b2fd1472c3a014541d1669
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Scenece/DoorWay.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6986f903b6ea7598709408e3fd1b697a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9c407be29bfd9eac05ae4c82d6c78370.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b3a538d976c04dd1f2c115f43b715f9e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e4f7fdf7057fb2a49274a7b48d475fcd.unity3d

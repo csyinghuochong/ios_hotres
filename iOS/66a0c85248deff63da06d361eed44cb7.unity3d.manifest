@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3728664246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33f12f3eca612d6a50ae3f48e769caa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e86aac4e67c8d3402f337ee83293a758
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Monster/72002011.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2ad64236f7c554493aa97d6192887b4a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6a905bc993896b3c7463dafc210be0d8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ac6c2aa1341130baf871375264f8f984.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d3d19d858c806bbd85c3ad0db769b940.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/da3529a96f6d4d85e117d14f6d0553fc.unity3d

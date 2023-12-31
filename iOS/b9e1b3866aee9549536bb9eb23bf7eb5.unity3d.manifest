@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2738018815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18d89cbc0dbbbd47f93cf7c4119fb927
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Spell-Blast-Blue1.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d7b6ad9b0f17f7a362d54457d8685eda.unity3d

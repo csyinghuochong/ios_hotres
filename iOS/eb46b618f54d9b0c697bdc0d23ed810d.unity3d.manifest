@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 761517193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1165113d71733adca770f03117513d1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a29453440e1881222464ed411a06d5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/LowPolyFantasyWizard/Animations/Wizard_Animation.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3d08a21e93719409b5d2cd93c843ffeb.unity3d

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1031146817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39cd626cbdb46dda3e22d50c31aaf64d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09cd7455ca261e4d8c99dd891d671071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_JiaXue_2.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9c407be29bfd9eac05ae4c82d6c78370.unity3d

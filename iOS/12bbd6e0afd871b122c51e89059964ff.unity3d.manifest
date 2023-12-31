@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 492724379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10e3343fb879a04ac4e12fedc2b65240
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/UI_duizhan_baoxiang/Opening.anim
+Dependencies: []

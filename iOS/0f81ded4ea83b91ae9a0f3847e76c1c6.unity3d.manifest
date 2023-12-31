@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2430236936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78d85fea063cd35d1f0da875a28b6faa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/a3dun_crater_st_floor_D_01.jpg
+Dependencies: []

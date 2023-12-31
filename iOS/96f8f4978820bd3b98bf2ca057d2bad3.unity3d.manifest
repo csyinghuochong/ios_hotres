@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3436530843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac1d2a2f93def2ee8026aa535fe95915
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Stone/Model/Materials/Rocks.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7f06cca7718cc08944e79d4ab01e3306.unity3d

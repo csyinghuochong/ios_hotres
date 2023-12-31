@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2293066019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efea71e59328554e239c7e8498403586
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/Materials/blastmarkwide1.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/da6ef65c606c68ca506b4e389490f9f6.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3399019274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e057d98a3a2297fbcdccf71e5a4e6bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Direction147.png
+Dependencies: []

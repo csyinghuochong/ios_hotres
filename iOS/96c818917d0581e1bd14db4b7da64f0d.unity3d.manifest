@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3475447172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bffdee0a3d4e56c8320f73c2816a0f01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f0252db3c7fb55fc46c0286ed37380d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/ItemModel/14100211.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4a1ffdb485c328804863cac311534840.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e2b72802e5cde83a125596ffe2fb6454.unity3d

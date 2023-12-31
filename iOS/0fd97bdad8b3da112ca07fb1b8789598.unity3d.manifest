@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 78738578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85502cf780b8a8f5f4b0bd84c7b7eb9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 789e2790b0ef41f0a83539b7c77b0723
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/ThirdRes/_TerrainAutoUpgrade/layer_Tx_FloorStone02793646612c42751.terrainlayer
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/046a5df666a9508659fbfca62e581efc.unity3d

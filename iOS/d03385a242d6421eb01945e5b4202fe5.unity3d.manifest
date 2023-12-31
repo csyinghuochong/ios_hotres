@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1345797979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf4d78a3cf5bbebded92c649f9067088
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Materials/environment_common_zuoxi_001_01.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6aa67c9aee5d1790b38c350cc04be25d.unity3d

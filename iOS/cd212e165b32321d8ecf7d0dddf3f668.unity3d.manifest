@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4110115522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb6a80d46082913140b66830ca3f2455
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fd6089ee756c89abace9cc27ff36415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/build/stsm_build_zahuopu_001.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a7e60f251bfc742e8abe45ac7d7f5844.unity3d

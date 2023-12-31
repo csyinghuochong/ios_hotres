@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 956408806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f9983d35600ab8ba636b39c2d95b5e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_441.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2337879936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c55ff34261a265fb2ad99f90c0f1a06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Watermelon_01_AlbedoTransparency.png
+Dependencies: []

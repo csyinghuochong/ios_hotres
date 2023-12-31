@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2885715998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6ca1167413e1ff1d45b3b15f6c73c2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_pottery_BaseMap.png
+Dependencies: []

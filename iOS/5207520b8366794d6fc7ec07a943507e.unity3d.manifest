@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3719061782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a7137decf8adc241e509f7d72f94b6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91616ee0f4a9ff2ba0344d9437b15a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Vegibi/Animation/Vegebi@Atk.fbx
+Dependencies: []

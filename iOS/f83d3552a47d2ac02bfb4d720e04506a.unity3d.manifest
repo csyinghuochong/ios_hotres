@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3437047351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b3812e9b4d4cecc6e9d889fff843545
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29c676b04b731c4564d66e3cc4c02c36
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterModel/Monster/M20006/M20006_hit.FBX
+Dependencies: []

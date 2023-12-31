@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3250347979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e8231a690458e63afb86120436f1f05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce7cadc2d8c16b3fcbecf6a575c6ce1d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8373842c4e11e494aa5d1a146b6ffc22, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/UseModel/Buildings_J1_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7a692eafad45db70d298b002d925607e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8cee44db43f75a4f61e2d8c4d181d9d3.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e3eccfc40d5e69f825bff067bc065b76.unity3d

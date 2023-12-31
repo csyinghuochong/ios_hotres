@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1917654174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c566833bf2e4c63a931c38bcb2385571
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/TerrainTexture/GRASS_RISE1.png
+Dependencies: []

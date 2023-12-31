@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3510385244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5acb4fd3deb018aa241b91b7745a8929
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e51d083c0f2451b205832815c7843d6c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c91e06ed9dbf4a83a555f3fa34018892, type: 3}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/UI/Main/Common/MoveItemIcon.prefab
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 477530554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9eef66a3c473b28d2660121cc9f173d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Fire_real.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b3bc37c402845b70a1eba489f645a942.unity3d

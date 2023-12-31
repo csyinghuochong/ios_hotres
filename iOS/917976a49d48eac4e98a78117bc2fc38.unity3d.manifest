@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3029495096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a68485d18c6342b7387a757ccf5e7d65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/skybox/Materials/skybox_yun_00.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/caf61334d9b1596d21c86eceee5f9ce8.unity3d

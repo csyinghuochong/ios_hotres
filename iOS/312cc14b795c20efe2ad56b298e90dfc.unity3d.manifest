@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 825801195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e453aeef4712cece2aabde92b1eed12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Pumpkin_01_MetallicSmoothness.png
+Dependencies: []

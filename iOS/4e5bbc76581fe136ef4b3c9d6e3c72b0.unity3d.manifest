@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3278811097
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a62b9d1fb3d378c0d8327692f84f915
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX2_glow_00229_6.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c23be0314123f83e3cd36e19a0557323.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c615c6c4ff38ac3e5a5088edb478ebbc.unity3d

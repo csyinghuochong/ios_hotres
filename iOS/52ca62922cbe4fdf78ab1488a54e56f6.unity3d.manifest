@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 457778130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a84ac98ceba136f455c883b7af371b5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/Materials/cit_shop_cloth_01.001.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/748071fa79e8d2ab2720e1d0e264f2c2.unity3d

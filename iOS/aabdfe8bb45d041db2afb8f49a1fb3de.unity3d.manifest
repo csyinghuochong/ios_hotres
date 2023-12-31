@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4024679167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d99f915e900aefd1488435beaf602f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleFaShi/fentiModel/texture/sd_yanjing.png
+Dependencies: []

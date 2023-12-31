@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3065427336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 961874bdb9b81a6c1bdae0d0d86f5b57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleFaShi/sd_c.png
+Dependencies: []

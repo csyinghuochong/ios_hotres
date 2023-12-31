@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3425012734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2267cbed24f4dbe6dcacbaf51ff5e66b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Skill-Front-Blue2.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/86c9bac675771b0a75a67057e528abb8.unity3d

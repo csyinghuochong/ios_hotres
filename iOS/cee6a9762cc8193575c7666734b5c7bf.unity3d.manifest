@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1216197730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c3245de4b0ddf975ff56565f144c34e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_335.png
+Dependencies: []

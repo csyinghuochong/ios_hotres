@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1941705328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 493296b5aa73948bc239ae33b8c683bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_StageModel.jpg
+Dependencies: []

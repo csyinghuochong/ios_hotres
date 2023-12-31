@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 533358716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19d3ba0e491f1e71f7be9606fe3728d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Cucumber_01_AlbedoTransparency.png
+Dependencies: []

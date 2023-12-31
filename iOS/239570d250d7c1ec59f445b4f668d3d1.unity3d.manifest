@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1231861752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f5628167c33a9a3891a99e3070dc6b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/Ice_3.png
+Dependencies: []

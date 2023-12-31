@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2289768416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41626c522a28e4673ad7d923b42bf4b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Tga/yewai_zhiwu.tga
+Dependencies: []

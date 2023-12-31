@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 449973742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be6766fd1672b3229d2c05a47429bf4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Cute Zoo 3/Texture/T_Wolf_A.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2644924176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e6d980d5ccfe0e30a80f9871c869cf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f0252db3c7fb55fc46c0286ed37380d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Cute Zoo 2/FBX/Owl.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1cc9b721b2dc2326c59aa51385ad29e8.unity3d

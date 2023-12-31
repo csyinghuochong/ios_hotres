@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3685898269
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c768f31ff32b760fcc224d9ae8c34bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_basetexture_stylized.png
+Dependencies: []

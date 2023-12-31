@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2597958411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50691487a059741b0a9311c575a10d9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/dirtyFlashAdd.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/90c3486950080b0451b74bd29871c69b.unity3d

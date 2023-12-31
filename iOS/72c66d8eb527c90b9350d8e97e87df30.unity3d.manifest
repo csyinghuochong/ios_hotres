@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1827180444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e75730edd54ffb018d8cf3385d0714c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_2/model/Materials/ZC_x2.tga
+Dependencies: []

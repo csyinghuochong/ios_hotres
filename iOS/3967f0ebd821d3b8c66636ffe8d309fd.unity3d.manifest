@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1863490667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f86ea5e3058272f0db8742f5e919404
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/1/Hero_meimao.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0458fc11ee74a17380284b0c46fbc14a.unity3d

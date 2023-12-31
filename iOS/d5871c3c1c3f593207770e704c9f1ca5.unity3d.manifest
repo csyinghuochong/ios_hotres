@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2177161961
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9552e35ca648eaefc06c414f8bfd6302
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/tex/104120_sh_npc_d_512.png
+Dependencies: []

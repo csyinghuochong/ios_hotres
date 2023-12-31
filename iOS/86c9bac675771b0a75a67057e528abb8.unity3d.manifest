@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3080225958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47d60bb73629ddf6512e00a3180cb94c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Skill-Front-Blue2.anim
+Dependencies: []

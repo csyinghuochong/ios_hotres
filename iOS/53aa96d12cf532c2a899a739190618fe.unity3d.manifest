@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3241275241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50687a5d797716711d0217912ad95103
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5d9bd18d4e8e2f5eddcc0ddadb31392c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 760e21c6793f79a4ea96b659e2823eb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5adaa9a4c3fdef840a58462d041416de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3be6197e56a23b40a90baf2a24d646a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_ShengMingNuHou.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0b9b83d8e73e4cb201e68f92d5bee91a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0bb829f8e120e501ab29d0fb734cae45.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/45196a3c238823bcb3bd210418223c9a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/46b3cbfc6ec5c212cd6935118209884d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/559377e064cbf7db78e478d4caa611b6.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ed69380a0e0409bc768111c8caff227e.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 825738659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 397a8fb97bf87dfbfda8669bf527fafe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Stone_Debris.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/47cfbc781f5d854f218585641aad4f20.unity3d

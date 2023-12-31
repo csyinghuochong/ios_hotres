@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1574508165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b5a0b261c5de688084f543451c2d275
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87d8350b46029255406d612579664277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_PenHuo_2.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/50d0c1813f82d388950e2fd43e824df8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bf70c6db0c0c12e04df48bd3f4d4b508.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c986d26dd2bae7ee225c38bbc7e34ea4.unity3d

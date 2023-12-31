@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3027366792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 791cf0f0b892b388a27b1ddab968acd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Object100.tga
+Dependencies: []

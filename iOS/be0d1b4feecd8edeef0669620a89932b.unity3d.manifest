@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1433068155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b77068c287bcd2d69ec138bdf9d02e1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5a08a11ca3e67b0ba0c8e2a2129af5b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Cute Zoo 2/FBX/Turtle.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d5394b36f6944c1e7eec0ad196409302.unity3d

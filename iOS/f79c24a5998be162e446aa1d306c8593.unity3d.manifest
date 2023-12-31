@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1558617081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 524ef7b434f3700785fa90afd114a21b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab24336cd9e425f4e45d4ccc59c271dc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_HuoChong_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0f3251f1da70571962c91db20fa3f51f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0fbf8525701fec04e57430a1f7191d87.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/253707db24ba9cd0914eebc5182e1adf.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/345bc438202bffd7ed86534638fbefd8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/de04d499408a7f1d9761eac05fa50c78.unity3d

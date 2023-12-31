@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1257719536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94089021b6a25430c21eb3afb7f3a24e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_flower_yellow.jpg
+Dependencies: []

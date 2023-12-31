@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2611527348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f73b5f2534089d8b0538dac9143d3ce6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Models/Materials/Plant_A.mat
+Dependencies: []

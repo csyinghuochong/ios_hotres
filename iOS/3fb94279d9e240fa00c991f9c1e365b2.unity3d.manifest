@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1680862129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05e7699858c66a0cd9de26b97f9262fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Materials/environment_common_shitai_005_05.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/05d246776d6bec88cb1fc687c0b1e68e.unity3d

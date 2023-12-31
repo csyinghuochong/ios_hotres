@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1130570592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e55d958b479cc1b65858a4711ababc3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Textures/circlecurve.png
+Dependencies: []

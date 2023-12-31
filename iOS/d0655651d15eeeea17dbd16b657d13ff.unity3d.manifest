@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2989667479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a330d99e88aed945c3114c1a2531266
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cf0f4debf53e72cd715647c8f304bf8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Monsters Ultimate Pack 02 Cute Series/Wolf Cute Series/FBX/Wolf@Happy.FBX
+Dependencies: []

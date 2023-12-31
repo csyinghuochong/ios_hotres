@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2932221748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c13e9e4aa3aee9a4dc2c09a4221d844
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2afe9dce805791629fa89743b0226ac1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5adaa9a4c3fdef840a58462d041416de, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_FireWall_61.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2d3e44ece816e0888fdc740873d396f9.unity3d

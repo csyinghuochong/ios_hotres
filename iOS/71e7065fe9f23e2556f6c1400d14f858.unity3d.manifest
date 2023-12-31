@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3306346888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b3d64421cd4b1b90fc494913a7077be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/Scence/Modle/FB_4/Model/Materials/FB4_Zhenghe02.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/89828bc98b2c5b029748338cb7d0c3d3.unity3d

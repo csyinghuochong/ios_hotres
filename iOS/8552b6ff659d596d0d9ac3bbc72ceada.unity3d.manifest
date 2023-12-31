@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3838271245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c9ce078493d3307703fccfd682e3635
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/treasure_ray.png
+Dependencies: []

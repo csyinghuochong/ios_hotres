@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3425586203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e83c3d43f97cb3b98882c9b5bb8b561
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/TerrainTexture/Materials/a1dun_caves_CaveFloor_A.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bc446d7b3a5bf66dd72df3da6ddb761f.unity3d

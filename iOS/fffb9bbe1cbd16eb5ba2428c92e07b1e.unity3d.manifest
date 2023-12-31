@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1660539391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9b94fab6862abb3e9b5bd78ab3b6c4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_muza_002_a.png
+Dependencies: []

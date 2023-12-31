@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 680278165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 241343bd2f36438f169d4ce71b1dd928
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/huixuan.mp3
+Dependencies: []

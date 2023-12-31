@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 114835973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e47fc8abc81deba2be4fc2c5211c40e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ee83220b973fd2c0163b95ecc77657e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_Act_Add_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1bf6662ed38e77a405a51c23d1a723c8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7661b261d753e6c755a1401d5a524482.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/80195f7200ba1d0192e926347f9f0265.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/85fe5365406b4e2286784516ee0b017c.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bda75780cd31c6ab4ffbc33dbdb5b863.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d4776e59915340f5f46a5928a882f06a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ef0dd6979425a381c1a2b66716518648.unity3d

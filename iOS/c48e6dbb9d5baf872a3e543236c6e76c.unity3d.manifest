@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2566958670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb9febbc2809a07ef765b2a7e4f0f3ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_354.png
+Dependencies: []

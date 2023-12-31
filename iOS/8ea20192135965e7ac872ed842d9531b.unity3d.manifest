@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3393225783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b511d73e90b7c5cecd71152f87655301
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Texture/SHRUBS_01.png
+Dependencies: []

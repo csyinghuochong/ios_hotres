@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2314028219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a3a056717b8d400f461a537e682d78f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cfe5e1ee7f81869fe0df2e3c5583650b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Monster/80004002.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9ac5b0909f935be81065def6fc539bf7.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b6f316118abb5d24d364cc2ebf803609.unity3d

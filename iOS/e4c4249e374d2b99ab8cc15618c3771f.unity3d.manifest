@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4157941804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 684952d0ad05f03b54d6549ffe1555a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 789e2790b0ef41f0a83539b7c77b0723
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_TerrainAutoUpgrade/layer_3ec942c0ca31c357.terrainlayer
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/11b3667a10fd8adf63706754e2a9e52b.unity3d

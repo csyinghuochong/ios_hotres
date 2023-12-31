@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1928796839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42e47e1ab311a300e455e7f4c7dd5ffd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/thinRing.png
+Dependencies: []

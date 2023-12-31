@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 132864198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b5fe54034f2bd658339b8bc425613ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Object91-1.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3644e57404b81d6942cc49784d22caf0.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ff4391dbf0f4770e5136d4255d656b4b.unity3d

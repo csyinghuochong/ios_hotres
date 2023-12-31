@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2025510578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb44f8fad92e8bda7e8e28593851926a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 756f466f3af5cdd025960e18478ffaf1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5adaa9a4c3fdef840a58462d041416de, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_HuoChong_2.prefab
+Dependencies: []

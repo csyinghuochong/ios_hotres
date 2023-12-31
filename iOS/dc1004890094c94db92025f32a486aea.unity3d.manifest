@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 259215173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 877976dcc8b026d14cfea8c1cb1d52db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Materials/Fire Pig/T_Fire_Pig_A.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7ef70646b2b8aef4b653811f8ed7361e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b6f9843f62f99bb52b56774df5424162.unity3d

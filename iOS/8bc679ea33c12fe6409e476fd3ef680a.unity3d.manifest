@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 424793687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b90b624f9eb1c78d2b7931aac5f46ef9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/StylizedProjectilePack1/materials/fire/flarespark_additive.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/55d15d3b6824bed5675bb1d5e6d34833.unity3d

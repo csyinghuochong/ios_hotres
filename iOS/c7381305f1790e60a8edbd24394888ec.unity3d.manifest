@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2432656637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f38767f62d7aba5726d8b89df03d484c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_259.png
+Dependencies: []

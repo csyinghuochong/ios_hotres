@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 857356791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d365272a3f5400f01b81dc2e46c3bcd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Water/Materials/Cute_Octopus/T_Cute_Octopus_A.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7ef70646b2b8aef4b653811f8ed7361e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e4947b789fda9c46029c2e37b2cc91c7.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1005305929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 959d974ae4251cff5f95de3bc080eca2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/B1/Effect/Animations/E3D-Skill-Continuous-Violet1.anim
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1902661814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac1227a454421f65f2bc444657ecbcd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ebac64479daed4cc03e1bcee586804
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/PREFABS/Props/SM_fence_01
+  (1).prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/75bf2352b70a41861b3a954d084c7037.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a5a43af2fda07482a503d263844500c3.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ed61e2d7b1c2d5ecfa13dbc460e3bede.unity3d

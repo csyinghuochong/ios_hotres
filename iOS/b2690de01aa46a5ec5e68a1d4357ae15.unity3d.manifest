@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2417061799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0cc71c0e584ba2b48a7c9440dedf7cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillZhiShi/Effect/Textures/item/Materials/yujing120du.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/650385bbe69f4c260bd76b54674cddc4.unity3d

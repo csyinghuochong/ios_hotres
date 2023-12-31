@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3255917055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9d9fbfea3088f0bbd53a58931f28610
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Text/MaskWord2.txt
+Dependencies: []

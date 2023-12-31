@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2889305414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b244de9f9f8b16e507fc36ba1355f0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85feaa1460ca3f538dafd1b19ec4b99d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Materials/Tx_Fence02.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8ee0c5e6fe026e3410e31aa854c5c6ad.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bd0be3b4f82a53e2c28c112f0a8f67ad.unity3d

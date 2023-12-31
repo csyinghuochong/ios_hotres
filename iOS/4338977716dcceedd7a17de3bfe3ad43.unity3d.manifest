@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1516499255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0585fb9ba444f43aa23ca22bc3792471
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Buff-Sphere-Blue1-1.anim
+Dependencies: []

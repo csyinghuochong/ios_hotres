@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2961713890
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6397b5c234bbe7f517d648397a8c9f7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927deae264c95373254de01c512507ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Pasture/10011.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/29270c8aceb34e5483be471f1381e5a1.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5ed1a47616a4ebbca51d70fdc6bf5073.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/63861f363e6f81750aa704d21011b782.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7ef70646b2b8aef4b653811f8ed7361e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b060192dc8f76ced6a7af18e2887bd3b.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c6ad4ceacf1b1de21d8fad23abd2377a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d6e87874c0bc0f5df2364434aa3a9eb8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e11818bcaf863fec98714a9213164284.unity3d

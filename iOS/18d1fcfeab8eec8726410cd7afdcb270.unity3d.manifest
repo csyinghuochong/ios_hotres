@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3285724180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e94bb6e38c611bb7f342efab1016149b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_wenli_00329_005_A.tga
+Dependencies: []

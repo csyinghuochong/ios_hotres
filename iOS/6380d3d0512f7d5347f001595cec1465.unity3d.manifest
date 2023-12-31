@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4209652300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8db48a03a820e678458a34c918ff7d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/BearMinions/T_BearMinion_Weapon_Normal.tga
+Dependencies: []

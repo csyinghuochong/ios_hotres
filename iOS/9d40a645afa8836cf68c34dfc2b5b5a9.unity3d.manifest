@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1211901639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8706843a4b1d09cbbcb8aa74130a118b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillZhiShi/Effect/Textures/item/item_027_1.png
+Dependencies: []

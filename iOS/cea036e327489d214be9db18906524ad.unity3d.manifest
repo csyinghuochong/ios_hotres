@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3932460310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51a90dd54e65ed12f3c17e10e5de117d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Tomato_01_Normal.png
+Dependencies: []

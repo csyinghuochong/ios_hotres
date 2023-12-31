@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 938340184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87fba8965e9cf181c9e3875d985272c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Human Pack/Humans/Human Models/Materials/Human_Normal.png
+Dependencies: []

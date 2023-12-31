@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 113563282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d668c07e41725f77ceca31f58204854a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Cute Zoo 3/Texture/T_Squirrel_A.png
+Dependencies: []

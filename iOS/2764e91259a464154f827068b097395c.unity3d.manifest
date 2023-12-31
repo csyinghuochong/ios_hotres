@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1956773516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c0f7461e72d9c5350e89b69414b4360
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Carrot_01_Normal.png
+Dependencies: []

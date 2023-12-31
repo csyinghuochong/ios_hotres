@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3529883496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b94d32472a17f046653e705ffe35c5f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Materials-E3D/E3D-Direction355-bh.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9d59d5cf8844bcbbc9c38046d3c699fc.unity3d

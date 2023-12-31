@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 696299187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39c6fb554ba9e056174c41d64f5ecf84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/glowblurry.png
+Dependencies: []

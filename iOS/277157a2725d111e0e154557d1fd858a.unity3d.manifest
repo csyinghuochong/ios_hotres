@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2831435742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3eafb10ad1da9a86dc1f488971e2ce05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_woodenkit_02_BaseMap.png
+Dependencies: []

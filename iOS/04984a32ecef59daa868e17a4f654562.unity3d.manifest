@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1576291613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fc7b11c8953c27dcde436a5bb5f7bf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/Tx_Box.jpg
+Dependencies: []

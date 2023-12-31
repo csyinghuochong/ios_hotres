@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2298651277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f139c4b4af3f4f596b9e03270d180fe2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Blood_Splat.png
+Dependencies: []

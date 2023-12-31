@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3291558972
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 739d57ee45d5822300ad507439e0ed49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TJEZTX_Textures_0440_M.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6bf6fb8efc5f80673d46dfb3558206c2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/73634a3149e94209dfb7c50671b62b84.unity3d

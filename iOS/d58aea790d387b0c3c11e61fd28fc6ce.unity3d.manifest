@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1534480911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd85dbb387ce42b4883f9b27827be300
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_128.png
+Dependencies: []

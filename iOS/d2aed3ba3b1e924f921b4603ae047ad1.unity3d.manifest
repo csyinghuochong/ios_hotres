@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4200410762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f91c54ceea4f534e8356246c5c0dd5f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ebac64479daed4cc03e1bcee586804
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/PREFABS/Props/SM_shelf_pottery.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/48f6e38804790308896f8c2afe4318a0.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/75bf2352b70a41861b3a954d084c7037.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8c331be3e6a869ba9826262e7b4cabe1.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a66ff8adc3966eb4b3a80abab2328da1.unity3d

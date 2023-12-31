@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3839799146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79a1cfaf79401ae7bb4f9f312bb9fcbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Sunflower_01_AlbedoTransparency.png
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 114323399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfaa057c4f51e67456e90fdee635ae34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e0d156f3a1e9733a221a8b595562fe60
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 290511f557be86140b91c87239c3ab06, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_IceWall_3.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/33024a5461422a03d391878e8ccf6891.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4461832a7d31c43d34b8cb0714999f1e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7e2aa6fd561c191f7d716631f993eb5d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d3342353630d4a6228822a2cd0f6ffc2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f95060e434d3109b8a8ddc42e3d2eb92.unity3d

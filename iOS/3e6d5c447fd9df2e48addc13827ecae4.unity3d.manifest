@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2162301173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e2d78c2f4ee71f5a38bba0deb08c97b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/Tree_bark_winter.tif
+Dependencies: []

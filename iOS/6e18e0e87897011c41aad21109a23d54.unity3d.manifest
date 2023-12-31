@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2235109356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3319b4dd93e56f34d89d868d47503690
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/beamglow.png
+Dependencies: []

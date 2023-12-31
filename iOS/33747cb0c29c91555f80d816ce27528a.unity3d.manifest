@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1261512147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b7e3f964a30dd0a0f1df99eb6bd75d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Common_FB_chuansongdian/fazhen.anim
+Dependencies: []

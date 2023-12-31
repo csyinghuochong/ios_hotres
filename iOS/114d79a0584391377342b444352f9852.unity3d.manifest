@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1321072464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0deb1e471f7b30bec4256846047eed02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Materials/Glows/glow.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c6f4dd7680de19099774b9c9ffb5b566.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1048072045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 801ddac6a1ed5c90022980b25911567b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3D Items - Mega Pack/origin/Textures/bow6.tga
+Dependencies: []

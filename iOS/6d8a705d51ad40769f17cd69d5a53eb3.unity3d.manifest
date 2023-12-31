@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4017889163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 902c1ca0fe5b2d6cbc5a1eb79aff93cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Meshes/BearMinions/BearMinion.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/999449c9bedd9dbf76f06f481731962e.unity3d

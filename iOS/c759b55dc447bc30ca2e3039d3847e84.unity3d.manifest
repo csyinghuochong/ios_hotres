@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 302997722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4404cf513c41fc459a0cce3ab489db97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e86aac4e67c8d3402f337ee83293a758
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Monster/72002003.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/34702992d3a07c73824868e6d41898bd.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/36518f3bd341bc37ff6ccbce4f4eb145.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5ee23a3b483b3fa64dbba2e6bb7352cf.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7cd506cca17bf410faad8f25fad6e846.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/923234143f7f36ba51eaf36fca08ef47.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b643b4a2972af14edd6a4e0e2b9ad912.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d68e266e2a1905a9d3a4062b86e66fef.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ea41674d458a03b735ea5474beda1b64.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f8082a95f46c3d7f7a9ca12a0a3d1f37.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fe469b240d9366f647e7ccb42d99be3b.unity3d

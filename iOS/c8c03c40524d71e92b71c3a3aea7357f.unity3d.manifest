@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1690438974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb0c7948a11529a813b922957c5c23b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Models/Materials/Material #28.mat
+Dependencies: []

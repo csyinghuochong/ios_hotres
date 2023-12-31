@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3179723547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f76a7adc85cf268cd63b5618d970adbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TJTX_Textures_2695_4.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ab95fdcfc1a0d07cedd6ff3065e61f93.unity3d

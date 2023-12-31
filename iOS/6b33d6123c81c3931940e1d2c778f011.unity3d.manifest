@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4007485952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86ba7cf11ee4d0cbc35cd2fcb53fbae5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Moon5-2.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4a4be5eb8e620aa1cd486da69f6b2c03.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7329674e30a9d3dd367974d73fe5e452.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/771b39e6c4fc3ca02fa83ff8835b185f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ff4391dbf0f4770e5136d4255d656b4b.unity3d

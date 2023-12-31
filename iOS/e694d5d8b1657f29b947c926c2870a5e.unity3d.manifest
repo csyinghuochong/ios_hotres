@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1169939166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f99d3402b33d6d6595235e800ec9e7b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_201.png
+Dependencies: []

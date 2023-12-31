@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3304404842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64b34b3aa26515d485d5d12015f8fc2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/BH/Effect/Animations/E3D-Skill-Blast-Orange1.anim
+Dependencies: []

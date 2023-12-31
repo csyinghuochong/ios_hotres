@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 730691670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6860ab9e3287a60fecf85973d238a0b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/hudun.mp3
+Dependencies: []

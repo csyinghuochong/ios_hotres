@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2734503135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 115e329abb7084546288ccb961ec75d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/Prefab/building_weapon_lv4.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/15b94bb04e99894a275d0d300a170a2e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1c39bf9cd0363631c88a01f435d275da.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/43143ac401637e9d91edc72a92d0f4fb.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/43bbcbe2e58c89266fed06545881dad5.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/633053c2b5dee44833896fb6d5ff62a6.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/90a9cd62070576cbe5549cb062dcb326.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/cdc9df6341281abffa9ef13d646f609f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/eddac64fe4cf457b4d638c3fa1e7a8a1.unity3d

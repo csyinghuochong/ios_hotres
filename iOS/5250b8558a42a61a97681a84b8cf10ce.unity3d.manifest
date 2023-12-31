@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3481691472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d3f355a0cb7bd1471e2ca94ce8afddb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad2103df4861a14a13e988405720969c
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Atlas/Blood/UI_pro_3_5.png
+Dependencies: []

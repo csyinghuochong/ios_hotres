@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1266801847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58fb711fd52b56479e721e1f28522ac5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Crater40.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1465214949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ea88af32b2111c21c87bfb954f0f8b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_454.png
+Dependencies: []

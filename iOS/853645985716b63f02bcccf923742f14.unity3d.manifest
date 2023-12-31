@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3848321310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 800a85025a7f6aa6eef84c1970313f4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_weapon_ground_lv5.png
+Dependencies: []

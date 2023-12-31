@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3824595366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a36ef31c8a40eea953bfb3a9652eaa11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/a1dun_Caves_FloorStoneB.png
+Dependencies: []

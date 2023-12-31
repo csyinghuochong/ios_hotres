@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1224485469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65a3b04fda808e9a5bf2718269229a06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Holy/Animations/Angez/Angez_Animations_Check.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0e71b010202879d318d0873094fcb262.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5f5e87db94d617614e6e734e4c01e6ba.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8fd54821cdae97327081ac9a18134ed1.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b3ec2d80ee5fa716c25a613be9c970e5.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c44adec6ef1fff3ded051619076ad437.unity3d

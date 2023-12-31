@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2068385196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8779c18db18c3f18c550b14b4204f342
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_xulie_fire0075_A.tga
+Dependencies: []

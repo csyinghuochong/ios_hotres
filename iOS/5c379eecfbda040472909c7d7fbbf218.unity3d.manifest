@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1271531751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 654f3d0a9a55e63d944c0fc9b6be8232
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Rose/Materials/fakeshadow.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0d2fdb9ee460088cd060c7e00e365b1e.unity3d

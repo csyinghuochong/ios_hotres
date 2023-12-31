@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 281688103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b1aa62cba7dfb8f8e3da2df68c03e68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/MonstersFlower/Animation/FlowersMonster/Monsterflower.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5f90208a667accaeec1b3432d90185ef.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/86e68a89f0c7b23925de6e284d411797.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a75ee5af4f62a75594a2df558e55ef4a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e4dff3d3ad947050233550357f03572d.unity3d

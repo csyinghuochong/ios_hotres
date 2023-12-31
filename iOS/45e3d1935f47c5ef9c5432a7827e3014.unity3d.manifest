@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1267868700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbef290883b621bcf99ca754775b14c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_inn_roof.png
+Dependencies: []

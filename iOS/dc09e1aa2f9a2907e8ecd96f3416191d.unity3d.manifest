@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 336938979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa996b139d7c61c57dc260fb6b5e9233
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Vermilion-BuiltIn/Textures/Flower_C_01_BaseColor.png
+Dependencies: []

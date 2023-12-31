@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1151794187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f0e26d513dc3cb773d6f99932c0b7a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/tent_stump_winter.tif
+Dependencies: []

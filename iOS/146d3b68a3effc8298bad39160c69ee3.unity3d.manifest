@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2438470187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd2e861664ad732530c8284f1c5df785
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91616ee0f4a9ff2ba0344d9437b15a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Snake/Snake/Snake@Move.fbx
+Dependencies: []

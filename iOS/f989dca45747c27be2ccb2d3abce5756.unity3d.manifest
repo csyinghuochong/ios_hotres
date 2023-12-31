@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1808802565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfd514a21b2be944641ee57feb7e2469
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 56c76f446eae0298c8f041d1f2dfee94
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Effect/SkillZhishi/Yujing_Area_60.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2dfd9a33d8a07b22b1c6aa8bb34d6f6e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/881a95803d5aae78b014b6b646939b47.unity3d

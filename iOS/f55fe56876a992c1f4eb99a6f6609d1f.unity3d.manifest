@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 474455082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 315b9f032034a6df603e02533f4b3d55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_Watermelon_01.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/178f9659ed624decc3278332e76eeb58.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/40315e338acff41c8e17fb1d273e3e88.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c7a589e1dea799c2a94aa2e21c5d7a37.unity3d

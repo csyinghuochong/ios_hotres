@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2057054130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c99fb85d56d2c96f4d4565c71b9b8a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Toon_RTS/Elves/animation/Cavalry/ELF_cavalry_02_walk.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5affec7cc60669c0bee84783759237e8.unity3d

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2014715966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39e08f7b11c17df4a9c714ef1f4e3f73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04589bb33334feecf1d59a6afc8f0113
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04a1754bcad980849929c345cbb8c9f0, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_Iceball_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/218db0d77b1ef459b3d780c73c0cc664.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/50d0c1813f82d388950e2fd43e824df8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a77ec3f64d1834fbd820381be15d4e6f.unity3d

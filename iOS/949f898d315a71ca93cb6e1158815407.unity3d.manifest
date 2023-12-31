@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3779729507
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f76e313e45fac7a6ea7f869b2625b39e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Sequence153.PNG
+Dependencies: []

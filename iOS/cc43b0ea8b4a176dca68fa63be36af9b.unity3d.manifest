@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 98721433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9bd42d499c9a89e1a67790dc20ab40c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f6a98533770205b649d7b7661c26c65
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0937d8b31b6b2647971c24f4d8f0ea4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a895231490da6545890b1e1794f8704, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: particleColorChanger/colorChange
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_GongJianAct_1_Fire.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/00c53783c5aca9bdaffd0c4a84366062.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/01ed373a2f90c425c08b6e220d935db0.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/03556f83edfe16aa9431b884af3dee17.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/04f439b23289acd79974a88a9037b37a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/131ae6ecae2a556c883fe86a4efe4d8a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/14ca5f0f8a4914aeab1a48d8bef099a9.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8bc679ea33c12fe6409e476fd3ef680a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a8a459cfb62a8bc7258d5e8252a3ac83.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bcb842a3001c95747995e4f247246a9b.unity3d

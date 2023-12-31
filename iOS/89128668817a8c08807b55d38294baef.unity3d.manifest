@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3218871877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19b05aa8be41dbfbf09c3ef261911698
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fd6089ee756c89abace9cc27ff36415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/STONE_04.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7b124e3b1af2f5ff7b50393832dead15.unity3d

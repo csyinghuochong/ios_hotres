@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 423938458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 380cfff55d0626b585d2428530f446b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/TerrainTieTuSet/Textures/Grass/Grass23.tga
+Dependencies: []

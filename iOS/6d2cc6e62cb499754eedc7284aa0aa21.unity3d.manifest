@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 335230547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44867c097fa0ba1a5b7d4c370583c5e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4130ae57c2e24549a8ce2d3f723ef3ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6b98794f30642d4da510a5aa0f137d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Sound/dongku_1.prefab
+Dependencies: []

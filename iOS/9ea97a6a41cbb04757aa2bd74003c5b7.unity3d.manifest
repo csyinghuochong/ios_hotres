@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1953637884
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 117bc26f8478281aa1bc0c38efa79628
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f6e5118a05e42e169dcf026e1e57d16c.unity3d

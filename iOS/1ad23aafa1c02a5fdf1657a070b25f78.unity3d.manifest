@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2049993421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4645530de8a6e290bcd18f168705407
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/xulie_yan100_A.tga
+Dependencies: []

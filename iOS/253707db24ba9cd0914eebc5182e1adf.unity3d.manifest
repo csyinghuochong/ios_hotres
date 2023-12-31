@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 91533589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea52a2dd2dc6e36e6a55966573810b40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/effect_05.png
+Dependencies: []

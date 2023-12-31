@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1723613462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9131dc49b182f4346af853b424dd6f1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1c929f87c77f4dbed06fba010953134e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Buff-Continuous-Orange2.anim
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c7ddd07bd5d358a371aedf7687949090.unity3d

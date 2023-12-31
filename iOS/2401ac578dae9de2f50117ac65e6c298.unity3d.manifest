@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1332233663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6bf466f2ec4acc99bdd0d55331faff8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_399.Png
+Dependencies: []

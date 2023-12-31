@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3448999394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49f7b5362614fffebe1b383c75c54786
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Materials/Light_1.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/670e0b5fe641893c4278f9b75f96095f.unity3d

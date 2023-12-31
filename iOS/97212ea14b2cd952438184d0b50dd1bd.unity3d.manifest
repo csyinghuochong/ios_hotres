@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3059555590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 941232193c38bef358b9d874f02e5a20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Materials/environment_Building_fenghuotai_02.mat
+Dependencies: []

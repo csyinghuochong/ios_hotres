@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 968838000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68c615cf922e557d490a3852c8b4efea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Toon_RTS/Elves/models/Materials/ELF_WoodElves_Texture.tga
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2746842962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e01f64f22c4f7874c7a73b21c33e1b12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Toon_RTS/Elves/animation/Cavalry/ELF_cavalry_01_idle.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5affec7cc60669c0bee84783759237e8.unity3d

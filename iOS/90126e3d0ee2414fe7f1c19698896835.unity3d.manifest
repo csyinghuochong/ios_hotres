@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1918994121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d4e23f0e13edf429be06af3182f70db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Object104.png
+Dependencies: []

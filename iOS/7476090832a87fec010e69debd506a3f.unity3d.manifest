@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2395774169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abef7978921afffb4c91dd45fe9ad3e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Materials/plant_vege_062_01.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a8d21c7536c64b6ba7cfc5f0bb50dfb7.unity3d

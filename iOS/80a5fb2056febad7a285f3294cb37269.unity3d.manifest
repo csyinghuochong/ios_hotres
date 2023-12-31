@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2438905735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aab08281805dd807b55ce68a1b9c8dec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Models/Materials/SelfIllumGreen.mat
+Dependencies: []

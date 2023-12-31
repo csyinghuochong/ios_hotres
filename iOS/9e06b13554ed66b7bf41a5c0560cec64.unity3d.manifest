@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2861560370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df4501ae2c96803430629c8eb89627f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/Old/FBX/UseModel/ShiBing.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/563e0d46516e41cb434aae23d301046b.unity3d

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3836588176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a7a21c8957927809b422b24e777fa9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b07e95eec8d55770ffce51414c7b0714
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_ChiXu_11.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/24f001b9cbb5533f536f99be8d2a09eb.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/425d04a58545f2d6c87a0a0c9fdc09b6.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/be1b7f361b9790a4f7f37809e7680321.unity3d

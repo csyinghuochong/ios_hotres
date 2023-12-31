@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1005608467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39584b174e94a8a071b51a382e3531d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/environment_Building_fenghuotai_03.png
+Dependencies: []

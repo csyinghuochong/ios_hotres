@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 298049367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68884d38088cfc5c0cec73a8610da5a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Fence01.jpg
+Dependencies: []

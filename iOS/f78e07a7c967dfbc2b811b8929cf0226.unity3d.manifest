@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3800059656
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea58de44a1a0a1fd02ca46a2b51a60ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/3/Hero_weijin.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/566e8bf1cb481abbb0671dcd4f713df4.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/656f4d05a9654ad1134a2aa96120ff64.unity3d

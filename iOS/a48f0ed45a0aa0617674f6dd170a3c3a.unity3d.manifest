@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2536074498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7bd46580f54db6cd95d36f7be9f9f015
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/baolie_3.mp3
+Dependencies: []

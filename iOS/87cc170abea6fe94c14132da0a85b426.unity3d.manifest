@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1931647716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eccf6f5a3d2cc5e8b72cd723e3f74662
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_potion.png
+Dependencies: []

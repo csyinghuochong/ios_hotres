@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2425356440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61d5333c5c15c08c75e79d2dab70d444
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f75ac15af31c7604a1a79174cdee23e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/20001021.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/141658d55b8cb3d24786438e72ee1a99.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/46b2c1ef88fe18796d748a5f2e20e6aa.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f52779b2cb9bc44a2da58309d395a12a.unity3d

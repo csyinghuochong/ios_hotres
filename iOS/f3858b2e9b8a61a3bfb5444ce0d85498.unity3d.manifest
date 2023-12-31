@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1070230156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7dff7d8b58e5af59e541880ffb8e3d62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Material/Eff_Skill_FireWall_02.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6d0e74c868215afe5aefe5453ef33162.unity3d

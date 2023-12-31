@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3532482306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50e5d59083c5ebb80cc374feb9618b30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/Materials/emergytrailteamcolor.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/14d4a3fd4d6e94badc06ab6cd22d59cb.unity3d

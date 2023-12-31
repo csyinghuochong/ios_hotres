@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 1146081607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ca51203cac20858fda648f1e8648202
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/PetSkillIcon/80001004.png
+- Assets/Bundles/Icon/PetSkillIcon/80001022.png
+- Assets/Bundles/Icon/PetSkillIcon/80002008.png
+- Assets/Bundles/Icon/PetSkillIcon/80001009.png
+- Assets/Bundles/Icon/PetSkillIcon/80002004.png
+- Assets/Bundles/Icon/PetSkillIcon/80001023.png
+- Assets/Bundles/Icon/PetSkillIcon/80001001.png
+- Assets/Bundles/Icon/PetSkillIcon/80004009.png
+- Assets/Bundles/Icon/PetSkillIcon/80002002.png
+- Assets/Bundles/Icon/PetSkillIcon/80004010.png
+- Assets/Bundles/Icon/PetSkillIcon/80003004.png
+- Assets/Bundles/Icon/PetSkillIcon/80003005.png
+- Assets/Bundles/Icon/PetSkillIcon/80002022.png
+- Assets/Bundles/Icon/PetSkillIcon/80001010.png
+- Assets/Bundles/Icon/PetSkillIcon/80002007.png
+- Assets/Bundles/Icon/PetSkillIcon/80002019.png
+- Assets/Bundles/Icon/PetSkillIcon/80001019.png
+- Assets/Bundles/Icon/PetSkillIcon/80002016.png
+- Assets/Bundles/Icon/PetSkillIcon/80001008.png
+- Assets/Bundles/Icon/PetSkillIcon/80002027.png
+- Assets/Bundles/Icon/PetSkillIcon/80004005.png
+- Assets/Bundles/Icon/PetSkillIcon/80001020.png
+- Assets/Bundles/Icon/PetSkillIcon/80002003.png
+- Assets/Bundles/Icon/PetSkillIcon/80001003.png
+- Assets/Bundles/Icon/PetSkillIcon/80003201.png
+- Assets/Bundles/Icon/PetSkillIcon/80002018.png
+- Assets/Bundles/Icon/PetSkillIcon/80002009.png
+- Assets/Bundles/Icon/PetSkillIcon/80003003.png
+- Assets/Bundles/Icon/PetSkillIcon/80001024.png
+- Assets/Bundles/Icon/PetSkillIcon/80001021.png
+- Assets/Bundles/Icon/PetSkillIcon/80002012.png
+- Assets/Bundles/Icon/PetSkillIcon/80003204.png
+- Assets/Bundles/Icon/PetSkillIcon/80004004.png
+- Assets/Bundles/Icon/PetSkillIcon/80002020.png
+- Assets/Bundles/Icon/PetSkillIcon/80001006.png
+- Assets/Bundles/Icon/PetSkillIcon/80002017.png
+- Assets/Bundles/Icon/PetSkillIcon/80002010.png
+- Assets/Bundles/Icon/PetSkillIcon/80002028.png
+- Assets/Bundles/Icon/PetSkillIcon/80001012.png
+- Assets/Bundles/Icon/PetSkillIcon/80001026.png
+- Assets/Bundles/Icon/PetSkillIcon/80003002.png
+- Assets/Bundles/Icon/PetSkillIcon/80002006.png
+- Assets/Bundles/Icon/PetSkillIcon/80003205.png
+- Assets/Bundles/Icon/PetSkillIcon/80001007.png
+- Assets/Bundles/Icon/PetSkillIcon/80001015.png
+- Assets/Bundles/Icon/PetSkillIcon/80001013.png
+- Assets/Bundles/Icon/PetSkillIcon/80001011.png
+- Assets/Bundles/Icon/PetSkillIcon/80002021.png
+- Assets/Bundles/Icon/PetSkillIcon/80004002.png
+- Assets/Bundles/Icon/PetSkillIcon/80002024.png
+- Assets/Bundles/Icon/PetSkillIcon/80001028.png
+- Assets/Bundles/Icon/PetSkillIcon/80000001.png
+- Assets/Bundles/Icon/PetSkillIcon/80002001.png
+- Assets/Bundles/Icon/PetSkillIcon/80004006.png
+- Assets/Bundles/Icon/PetSkillIcon/80001025.png
+- Assets/Bundles/Icon/PetSkillIcon/80001018.png
+- Assets/Bundles/Icon/PetSkillIcon/80002015.png
+- Assets/Bundles/Icon/PetSkillIcon/80001014.png
+- Assets/Bundles/Icon/PetSkillIcon/80003001.png
+- Assets/Bundles/Icon/PetSkillIcon/80003007.png
+- Assets/Bundles/Icon/PetSkillIcon/80002025.png
+- Assets/Bundles/Icon/PetSkillIcon/80003203.png
+- Assets/Bundles/Icon/PetSkillIcon/80001002.png
+- Assets/Bundles/Icon/PetSkillIcon/80002013.png
+- Assets/Bundles/Icon/PetSkillIcon/80002023.png
+- Assets/Bundles/Icon/PetSkillIcon/80001005.png
+- Assets/Bundles/Icon/PetSkillIcon/80002005.png
+- Assets/Bundles/Icon/PetSkillIcon/80003006.png
+- Assets/Bundles/Icon/PetSkillIcon/80004003.png
+- Assets/Bundles/Icon/PetSkillIcon/80003008.png
+- Assets/Bundles/Icon/PetSkillIcon/80001017.png
+- Assets/Bundles/Icon/PetSkillIcon/80001027.png
+- Assets/Bundles/Icon/PetSkillIcon/80004001.png
+- Assets/Bundles/Icon/PetSkillIcon/80003202.png
+- Assets/Bundles/Icon/PetSkillIcon/80002011.png
+- Assets/Bundles/Icon/PetSkillIcon/80004008.png
+- Assets/Bundles/Icon/PetSkillIcon/80001016.png
+- Assets/Bundles/Icon/PetSkillIcon/80004013.png
+- Assets/Bundles/Icon/PetSkillIcon/80002014.png
+- Assets/Bundles/Icon/PetSkillIcon/80002026.png
+Dependencies: []

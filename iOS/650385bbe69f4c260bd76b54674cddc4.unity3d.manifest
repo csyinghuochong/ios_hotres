@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 549739776
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff9dd6b0c4ae03db874f3bb1c3dc9aac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillZhiShi/Effect/Textures/item/yujing120du.png
+Dependencies: []

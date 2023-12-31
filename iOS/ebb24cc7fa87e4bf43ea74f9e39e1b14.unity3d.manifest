@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2142615776
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb5fe607ce51f937018f57e8305d103d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/shenpan.mp3
+Dependencies: []

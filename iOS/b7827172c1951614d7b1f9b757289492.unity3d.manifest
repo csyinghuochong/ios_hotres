@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3629878134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b054b09d43272fb4e76613bee45e32c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_yanhuo_00300_C.tga
+Dependencies: []

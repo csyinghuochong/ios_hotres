@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2603956659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f954bbebae56a09e73e7719e48268ed7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Cabbage_01_AlbedoTransparency.png
+Dependencies: []

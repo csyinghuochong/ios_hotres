@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2239903563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22fe55272e66f6cf49f33b9256368505
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/JingLing/10015.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/45e1012c5eef0b303a9aa0beb637ffbf.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d34be65e0dcec364a100aab9b3769233.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e9f0e8e84ca1ccdc45ad83631c60a056.unity3d

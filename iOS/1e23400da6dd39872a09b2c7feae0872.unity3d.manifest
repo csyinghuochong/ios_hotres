@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2869400446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b46ae0b16c8c7da83b091a73211379ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Materials/Misc/healing.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fefb120e52e1d46015aac9a68a2502d7.unity3d

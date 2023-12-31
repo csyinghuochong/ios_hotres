@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 790807395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f03b9045806563aaa2fb65d2a879ee98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Prefabs/Eye/Eye_00_L.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/cd5a510bda0f49312fccd5e2281fe3c6.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e8d5681a871d1198fc5f0f269570c815.unity3d

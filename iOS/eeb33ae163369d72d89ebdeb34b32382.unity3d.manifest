@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2223919791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41a124d5c5474b942f388f001deb912c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_TableAndChair.jpg
+Dependencies: []

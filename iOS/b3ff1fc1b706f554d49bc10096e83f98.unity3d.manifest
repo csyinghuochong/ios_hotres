@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1200243412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b3c728ce649df4c988e31e4aa10d790
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_Herbal_roof.png
+Dependencies: []

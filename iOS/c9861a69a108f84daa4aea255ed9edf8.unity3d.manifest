@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1117369910
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 338a0c403fb756b35b9727e8f5f52ac4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/props1.tif
+Dependencies: []

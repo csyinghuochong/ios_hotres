@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2391585002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86a502f6a26c4aad41b322c7ccc6d349
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Texture/accessory/Accessory_00_00.png
+Dependencies: []

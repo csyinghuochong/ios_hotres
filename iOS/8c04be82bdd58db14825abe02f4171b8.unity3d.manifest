@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3878814723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01f6067f1f1418d28b4e7ea4c6d307a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/Materials/dust10.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bf0d9017e287fc590944271b03c74631.unity3d

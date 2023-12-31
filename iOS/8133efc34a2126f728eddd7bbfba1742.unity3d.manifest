@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1952936557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56b2d3b7a9ee20342bb9e305b2f55f2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_zawudui_001_01.png
+Dependencies: []

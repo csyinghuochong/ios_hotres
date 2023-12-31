@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 895731337
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8de8dff3b12fa9536a1c4fa9531ea5f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/SkillEditor/E3D-Strong-Distort-Spread-Blue.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fc49932b4e367448d559381a1250e58a.unity3d

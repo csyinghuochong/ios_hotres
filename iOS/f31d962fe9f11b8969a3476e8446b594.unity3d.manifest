@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2231236707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb7fb23ba2e2acd7a2bb4a2e96dfe9d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/G_Tree_01.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/12eab75f96fa54bc0202199c15c2e139.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4f47c598e3be4f8ae60f02f8cdc2eaa0.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9f88d67e040c875b4d0aff9e2588b3af.unity3d

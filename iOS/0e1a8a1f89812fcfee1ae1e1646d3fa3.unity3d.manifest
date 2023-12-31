@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3058914243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ac9da59458b149dc9cc8ee7ff13874d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/cracks1b.png
+Dependencies: []

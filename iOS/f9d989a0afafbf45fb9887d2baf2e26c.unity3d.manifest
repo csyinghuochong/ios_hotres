@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2532679687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc7b2865675dce9748d459b2611c13e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b07e95eec8d55770ffce51414c7b0714
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZhaQian_8a.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1b04d7f6ca072513ae77b9affe765a49.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2096d19d1493c1826d3c1ada7a379722.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2192934cef2df186abcc6545d0ab4971.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2ab7b483b8a5710aea2f5c38a2f7471f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/66e5e218972c6b1403f989cb091ae8eb.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6e4afa3c932ab15ec0ab5f87afde3867.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/78b5a6db7f0db0089b9257bfe608c9fd.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/acd0d23b29d846851e9bd612d867fae4.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b3cd0d7e06de72c671a870ce054496fe.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c1edf71a65f9b5eeb496ce5ca0871eba.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f171e502d206b16ab7c983fef7530c5f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ffdf1d6dc56e8941df4f970d01f40ee1.unity3d

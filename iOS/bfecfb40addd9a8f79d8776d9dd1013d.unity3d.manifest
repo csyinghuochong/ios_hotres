@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3570465832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e35e1a3887b31e279a4295cbdd535e8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0667c635e4b924fcbb91c55670cbb606
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c50a2c66e6f5a1a4388e59c443bf4581, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_GongJianAct_1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/131ae6ecae2a556c883fe86a4efe4d8a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/658a21d8736e03cdf0ddef01f39608db.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8bc679ea33c12fe6409e476fd3ef680a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d799e34e11887e3838686726372af69f.unity3d

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1737597197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9723868b0f7c4fa08b931b812d9c4e7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_317.png
+Dependencies: []

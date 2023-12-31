@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2578399651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65f84b9b2057e2dfcbcea78916424b01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_Accessories_roof.png
+Dependencies: []

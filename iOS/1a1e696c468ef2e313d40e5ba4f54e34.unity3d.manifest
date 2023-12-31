@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3590055600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f81c24f1d45e7bae1a9602029a3a4b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_229.png
+Dependencies: []

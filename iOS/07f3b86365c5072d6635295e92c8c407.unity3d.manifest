@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1152954597
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d504395715cae8066a0d13a906a7a53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/doorwayglow.png
+Dependencies: []

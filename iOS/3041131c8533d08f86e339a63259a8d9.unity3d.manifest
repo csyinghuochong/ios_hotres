@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3119697464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81b22125e549806ce9ecd0e459278ce6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Noise/Noise03.TGA
+Dependencies: []

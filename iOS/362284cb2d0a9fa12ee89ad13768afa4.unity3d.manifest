@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 404589161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa7ea32fc9e9b16770a4a7c640810f3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/Interiors_Props_1.jpg
+Dependencies: []

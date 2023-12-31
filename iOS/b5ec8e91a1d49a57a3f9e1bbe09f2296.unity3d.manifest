@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3734816566
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9644359a6aa7adc5568c43c21aa9d02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_480.png
+Dependencies: []

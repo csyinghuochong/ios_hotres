@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1975880574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7aa9a47a54dbb1d93aa3bb9e095fce9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/Point5cg.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/971d0f354be1c39b809e6e4f5ddc9393.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1366035828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2810983ab9c1d95f23626b33c6e5b80a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SkyBox/CartoonSkybox2/toonyDay01_Back.bmp
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4263903350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 169c250f9f3afa41e4538248d50228a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Animator/72001007.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/20e2a0379538dd16ac9d7ccbf2af10f6.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/32e5be447eb0170593aa484b926594ee.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a5d5dcca783bcb05c1b122899b53792f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/cf4a4403a7a2ed04612979b90383389e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f1e46cbfadb753e4f5e6ff630acf5642.unity3d

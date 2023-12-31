@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 344215917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4da51afb0823c3530605ce48e2e8eb40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/Old/DDS/NPC_MINER_01.png
+Dependencies: []

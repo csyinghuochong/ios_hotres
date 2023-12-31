@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1718587801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9a402503ec9e713df06227bfa4781a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a107dc2e5b91368bb715249dde775ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Fbx/yewai_xiaoshitou_01.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3c0b9e7390bbab0542f11b945154b339.unity3d

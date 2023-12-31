@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1721765022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d93e20eef28bf83a186d6aee9e80041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fd6089ee756c89abace9cc27ff36415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/SHOP_01_SIDEAWNING.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/181aefb79597cee3497346c67a04a64d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/52ca62922cbe4fdf78ab1488a54e56f6.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ae41fca129e796591690dc18ba5de574.unity3d

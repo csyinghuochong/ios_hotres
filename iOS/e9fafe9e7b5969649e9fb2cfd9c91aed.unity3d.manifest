@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1234453033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69acc9fe961745a592432d3a77dfc44e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Material/FireRain.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4918c46263976e6d1429d6c8c02a1968.unity3d

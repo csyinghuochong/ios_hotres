@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3618606197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee8f760a21bb462288c6943a4f7b5b42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Occ/zhanshi/tga/zhanshi_pifeng.tga
+Dependencies: []

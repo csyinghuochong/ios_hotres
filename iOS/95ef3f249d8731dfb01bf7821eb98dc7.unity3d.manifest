@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3951638510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c4c7ee153e2d3f93984953e3a712b64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/StartSceneConfigCategory.bytes
+Dependencies: []

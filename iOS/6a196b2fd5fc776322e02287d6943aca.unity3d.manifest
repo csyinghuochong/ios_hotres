@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 559410056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57e0e5cdc03a4d0693336a3eb902bf32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Trajectory_Flame.png
+Dependencies: []

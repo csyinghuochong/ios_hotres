@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2489329870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d26b27da9062ee58b35837c8c2dca1a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/ShouJiConfigCategory.bytes
+Dependencies: []

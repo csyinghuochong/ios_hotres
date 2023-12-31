@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4269832537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 933ebadea7ed15bc5069ec3577b18689
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/BattleDragon/Colosseum/Dust/ParticleSystems/Materials/ParticleDuststorm.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/769e52454fbb67d710388fc533cf209a.unity3d

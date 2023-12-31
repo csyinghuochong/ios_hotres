@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2268678398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 767c4c790b8d35ba0c1cdcd77eef439e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Occ/zhanshi/tga/zhanshi_lian.tga
+Dependencies: []

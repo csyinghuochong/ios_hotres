@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2199870350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44fe617a30c025b04aabcdb4e8a7a7fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_115.png
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3377124470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dc8eb6acc5d982fc79b134115d72e9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b3e402cd44138fbf1c6fb0daaea123a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/Hero_lian_lvmu.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0458fc11ee74a17380284b0c46fbc14a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5231d2c9c63e2fce9aca92e9cb9e2577.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/83f717190b560ec3413ee1eef410b64a.unity3d

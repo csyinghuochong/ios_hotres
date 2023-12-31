@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1623442983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 842198f71514935cba5044e7475ba9ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5a08a11ca3e67b0ba0c8e2a2129af5b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Magictree/FBX/Magictree.fbx
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1473722202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1d5af2c518e9c013bb5cb3b76c6c63e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Material/FireRipple.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d63f648b6b3d4e794731010909eb7bc6.unity3d

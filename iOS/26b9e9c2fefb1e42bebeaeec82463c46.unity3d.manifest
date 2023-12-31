@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 550686205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cabf9328166a2ee14c034e5afc5de92a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/ZuoQi/10002.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a1dad9e08fd35ebd4401cd95d7720313.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e9d4d6061641bd2397d61a4ea9ac2c97.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fccad1e890d3068f407de7d0fdd5637d.unity3d

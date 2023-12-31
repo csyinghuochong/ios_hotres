@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3163043142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f8cf416b9be76ecf2fb8a0a408a8057
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Noise50.png
+Dependencies: []

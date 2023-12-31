@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1439605110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a08114a8a910d98e7415bb7b963bffb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f64856a3d606b613608cbf22df470c60
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plants_Flower_C3.FBX
+Dependencies: []

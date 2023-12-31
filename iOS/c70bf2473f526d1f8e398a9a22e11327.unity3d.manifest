@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1945251687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5a482a5ef2824a406e0bdf91e9e49cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Button/Btn_78.png
+Dependencies: []

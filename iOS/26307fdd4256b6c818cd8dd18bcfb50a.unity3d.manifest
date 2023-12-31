@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1974987863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b61c7109a9e3f46c2875d096871276b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Button/Img_272.Png
+Dependencies: []

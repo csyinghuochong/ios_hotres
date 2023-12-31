@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3031061719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a76e91ab245f0c574d8d5ef0377396b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aac504d754331e9d93efd6856b916561
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/NPC_BaoXiang.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/683cd67a0cdbb2c2aa0bfc84e05212e8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/dbe0b0701f1c38254ca5e655453d827f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e5c1e3b1c68c4a4c84bfd2c13ff3cb64.unity3d

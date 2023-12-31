@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 2642296516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7324ca6799994d5eec5a5740ae53f1d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/ChengJiuIcon/20002101.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000010.png
+- Assets/Bundles/Icon/ChengJiuIcon/10000001.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001901.png
+- Assets/Bundles/Icon/ChengJiuIcon/10007.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000013.png
+- Assets/Bundles/Icon/ChengJiuIcon/10000004.png
+- Assets/Bundles/Icon/ChengJiuIcon/10000002.png
+- Assets/Bundles/Icon/ChengJiuIcon/10005.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000901.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000009.png
+- Assets/Bundles/Icon/ChengJiuIcon/20000001.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000016.png
+- Assets/Bundles/Icon/ChengJiuIcon/20000801.png
+- Assets/Bundles/Icon/ChengJiuIcon/10003.png
+- Assets/Bundles/Icon/ChengJiuIcon/10006.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001801.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000008.png
+- Assets/Bundles/Icon/ChengJiuIcon/10002.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001701.png
+- Assets/Bundles/Icon/ChengJiuIcon/20000301.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000004.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000501.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000006.png
+- Assets/Bundles/Icon/ChengJiuIcon/10000005.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000702.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001201.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000012.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002401.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002201.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001001.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000017.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000701.png
+- Assets/Bundles/Icon/ChengJiuIcon/20003001.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000015.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001401.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000002.png
+- Assets/Bundles/Icon/ChengJiuIcon/10000003.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000007.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001501.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001601.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000802.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002901.png
+- Assets/Bundles/Icon/ChengJiuIcon/20000201.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002001.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000001.png
+- Assets/Bundles/Icon/ChengJiuIcon/20000401.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002301.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000801.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000014.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002801.png
+- Assets/Bundles/Icon/ChengJiuIcon/30001201.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002701.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000003.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002501.png
+- Assets/Bundles/Icon/ChengJiuIcon/20002601.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000005.png
+- Assets/Bundles/Icon/ChengJiuIcon/20000901.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000011.png
+- Assets/Bundles/Icon/ChengJiuIcon/10004.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001301.png
+- Assets/Bundles/Icon/ChengJiuIcon/30000601.png
+- Assets/Bundles/Icon/ChengJiuIcon/10001.png
+- Assets/Bundles/Icon/ChengJiuIcon/20000701.png
+- Assets/Bundles/Icon/ChengJiuIcon/20000002.png
+- Assets/Bundles/Icon/ChengJiuIcon/20001101.png
+- Assets/Bundles/Icon/ChengJiuIcon/100001.png
+- Assets/Bundles/Icon/ChengJiuIcon/30001101.png
+- Assets/Bundles/Icon/ChengJiuIcon/30001001.png
+Dependencies: []

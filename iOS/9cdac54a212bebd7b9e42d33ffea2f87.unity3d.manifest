@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 644607538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1035d53f45ea9e5edfbf3e487a1d9c82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_pond2.jpg
+Dependencies: []

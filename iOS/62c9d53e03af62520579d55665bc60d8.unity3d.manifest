@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1244997951
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e22efa7e47ba094c3671c1d95e35a5f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX_xunhuanguang_00074.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/966fcc8b1642e1e6c76c936ad3f7082e.unity3d

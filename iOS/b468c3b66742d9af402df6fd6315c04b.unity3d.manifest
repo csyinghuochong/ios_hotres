@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2562811603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4533302d8721388140d8c49ad7f6d111
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Demon/Materials/FX-Heart Orb.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/14488765f371a2a94278751fef32cef4.unity3d

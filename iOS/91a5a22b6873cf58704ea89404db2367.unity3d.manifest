@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1644319109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dea86f5705c8c4ec22097997b62aaa41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/heianbaolie.mp3
+Dependencies: []

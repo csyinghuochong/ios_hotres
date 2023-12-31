@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 606953224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d4903d207c26e5e290faab8a849d1f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Demon/Textures/FX-Heart Orb.tga
+Dependencies: []

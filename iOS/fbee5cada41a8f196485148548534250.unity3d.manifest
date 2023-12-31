@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2454157223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cd696ab3eeb62fbaf50c6dbd26069d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/OtherTexture/TX_glow_bingkuai_0002.tga
+Dependencies: []

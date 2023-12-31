@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 891514871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab6ff318698c9d7ac4f5caff5457c6d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Textures/Circle_2.png
+Dependencies: []

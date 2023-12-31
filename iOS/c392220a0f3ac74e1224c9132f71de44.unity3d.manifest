@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3751750179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfb905bcd897f319bb12bc66bb541ec1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Texture/stone_01.tga
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3155973510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89f2ac226f1d21709674cf3ee3b763af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Grass02.jpg
+Dependencies: []

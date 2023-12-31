@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2205313728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d02f68a1bcd6d92dd7daff90059f4ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_bottles_BaseMap.png
+Dependencies: []

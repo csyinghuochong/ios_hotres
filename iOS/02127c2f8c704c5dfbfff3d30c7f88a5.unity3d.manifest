@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1749822435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58b8b8196593fce6b633c2db27bd81b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Textures/environment_building_bingfang_001_03.png
+Dependencies: []

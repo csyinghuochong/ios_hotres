@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1987023213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a3c57ba71e43f46b25930922e763632
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/Boss_LangShouLing.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/18c3fe2b607ed9b89d6044ebdabe548c.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3554579180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf3d0e4c98673967481e34956c1cd664
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Animation Controller/_Bundle/Dummy Motions.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5ea67627ed684a78711c7a2b808accbc.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/81784648cf126cfa001c30607e1028f2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ffa542384dfc7e62dd4fefeb8cf87c6c.unity3d

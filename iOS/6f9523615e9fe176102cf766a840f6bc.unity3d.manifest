@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3033255790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5024230f943460df5b2efb7edc90a758
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Prefabs/Eye/EyeLight_01_L.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1e924a807c0dc7345b678cc11d31a7fa.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2559c9c554ce4517b258e5e11a389536.unity3d

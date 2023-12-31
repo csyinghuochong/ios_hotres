@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2203151845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d67a636c0cea85b052ba723742867747
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/wagon_winter.tif
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 918148120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b8b5c9e1373eadd29972e90900730d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Wolf_Boss.jpg
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 637618418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d964c74c248d4c45133b486f8a55c57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_1/BingLang/Materials/WOLF_SICK.png
+Dependencies: []

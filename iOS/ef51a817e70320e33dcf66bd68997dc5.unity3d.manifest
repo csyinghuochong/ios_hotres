@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1738920640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afe9ca82063b1057c6c2cbbc5b01e06b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Magnum
+  Strike/GroundCrack.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/659991a22206df7bbd83437c848af82a.unity3d

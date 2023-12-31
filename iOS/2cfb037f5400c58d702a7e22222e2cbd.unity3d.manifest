@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4250233831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e92c36d10f9892a1a0c51b8a4e2127e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_GuTou/Tree_bark.tif
+Dependencies: []

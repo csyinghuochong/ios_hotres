@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1812859258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f8b1a8a336ca1683dc0ffdf1a62280f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a29453440e1881222464ed411a06d5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Lang/WOLF.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/98e353d3df3e2948a2a273f53de5acc9.unity3d

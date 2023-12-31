@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1028615520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77989a253b416625dcfd80a91063fb18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_JingShui/Props_A_1.jpg
+Dependencies: []

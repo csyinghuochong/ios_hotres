@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1039821423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04bd7799e501906315606d3950de9564
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Models/Parts/Hair_00_Base.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/649e0e9534dec0499979e8d5f788c24f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b95943454f980d7c943ac24fe208ab1d.unity3d

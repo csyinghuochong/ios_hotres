@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4226382700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3334e9489d39266e45a2b5408ec777fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5a08a11ca3e67b0ba0c8e2a2129af5b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Monsters Ultimate Pack 02 Cute Series/Dragon Inferno Cute
+  Series/FBX/Dragon Inferno.FBX
+Dependencies: []

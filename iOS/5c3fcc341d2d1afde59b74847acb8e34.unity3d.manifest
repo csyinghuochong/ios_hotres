@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1552475154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae2da2e90f32d35fb8d9fa1793d4e008
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Parts/4Pebbles.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4af000c8a6ec81348907730e4cf1f77b.unity3d

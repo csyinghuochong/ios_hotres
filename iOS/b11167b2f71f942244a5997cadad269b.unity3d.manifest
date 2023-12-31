@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2548288521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71a37b984d82a570e4e81ca777dc6805
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Potato_01_Normal.png
+Dependencies: []

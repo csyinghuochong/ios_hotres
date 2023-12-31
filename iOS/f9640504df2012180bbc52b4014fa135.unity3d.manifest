@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3500617249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d034cd5ebdb510270f1f5188b70fff12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Textures/aura_punch.png
+Dependencies: []

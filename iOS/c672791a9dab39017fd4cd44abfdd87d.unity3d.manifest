@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1077637629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fdc822d63d4caa9104176e927acd538
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/sparkle_mythical.png
+Dependencies: []

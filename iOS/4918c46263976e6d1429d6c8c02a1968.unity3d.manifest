@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2628972224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b153996bf531e03b911272e7d4f1073
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Texture/FireRain.png
+Dependencies: []

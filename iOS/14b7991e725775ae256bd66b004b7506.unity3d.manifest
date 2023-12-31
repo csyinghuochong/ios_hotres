@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2077302547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfd447ee1ad8d1f0e04afbf2ee9fc95c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Sunflower_01_MetallicSmoothness.png
+Dependencies: []

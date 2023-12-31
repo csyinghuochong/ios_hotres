@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2984179832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6236d7f096e9ab0bba1706cbd6505ce5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/nuhou.mp3
+Dependencies: []

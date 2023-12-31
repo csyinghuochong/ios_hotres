@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4153510548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8481dd6171681cb2fe46645dd39131e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/Scence/Modle/Other/Yxsl_1/model/Materials/Yxsl_Zhenghe01.tga
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2642854739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30af55d00cd262d791294875e9ff09f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Other/Warp/One-handQuicken_Light.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/74f347112e73a8941a4d7234031b27bb.unity3d

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2655091884
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32c6dd4ecb2f6abaece16949f39b3837
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Rose/Texture/fakeshadow.png
+Dependencies: []

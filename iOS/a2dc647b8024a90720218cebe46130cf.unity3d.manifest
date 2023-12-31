@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2060069572
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d25bc98f3b1be1db88c15d7c153e7a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Tanxianjia_Atk_Attack_4/gong_UV.anim
+Dependencies: []

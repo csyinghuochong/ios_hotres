@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3052209030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ce91b40f8e3b92fc5eb1dcbc6c165d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Pumpkin_01_Normal.png
+Dependencies: []

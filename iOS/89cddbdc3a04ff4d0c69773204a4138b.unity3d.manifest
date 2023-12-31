@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3781784661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 175f819f0a173e5a8dd1df4d15d5805b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/111/sd.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2720ca436de8bbc329b6a3a7735a5780.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3691e3913760e284ac47facdd42a8c5a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b6be0c10a1ee80843b3aeeb9199c8bc5.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e56b220ed9f6fbe0c6248544d2e8ab74.unity3d
