@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4100415776
+CRC: 1412506292
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f6b78c30db64c36f942d6dc243b8743e
+    Hash: bd2d0813bbba90569276db32d08c628f
   TypeTreeHash:
     serializedVersion: 2
     Hash: e4b776ffd57d6707358d617e4a334c67
@@ -73,6 +73,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/PetSet/UIPetChallenge.prefab
 Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2e597a19f89fa05a0ec4da82bf92127c.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/300a207faed8f7b216aae3e3e4306913.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/378003f0aae41977900722226b5511da.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
