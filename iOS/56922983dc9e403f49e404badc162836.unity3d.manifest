@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3640404335
+CRC: 3538526311
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 23276e3422f512a5dcbaf54b8c80c64d
+    Hash: 251b09d857d0ed0daaf41180ca01bb4e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8fd004ffb52f60d92350f7438461cb46
@@ -45,3 +45,4 @@ Assets:
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/02a95a256e3c04be919d32cfd845eeae.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a5dc71bef9506e47861beca53ccdaf45.unity3d

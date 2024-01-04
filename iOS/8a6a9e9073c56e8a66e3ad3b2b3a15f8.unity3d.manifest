@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3331735337
+CRC: 3379455304
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c36dba69e9c2c49b5ba4a0cccf7cad4b
+    Hash: 21b99ec482ab2836fdf96802e5f64158
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,5 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Player/BaiTan.prefab
 Dependencies:
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/00a0c2f5f65c8bcbfbe0907d70224c48.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1c39bf9cd0363631c88a01f435d275da.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6964e5c12db6d121dca773b89b74da85.unity3d

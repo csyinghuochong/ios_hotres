@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2878674907
+CRC: 3669624010
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72fc17dd57356aa5bda8967f5e013685
+    Hash: fb895ddafccf7c810bdb1b0d8224c547
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2f394f0f0d78cd314175d65b01d26459
+    Hash: 9aa55a41aceda10d92c2c116762c6373
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,9 +32,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
 - Class: 115
@@ -73,6 +73,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/PetSet/UIPetChallenge.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2e597a19f89fa05a0ec4da82bf92127c.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/300a207faed8f7b216aae3e3e4306913.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/378003f0aae41977900722226b5511da.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d

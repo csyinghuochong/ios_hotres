@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1091268254
+CRC: 459039735
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c26b0a61d8de01f1dc9e40f244ee4ff3
+    Hash: 748cda5ea096208bb87f2535af8545fd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 68c985bf88fecc38b460cdb825182138
@@ -30,6 +30,7 @@ Assets:
 - Assets/Res/Effect/BackBlur/BackBlur.shader
 - Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
   Ice Vol.1/Shaders/ParticleCook-Transparent-AlphaBlend-Diffuse.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-DetachAlpha.shader
 - Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonBasicOutline.shader
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Shaders/Blend_TwoSides.shader
 - Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Shaders/AdditiveMobile_Scroll01.shader

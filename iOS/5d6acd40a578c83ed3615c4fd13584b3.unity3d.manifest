@@ -6,7 +6,7 @@ Hashes:
     Hash: 010c28b59b02b51236fbf52d5528f461
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f56f24c30f8a9e4e83ccb8054e229418
+    Hash: a6cb0eb2a7675460c46a7bc6601d29f0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,9 +20,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
