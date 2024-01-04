@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 343538563
+CRC: 4211630980
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e38e650713a897943f9c6e2aa9c77c8d
+    Hash: ca1c1dce42ff9801f3b97b25f8224bbe
   TypeTreeHash:
     serializedVersion: 2
     Hash: 58fe018cf8dffe9cf0704cf3593ab5dc
@@ -40,3 +40,4 @@ Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Buff_XuanYun_2.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cd5059a24ac90788d9d14316066c5f39.unity3d

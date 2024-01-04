@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 213792458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b4943aeac0e4cf06a8b327ee37c97a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09cd7455ca261e4d8c99dd891d671071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_GanDian_1.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ef06d5ab9316852590121820b6e4f266.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ef1d487dd04c5e22ea3419903f8a7904.unity3d
