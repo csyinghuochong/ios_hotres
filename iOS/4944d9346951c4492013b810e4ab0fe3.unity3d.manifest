@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3292860923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc444b675067900408b84d8990d4e3e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_lizi_00190_A.tga
+Dependencies: []
