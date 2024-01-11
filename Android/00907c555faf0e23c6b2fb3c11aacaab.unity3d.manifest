@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1821085658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fc482e2d3872d6f8b664ceb7fded32a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/StylizedWildAnimalsPack/Textures/T_bear_Diffuse_white2.jpg
+Dependencies: []
