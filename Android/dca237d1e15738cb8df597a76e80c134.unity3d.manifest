@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1190285787
+CRC: 3680554939
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3c7658a2a6039b67207277f1327ad019
+    Hash: d4a70ff7da3eba829cdd97f470c5c360
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -344,10 +344,10 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/3.png
 - Assets/Bundles/Icon/ItemIcon/10036016.png
 - Assets/Bundles/Icon/ItemIcon/14030003.png
-- Assets/Bundles/Icon/ItemIcon/15207003.png
 - Assets/Bundles/Icon/ItemIcon/15204003.png
-- Assets/Bundles/Icon/ItemIcon/14030004.png
 - Assets/Bundles/Icon/ItemIcon/15311006.png
+- Assets/Bundles/Icon/ItemIcon/14030004.png
+- Assets/Bundles/Icon/ItemIcon/15207003.png
 - Assets/Bundles/Icon/ItemIcon/15411011.png
 - Assets/Bundles/Icon/ItemIcon/14080002.png
 - Assets/Bundles/Icon/ItemIcon/10041209.png
@@ -809,12 +809,13 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10000139.png
 - Assets/Bundles/Icon/ItemIcon/zhizuoshu1.png
 - Assets/Bundles/Icon/ItemIcon/10000202.png
-- Assets/Bundles/Icon/ItemIcon/10041410.png
+- Assets/Bundles/Icon/ItemIcon/10000174.png
 - Assets/Bundles/Icon/ItemIcon/13005003.png
-- Assets/Bundles/Icon/ItemIcon/15211003.png
+- Assets/Bundles/Icon/ItemIcon/10041410.png
 - Assets/Bundles/Icon/ItemIcon/15205004.png
-- Assets/Bundles/Icon/ItemIcon/15511005.png
+- Assets/Bundles/Icon/ItemIcon/15211003.png
 - Assets/Bundles/Icon/ItemIcon/10000207.png
+- Assets/Bundles/Icon/ItemIcon/15511005.png
 - Assets/Bundles/Icon/ItemIcon/10045309.png
 - Assets/Bundles/Icon/ItemIcon/10036031.png
 - Assets/Bundles/Icon/ItemIcon/10000121.png
@@ -852,6 +853,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15203001.png
 - Assets/Bundles/Icon/ItemIcon/14030007.png
 - Assets/Bundles/Icon/ItemIcon/13004004.png
+- Assets/Bundles/Icon/ItemIcon/10000175.png
 - Assets/Bundles/Icon/ItemIcon/14100004.png
 - Assets/Bundles/Icon/ItemIcon/15703001.png
 - Assets/Bundles/Icon/ItemIcon/10010103.png
