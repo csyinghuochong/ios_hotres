@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 159707928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2fcd3ff986e65da2f4a2395ebcc8455
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/BingZhiZhu.controller
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/058bd0192b323cfe329e70b7626dde98.unity3d

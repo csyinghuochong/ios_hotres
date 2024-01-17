@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1889536214
+CRC: 943013764
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 425255115f5f4dd00d248dc78f63270a
+    Hash: 5e5fa5b6132219f05af598f06a4ab0d7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 877e2d25c551d440c03a6876594cb65b
@@ -43,5 +43,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Npc/NPC_DuanZao.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f7f55644bd22bbbf399e2b493415e0c4.unity3d
