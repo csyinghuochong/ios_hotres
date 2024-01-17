@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3375365031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4eb39aa0c3e747eba1f52252f9540d0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_gaopai_001_a.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1388ea1f769d97e6456404fd00a96a5c.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6113d13451c966d667ab00c0e8bd7dad.unity3d

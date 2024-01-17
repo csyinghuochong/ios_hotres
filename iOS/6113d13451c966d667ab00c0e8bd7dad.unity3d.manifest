@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 894898617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebe44147679c62a15af9d0424eea136d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Materials/environment_building_liantiefang_001_10.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a28d21ac82172ce8e2116467353903ed.unity3d

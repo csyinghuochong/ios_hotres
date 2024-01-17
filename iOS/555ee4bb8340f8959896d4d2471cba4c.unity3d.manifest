@@ -1,18 +1,23 @@
 ManifestFileVersion: 0
-CRC: 1786441266
+CRC: 3782964432
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d24c76f18d914eb86d564d8eee1dc72f
+    Hash: c4b89d72d7f695e9fa874c66d978069f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 45875108e441588ead174e12e00e97b4
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
 HashAppended: 0
 ClassTypes:
 - Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/Materials/100630_gtss_npc_d_512.mat
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e4ca96fbedca4597cc50ddaea0af070a.unity3d

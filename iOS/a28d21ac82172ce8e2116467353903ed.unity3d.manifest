@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2568415776
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d97a3a1012910db167a798dfd3c0e45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Textures/environment_building_liantiefang_001_10.png
+Dependencies: []
