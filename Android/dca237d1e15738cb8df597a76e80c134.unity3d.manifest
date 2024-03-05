@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2064341480
+CRC: 3938520259
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0d658f162b5e3e39fb4bdf6209380013
+    Hash: cc47ec0a78464cff2b968e071b06ab3b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -42,6 +42,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/14040012.png
 - Assets/Bundles/Icon/ItemIcon/15210011.png
 - Assets/Bundles/Icon/ItemIcon/10070301.png
+- Assets/Bundles/Icon/ItemIcon/15810102.png
 - Assets/Bundles/Icon/ItemIcon/15701003.png
 - Assets/Bundles/Icon/ItemIcon/10010001.png
 - Assets/Bundles/Icon/ItemIcon/10020001.png
@@ -69,6 +70,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10041208.png
 - Assets/Bundles/Icon/ItemIcon/14110009.png
 - Assets/Bundles/Icon/ItemIcon/13006001.png
+- Assets/Bundles/Icon/ItemIcon/15801002.png
 - Assets/Bundles/Icon/ItemIcon/10022006.png
 - Assets/Bundles/Icon/ItemIcon/15309002.png
 - Assets/Bundles/Icon/ItemIcon/10025008.png
@@ -146,10 +148,12 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15403004.png
 - Assets/Bundles/Icon/ItemIcon/15411001.png
 - Assets/Bundles/Icon/ItemIcon/15308004.png
-- Assets/Bundles/Icon/ItemIcon/16000311.png
+- Assets/Bundles/Icon/ItemIcon/15803002.png
 - Assets/Bundles/Icon/ItemIcon/15710201.png
+- Assets/Bundles/Icon/ItemIcon/16000311.png
 - Assets/Bundles/Icon/ItemIcon/15410001.png
 - Assets/Bundles/Icon/ItemIcon/15205003.png
+- Assets/Bundles/Icon/ItemIcon/15803003.png
 - Assets/Bundles/Icon/ItemIcon/14050010.png
 - Assets/Bundles/Icon/ItemIcon/10090201.png
 - Assets/Bundles/Icon/ItemIcon/14100106.png
@@ -162,6 +166,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10090302.png
 - Assets/Bundles/Icon/ItemIcon/14020011.png
 - Assets/Bundles/Icon/ItemIcon/10025006.png
+- Assets/Bundles/Icon/ItemIcon/15804003.png
 - Assets/Bundles/Icon/ItemIcon/14100005.png
 - Assets/Bundles/Icon/ItemIcon/15302007.png
 - Assets/Bundles/Icon/ItemIcon/15411004.png
@@ -187,6 +192,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10000159.png
 - Assets/Bundles/Icon/ItemIcon/10080401.png
 - Assets/Bundles/Icon/ItemIcon/10032015.png
+- Assets/Bundles/Icon/ItemIcon/15802002.png
 - Assets/Bundles/Icon/ItemIcon/10010042.png
 - Assets/Bundles/Icon/ItemIcon/10034004.png
 - Assets/Bundles/Icon/ItemIcon/13002004.png
@@ -226,6 +232,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10000150.png
 - Assets/Bundles/Icon/ItemIcon/10041401.png
 - Assets/Bundles/Icon/ItemIcon/10025010.png
+- Assets/Bundles/Icon/ItemIcon/15805003.png
 - Assets/Bundles/Icon/ItemIcon/10034010.png
 - Assets/Bundles/Icon/ItemIcon/14010005.png
 - Assets/Bundles/Icon/ItemIcon/14060005.png
@@ -233,9 +240,10 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10000145.png
 - Assets/Bundles/Icon/ItemIcon/10030015.png
 - Assets/Bundles/Icon/ItemIcon/10090101.png
-- Assets/Bundles/Icon/ItemIcon/DropGold.png
+- Assets/Bundles/Icon/ItemIcon/10013001.png
 - Assets/Bundles/Icon/ItemIcon/10000123.png
 - Assets/Bundles/Icon/ItemIcon/10045103.png
+- Assets/Bundles/Icon/ItemIcon/DropGold.png
 - Assets/Bundles/Icon/ItemIcon/10024009.png
 - Assets/Bundles/Icon/ItemIcon/14100104.png
 - Assets/Bundles/Icon/ItemIcon/10000205.png
@@ -287,6 +295,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10060210.png
 - Assets/Bundles/Icon/ItemIcon/10045111.png
 - Assets/Bundles/Icon/ItemIcon/10003.png
+- Assets/Bundles/Icon/ItemIcon/15811001.png
 - Assets/Bundles/Icon/ItemIcon/10030019.png
 - Assets/Bundles/Icon/ItemIcon/15705003.png
 - Assets/Bundles/Icon/ItemIcon/10030013.png
@@ -310,6 +319,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15304006.png
 - Assets/Bundles/Icon/ItemIcon/10000141.png
 - Assets/Bundles/Icon/ItemIcon/10023001.png
+- Assets/Bundles/Icon/ItemIcon/15803001.png
 - Assets/Bundles/Icon/ItemIcon/10036015.png
 - Assets/Bundles/Icon/ItemIcon/14050008.png
 - Assets/Bundles/Icon/ItemIcon/15501006.png
@@ -479,6 +489,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/16000201.png
 - Assets/Bundles/Icon/ItemIcon/10010088.png
 - Assets/Bundles/Icon/ItemIcon/10034001.png
+- Assets/Bundles/Icon/ItemIcon/15810201.png
 - Assets/Bundles/Icon/ItemIcon/14110021.png
 - Assets/Bundles/Icon/ItemIcon/10000153.png
 - Assets/Bundles/Icon/ItemIcon/15402002.png
@@ -517,6 +528,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15410111.png
 - Assets/Bundles/Icon/ItemIcon/15404005.png
 - Assets/Bundles/Icon/ItemIcon/15505004.png
+- Assets/Bundles/Icon/ItemIcon/10010030.png
 - Assets/Bundles/Icon/ItemIcon/10035003.png
 - Assets/Bundles/Icon/ItemIcon/15202002.png
 - Assets/Bundles/Icon/ItemIcon/10049101.png
@@ -524,6 +536,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15311004.png
 - Assets/Bundles/Icon/ItemIcon/10041412.png
 - Assets/Bundles/Icon/ItemIcon/15403005.png
+- Assets/Bundles/Icon/ItemIcon/10000165.png
 - Assets/Bundles/Icon/ItemIcon/15511002.png
 - Assets/Bundles/Icon/ItemIcon/10036006.png
 - Assets/Bundles/Icon/ItemIcon/10010029.png
@@ -539,6 +552,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10024005.png
 - Assets/Bundles/Icon/ItemIcon/14110008.png
 - Assets/Bundles/Icon/ItemIcon/15210101.png
+- Assets/Bundles/Icon/ItemIcon/15804002.png
 - Assets/Bundles/Icon/ItemIcon/10041210.png
 - Assets/Bundles/Icon/ItemIcon/10030016.png
 - Assets/Bundles/Icon/ItemIcon/10011014.png
@@ -576,6 +590,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10024003.png
 - Assets/Bundles/Icon/ItemIcon/10033003.png
 - Assets/Bundles/Icon/ItemIcon/15507002.png
+- Assets/Bundles/Icon/ItemIcon/15809001.png
 - Assets/Bundles/Icon/ItemIcon/10010101.png
 - Assets/Bundles/Icon/ItemIcon/10035004.png
 - Assets/Bundles/Icon/ItemIcon/10010053.png
@@ -588,6 +603,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10090102.png
 - Assets/Bundles/Icon/ItemIcon/14100103.png
 - Assets/Bundles/Icon/ItemIcon/14020003.png
+- Assets/Bundles/Icon/ItemIcon/15802003.png
 - Assets/Bundles/Icon/ItemIcon/10000151a.png
 - Assets/Bundles/Icon/ItemIcon/10010099.png
 - Assets/Bundles/Icon/ItemIcon/15502001.png
@@ -599,6 +615,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15508002.png
 - Assets/Bundles/Icon/ItemIcon/10060301.png
 - Assets/Bundles/Icon/ItemIcon/15303003.png
+- Assets/Bundles/Icon/ItemIcon/15804001.png
 - Assets/Bundles/Icon/ItemIcon/10080102.png
 - Assets/Bundles/Icon/ItemIcon/15704002.png
 - Assets/Bundles/Icon/ItemIcon/10024004.png
@@ -610,6 +627,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15209001.png
 - Assets/Bundles/Icon/ItemIcon/15202001.png
 - Assets/Bundles/Icon/ItemIcon/15405005.png
+- Assets/Bundles/Icon/ItemIcon/15808001.png
 - Assets/Bundles/Icon/ItemIcon/10000158.png
 - Assets/Bundles/Icon/ItemIcon/15311011.png
 - Assets/Bundles/Icon/ItemIcon/Activ106.png
@@ -629,20 +647,22 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10090301.png
 - Assets/Bundles/Icon/ItemIcon/10010047.png
 - Assets/Bundles/Icon/ItemIcon/10025009.png
+- Assets/Bundles/Icon/ItemIcon/15805001.png
 - Assets/Bundles/Icon/ItemIcon/15201005.png
 - Assets/Bundles/Icon/ItemIcon/10041108.png
 - Assets/Bundles/Icon/ItemIcon/10000149.png
 - Assets/Bundles/Icon/ItemIcon/10022003.png
 - Assets/Bundles/Icon/ItemIcon/10000144.png
+- Assets/Bundles/Icon/ItemIcon/14070002.png
 - Assets/Bundles/Icon/ItemIcon/15305006.png
 - Assets/Bundles/Icon/ItemIcon/10010013.png
 - Assets/Bundles/Icon/ItemIcon/10000122.png
 - Assets/Bundles/Icon/ItemIcon/14050006.png
-- Assets/Bundles/Icon/ItemIcon/14070002.png
+- Assets/Bundles/Icon/ItemIcon/16000112.png
 - Assets/Bundles/Icon/ItemIcon/10010097.png
 - Assets/Bundles/Icon/ItemIcon/15501001.png
 - Assets/Bundles/Icon/ItemIcon/10036009.png
-- Assets/Bundles/Icon/ItemIcon/16000112.png
+- Assets/Bundles/Icon/ItemIcon/15810002.png
 - Assets/Bundles/Icon/ItemIcon/10021010.png
 - Assets/Bundles/Icon/ItemIcon/14030012.png
 - Assets/Bundles/Icon/ItemIcon/10010084.png
@@ -669,8 +689,10 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15405003.png
 - Assets/Bundles/Icon/ItemIcon/11300001.png
 - Assets/Bundles/Icon/ItemIcon/15508001.png
+- Assets/Bundles/Icon/ItemIcon/15801003.png
 - Assets/Bundles/Icon/ItemIcon/xiangzi5.png
 - Assets/Bundles/Icon/ItemIcon/15501003.png
+- Assets/Bundles/Icon/ItemIcon/15801001.png
 - Assets/Bundles/Icon/ItemIcon/15210004.png
 - Assets/Bundles/Icon/ItemIcon/16000106.png
 - Assets/Bundles/Icon/ItemIcon/13005005.png
@@ -708,6 +730,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10022004.png
 - Assets/Bundles/Icon/ItemIcon/10036003.png
 - Assets/Bundles/Icon/ItemIcon/10036018.png
+- Assets/Bundles/Icon/ItemIcon/15811002.png
 - Assets/Bundles/Icon/ItemIcon/14010003.png
 - Assets/Bundles/Icon/ItemIcon/10101301.png
 - Assets/Bundles/Icon/ItemIcon/xiangzi1.png
@@ -719,6 +742,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10036014.png
 - Assets/Bundles/Icon/ItemIcon/10010072.png
 - Assets/Bundles/Icon/ItemIcon/15710002.png
+- Assets/Bundles/Icon/ItemIcon/15802001.png
 - Assets/Bundles/Icon/ItemIcon/10033013.png
 - Assets/Bundles/Icon/ItemIcon/10031002.png
 - Assets/Bundles/Icon/ItemIcon/14020005.png
@@ -764,6 +788,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10031012.png
 - Assets/Bundles/Icon/ItemIcon/10031011.png
 - Assets/Bundles/Icon/ItemIcon/10060101.png
+- Assets/Bundles/Icon/ItemIcon/15810001.png
 - Assets/Bundles/Icon/ItemIcon/10022005.png
 - Assets/Bundles/Icon/ItemIcon/10020006.png
 - Assets/Bundles/Icon/ItemIcon/15506003.png
@@ -782,6 +807,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10035002.png
 - Assets/Bundles/Icon/ItemIcon/10035007.png
 - Assets/Bundles/Icon/ItemIcon/10030017.png
+- Assets/Bundles/Icon/ItemIcon/15807001.png
 - Assets/Bundles/Icon/ItemIcon/15207002.png
 - Assets/Bundles/Icon/ItemIcon/10000171.png
 - Assets/Bundles/Icon/ItemIcon/10010046.png
@@ -855,6 +881,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/13004004.png
 - Assets/Bundles/Icon/ItemIcon/10000175.png
 - Assets/Bundles/Icon/ItemIcon/14100004.png
+- Assets/Bundles/Icon/ItemIcon/15806001.png
 - Assets/Bundles/Icon/ItemIcon/15703001.png
 - Assets/Bundles/Icon/ItemIcon/10010103.png
 - Assets/Bundles/Icon/ItemIcon/10025003.png
@@ -915,6 +942,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10023008.png
 - Assets/Bundles/Icon/ItemIcon/13009002.png
 - Assets/Bundles/Icon/ItemIcon/10040101.png
+- Assets/Bundles/Icon/ItemIcon/15805002.png
 - Assets/Bundles/Icon/ItemIcon/16000309.png
 - Assets/Bundles/Icon/ItemIcon/10036024.png
 - Assets/Bundles/Icon/ItemIcon/15410011.png
@@ -924,6 +952,8 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15401002.png
 - Assets/Bundles/Icon/ItemIcon/15210102.png
 - Assets/Bundles/Icon/ItemIcon/15211013.png
+- Assets/Bundles/Icon/ItemIcon/15810101.png
+- Assets/Bundles/Icon/ItemIcon/15811003.png
 - Assets/Bundles/Icon/ItemIcon/14040002.png
 - Assets/Bundles/Icon/ItemIcon/10011015.png
 - Assets/Bundles/Icon/ItemIcon/1.png
