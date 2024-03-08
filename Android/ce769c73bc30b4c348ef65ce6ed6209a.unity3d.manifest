@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3403361338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e948e31fe48be970b1282b00478c44b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe86367069b21e4f170454c8c8113167
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/zhanshi_11/zhanshi.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/27b12bad1de7e1fafa62cb85c58dd8ce.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/36501265dd62bafa217d225812543f6d.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4c1b35233af11ed4e53771656a4349f7.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/58f8c6f2f0aa85c9469427e4ceb98466.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ecf776dd267451ab8be2e762588c5f4.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/86e036cbd280161300870072adc821ea.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/be13e830a153960ecb7021e85818ddd0.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cde0fe82f82156f29411f89be3f83c69.unity3d

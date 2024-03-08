@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1265342718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0498ce0ce8736b3104db34ad904135f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe86367069b21e4f170454c8c8113167
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/fashi_1/fashi1_skin.FBX
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/04ef3de641612556ed2c4e8e12e7aa47.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/258ff4d39c52a0811cfb62b1c3007a0f.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5a02e4b5e4c4f75dd865db069faa87ad.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/802e030b99fab4b8ec82bd9d294cba7a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a83483c485fc093e1e8071879c0df11a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a84cd53559c912e0f61be6079d09c64a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9835d2ae4373b47c23af0b24d8b8a86.unity3d

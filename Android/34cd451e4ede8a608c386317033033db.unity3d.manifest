@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3647633563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ea0eb8461d328a26539043e1be5d77c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/fashi_2/texture/fashi_fashi.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 650848686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3dc2a7282cc526541408a0fd1a59a03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe86367069b21e4f170454c8c8113167
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/zhanshi_1_xiayi.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cde0fe82f82156f29411f89be3f83c69.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce769c73bc30b4c348ef65ce6ed6209a.unity3d
