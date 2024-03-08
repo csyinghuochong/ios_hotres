@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3285977918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37e6af38d120d78241e3d5f385cc5b07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe86367069b21e4f170454c8c8113167
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/zhanshi_1_shangyi.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/27b12bad1de7e1fafa62cb85c58dd8ce.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ce769c73bc30b4c348ef65ce6ed6209a.unity3d
