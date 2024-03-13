@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3245798003
+CRC: 2126682883
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8ac28f7e8c423be4dfbed1a6d916887e
+    Hash: 2339673b7beb075e775338a845208524
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
@@ -23,4 +23,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Parts/Fashion/fashi_2_meimao.prefab
 Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/61756595b4a4342611660f55ea40abc4.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f392570e7478134f751754a1204be8a.unity3d

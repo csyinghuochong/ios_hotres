@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2956495320
+CRC: 2823881100
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3e08fa40045074a8e5cf2997d241d478
+    Hash: 1c17b9149c7e0777ea90703fe4f9383c
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -28,5 +28,5 @@ Assets:
 - Assets/Bundles/Unit/Parts/Fashion/zhanshi_1_shangyi.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/27b12bad1de7e1fafa62cb85c58dd8ce.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce769c73bc30b4c348ef65ce6ed6209a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/33a7f842be0555d49a01e850b2532683.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8d46e256114b2485f1ab6798ba738ace.unity3d
