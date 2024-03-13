@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3982695049
+CRC: 1888563857
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3383227143e4f65fa1047365aeea464f
+    Hash: 3c8afd91cd882ce83890681728e8b131
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fe86367069b21e4f170454c8c8113167
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,11 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 43
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
@@ -27,6 +23,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Parts/Fashion/fashi_2_fashi.prefab
 Dependencies:
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/34cd451e4ede8a608c386317033033db.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/65b3942825cda85c9eed61c4972630d8.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6f392570e7478134f751754a1204be8a.unity3d

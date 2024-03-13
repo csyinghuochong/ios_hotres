@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1980833417
+CRC: 658910724
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6dd77196477d867de0e8f89d5df8938b
+    Hash: 75033f21e6e9bb1e2f79b730418ba796
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
@@ -24,3 +24,4 @@ Assets:
 - Assets/Bundles/Unit/Parts/Fashion/fashi_1_meimao.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6dda6e010c7de2d45e948bd3cba08b06.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/716aea5224261b84af73e54c25e4c7fe.unity3d

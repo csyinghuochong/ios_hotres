@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2136064948
+CRC: 3275207871
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7e072f210cde644b67f3261926cf715c
+    Hash: 3fc4762924545f0481103f8a81a7b570
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -28,5 +28,5 @@ Assets:
 - Assets/Bundles/Unit/Parts/Fashion/zhanshi_1_lian.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/be13e830a153960ecb7021e85818ddd0.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ce769c73bc30b4c348ef65ce6ed6209a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/33a7f842be0555d49a01e850b2532683.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7ebdefc58e2ff8aed3cfb835aa7ca348.unity3d
