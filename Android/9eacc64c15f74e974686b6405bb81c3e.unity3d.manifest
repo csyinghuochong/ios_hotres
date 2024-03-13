@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2732460588
+CRC: 2687431129
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b5077a0a97f3913030a858a3d913301c
+    Hash: 1285e5ca31419152c86aaa6cd488c03e
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -28,5 +28,5 @@ Assets:
 - Assets/Bundles/Unit/Parts/Fashion/zhanshi_1_meimao.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ecf776dd267451ab8be2e762588c5f4.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce769c73bc30b4c348ef65ce6ed6209a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/33a7f842be0555d49a01e850b2532683.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f592d099a9c7bb560c607fa49f11b6d.unity3d

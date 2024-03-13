@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 296713837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3762fafaecafb43d07fe69f35f69f307
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/zhanshi_1/texture/zhanshi_yanjing.png
+Dependencies: []

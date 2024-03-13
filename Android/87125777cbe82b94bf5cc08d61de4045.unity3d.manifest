@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1572108935
+CRC: 3877436686
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3abc01b46f7ef98b37cdff0439cd5eec
+    Hash: 662182ba59ab744e837f62801def87c7
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -27,6 +27,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Parts/3/Hero_shangyi.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/566e8bf1cb481abbb0671dcd4f713df4.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/656f4d05a9654ad1134a2aa96120ff64.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/566e8bf1cb481abbb0671dcd4f713df4.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/656f4d05a9654ad1134a2aa96120ff64.unity3d

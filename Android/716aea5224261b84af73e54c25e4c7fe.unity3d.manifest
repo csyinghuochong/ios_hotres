@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 990919982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 893bab391535aae9c88ed84019e5e550
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/fashi_1/texture/yanjing.mat
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9835d2ae4373b47c23af0b24d8b8a86.unity3d

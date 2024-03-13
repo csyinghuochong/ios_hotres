@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1943540839
+CRC: 3924702540
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8f0ad990c348cebb3c0be15e4b03336e
+    Hash: 2a3c6bf6290ca734db11ed7bd8c51d81
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fe86367069b21e4f170454c8c8113167
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,11 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 43
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
@@ -27,6 +23,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Parts/Fashion/fashi_1_yanjing.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6dda6e010c7de2d45e948bd3cba08b06.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e9835d2ae4373b47c23af0b24d8b8a86.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/716aea5224261b84af73e54c25e4c7fe.unity3d

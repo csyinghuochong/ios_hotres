@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 524437486
+CRC: 3323160223
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 86b1f96b55d921eef470ffa18d9e9ad8
+    Hash: fa4dda0216b7fb8da45fd4a0cbbeb4d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
@@ -23,4 +23,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Parts/Fashion/zhanshi_1_yanjing.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce769c73bc30b4c348ef65ce6ed6209a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/33a7f842be0555d49a01e850b2532683.unity3d
