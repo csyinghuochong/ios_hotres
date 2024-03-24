@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3729936603
+CRC: 2991889392
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a2343b2cf42649e74bce7e60d12549e0
+    Hash: e518f4b5a8293099dbca93b5e6c8b1c5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a362a30a79a8983e571aebf27fef576c
+    Hash: 0435c3dd58e829f7d96900190ec07d2b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,6 +19,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
 - Class: 114
@@ -44,6 +46,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.AnimationTriggers
 - AssemblyName: UnityEngine.UI
