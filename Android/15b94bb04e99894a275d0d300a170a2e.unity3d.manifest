@@ -3,7 +3,7 @@ CRC: 2072617073
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 79a14c3784086db87ff28650b50771b5
+    Hash: 6cb74205d9595f581d4a98c5fb70ad8d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Fantasy upgrade building/building/etc_Sword02.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d

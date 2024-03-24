@@ -3,7 +3,7 @@ CRC: 4106718128
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 620d44f0e3297b7d50e0860de637de9a
+    Hash: f9004cc3271af65163b8d56347d1aa11
   TypeTreeHash:
     serializedVersion: 2
     Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
@@ -19,4 +19,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Warrior/Suriyun/Animations/Animations_v3/AnimSD@IdleB.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/063b1d375fc60f398487df1d2aefa388.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/063b1d375fc60f398487df1d2aefa388.unity3d

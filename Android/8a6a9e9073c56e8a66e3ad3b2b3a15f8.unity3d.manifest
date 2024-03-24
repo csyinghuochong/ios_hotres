@@ -3,7 +3,7 @@ CRC: 4238700934
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8fdb9d7f20871ecb657f8a5da1ba35b9
+    Hash: 12a06c5e6adb6fbb937182172828f427
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Player/BaiTan.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6964e5c12db6d121dca773b89b74da85.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6964e5c12db6d121dca773b89b74da85.unity3d

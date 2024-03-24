@@ -3,7 +3,7 @@ CRC: 907801846
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98ee2dc1ed3beaf007f3ae8b330fce37
+    Hash: fcf45427f23e0a55cfd4dd0fed89cd1c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelBridge.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/77030bad1acfdac3b1a21934cacd224e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/77030bad1acfdac3b1a21934cacd224e.unity3d

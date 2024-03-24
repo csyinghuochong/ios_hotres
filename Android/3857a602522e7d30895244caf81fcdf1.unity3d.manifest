@@ -3,7 +3,7 @@ CRC: 2299922546
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1dd3d8ac936f439dd73270ce3e4b17cf
+    Hash: 598fce2490e84c7f1d8273de5b3665e2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,5 +25,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Fantasy upgrade building/building/building_potion_lv5.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3cfc9c259200a44a978d39ad274094e1.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/979aa2c2d291a378752e7fb3b7f0e98d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3cfc9c259200a44a978d39ad274094e1.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/979aa2c2d291a378752e7fb3b7f0e98d.unity3d

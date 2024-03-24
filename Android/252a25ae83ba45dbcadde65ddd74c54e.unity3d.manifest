@@ -3,7 +3,7 @@ CRC: 2526856305
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98591774866a24dcb696d0b3af214580
+    Hash: bec0fe04d97ad016e7caa6763d2d35d4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_3/model/FB_mulan01.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/eb0e709e21574e0cfbdd0fd7f6f9e495.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/eb0e709e21574e0cfbdd0fd7f6f9e495.unity3d

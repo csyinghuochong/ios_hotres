@@ -3,7 +3,7 @@ CRC: 3198829652
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 206244be53f6e03572262fa735e7de19
+    Hash: 9ceaadd1685dbacdc77d06bb5dda517e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/plant_vege_061.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cb7d954dde5b261a10bc0da917b146c0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cb7d954dde5b261a10bc0da917b146c0.unity3d

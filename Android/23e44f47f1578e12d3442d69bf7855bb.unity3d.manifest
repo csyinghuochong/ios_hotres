@@ -3,7 +3,7 @@ CRC: 446750867
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea201d2514803350c1f1e8489a45511b
+    Hash: decb4d8d3e928295c55708552b781118
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelFlower_purple.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0ca683cea1ec254faca62900de969e6d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0ca683cea1ec254faca62900de969e6d.unity3d

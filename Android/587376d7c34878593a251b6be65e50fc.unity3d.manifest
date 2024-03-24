@@ -3,7 +3,7 @@ CRC: 1042762848
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a256bb098da404fa96c3f6b1c4de14d7
+    Hash: 23ff664c442cbfc401dd7fe50df69abd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelStaircase2_1.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/02839a35bf610ce0a03bff9f0fe1466c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/02839a35bf610ce0a03bff9f0fe1466c.unity3d

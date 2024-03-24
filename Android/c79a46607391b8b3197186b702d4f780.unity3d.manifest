@@ -3,7 +3,7 @@ CRC: 4215471365
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eb57447c2fe595068191d90830252b41
+    Hash: 0d29748d37ae60140518ba6755c5347f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_1/model/FB1_huaban.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/47f22b34c0f4f811f2c0acaa962d3d72.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/47f22b34c0f4f811f2c0acaa962d3d72.unity3d

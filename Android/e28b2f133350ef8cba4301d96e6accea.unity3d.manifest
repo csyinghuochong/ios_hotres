@@ -6,7 +6,7 @@ Hashes:
     Hash: 386fff4f332fe0f6f01c5d13c249e705
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3c7ba5017f0f6d85bdb75ffc957e54e2
+    Hash: e06834756980d3bab19b7474996aae5b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,9 +20,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
@@ -69,17 +69,17 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Pet/UIPetCangKu.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/13bdbf329d2abeee74e027d469979ccf.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/160a3c949daff9644bb4cce6192b79a6.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2e45f63350462b2ae9170698facdc071.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4513ef296cbbf14974469edc9e00c103.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4627121ad72acd24bf042550f2ee404f.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/66b79c41bb658dcd9b14278171ee0bbb.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7cc8ceaf97a46e325db66a62b56900be.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7f462a18d1b752e63c70629d077008ef.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ad95c8537a3d6992701f22d140e7f3ad.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d1b8ec5d38e1abbbf99bc61c922b421c.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d40db5265fd16daa59f03ea45514bf97.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e92a2154877cc6a895631516bd18387a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/13bdbf329d2abeee74e027d469979ccf.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/160a3c949daff9644bb4cce6192b79a6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2e45f63350462b2ae9170698facdc071.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4513ef296cbbf14974469edc9e00c103.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4627121ad72acd24bf042550f2ee404f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/66b79c41bb658dcd9b14278171ee0bbb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7cc8ceaf97a46e325db66a62b56900be.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7f462a18d1b752e63c70629d077008ef.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ad95c8537a3d6992701f22d140e7f3ad.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d1b8ec5d38e1abbbf99bc61c922b421c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d40db5265fd16daa59f03ea45514bf97.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e92a2154877cc6a895631516bd18387a.unity3d

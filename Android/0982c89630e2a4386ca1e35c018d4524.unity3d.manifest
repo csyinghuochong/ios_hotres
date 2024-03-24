@@ -3,7 +3,7 @@ CRC: 3015681998
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3619fea186c9a9342ea65734c22c8a33
+    Hash: 0d6e6564809272881f98054168f2ac4b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_1/model/FB1 _muxiang.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/10cc938e7e1611439ccd7850c1b9e4ec.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/10cc938e7e1611439ccd7850c1b9e4ec.unity3d

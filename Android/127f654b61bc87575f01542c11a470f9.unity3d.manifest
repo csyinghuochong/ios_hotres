@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3873942558
+CRC: 3558462098
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 173f5fdebf39887685f922534a3c7abd
+    Hash: 0e7decbd50aa653c661982ca94641451
   TypeTreeHash:
     serializedVersion: 2
     Hash: d380eae140ff4722c4f70e8d2d3d2752
@@ -43,7 +43,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_QunDu_2.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/43946489ac5ad622b28773fe2cdec63f.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/50d0c1813f82d388950e2fd43e824df8.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/bf70c6db0c0c12e04df48bd3f4d4b508.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c33c25bc17b8835a44ebc6961f2d4c86.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/43946489ac5ad622b28773fe2cdec63f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/50d0c1813f82d388950e2fd43e824df8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bf70c6db0c0c12e04df48bd3f4d4b508.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c33c25bc17b8835a44ebc6961f2d4c86.unity3d

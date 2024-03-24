@@ -3,7 +3,7 @@ CRC: 3565256093
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b8f69be5fe5131087ca2743dda4d5994
+    Hash: 4ac918a68edc6cf9a8dd284e4fe1067d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/environment_Building_jiguan_001_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/62eff2b8217759ca989f7670708897ab.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/95dd9efaa14e02dba3f384c5c2b42f20.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/62eff2b8217759ca989f7670708897ab.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/95dd9efaa14e02dba3f384c5c2b42f20.unity3d

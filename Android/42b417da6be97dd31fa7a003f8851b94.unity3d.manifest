@@ -3,7 +3,7 @@ CRC: 3176976597
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0191a431cff859b0205aba5a1e7cc059
+    Hash: c74c18399e60d9cc283bf1983fbb2fe2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/environment_common_huopeng_004_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cd13a918b1d6e72d6c48d4d6100d0ac9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cd13a918b1d6e72d6c48d4d6100d0ac9.unity3d

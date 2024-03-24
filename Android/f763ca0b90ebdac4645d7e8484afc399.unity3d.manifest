@@ -3,7 +3,7 @@ CRC: 1796097157
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6d44e85238727a727c63cf99b985b4eb
+    Hash: e4eeca571d14203639496aaa168afef5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_muzhixiang_002_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f20bb3ac6e1a0044ed7b3ed566573734.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f20bb3ac6e1a0044ed7b3ed566573734.unity3d

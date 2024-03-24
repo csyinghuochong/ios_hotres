@@ -3,7 +3,7 @@ CRC: 3907850158
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e26ff37017a3ba68bc8e1d88a8037cf4
+    Hash: 36080969ff8398d9cb710284f27fc716
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,5 +29,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/environment_Building_yingdi_hantianta_002_j.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/00e0d05dda564ef6857cb59614b3ba7d.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4bdaf503589476c7d67d115f32681192.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/00e0d05dda564ef6857cb59614b3ba7d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4bdaf503589476c7d67d115f32681192.unity3d

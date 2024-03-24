@@ -3,7 +3,7 @@ CRC: 1272215700
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dca3f4a6e3b13082fd526b49b8112fbc
+    Hash: 0415d286386ff5add75b7f1d4ac6cee5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelBucket1.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3ddd6821c375bbb50323f1bf71c924f0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3ddd6821c375bbb50323f1bf71c924f0.unity3d
