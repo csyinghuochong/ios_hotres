@@ -3,7 +3,7 @@ CRC: 2534829861
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: df011826888ec5c3211e9c6cbee7bbe1
+    Hash: 759bc6b47849e16297234754be389970
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_muza_002_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3a602f6d0c7c892b3f697671984408b9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3a602f6d0c7c892b3f697671984408b9.unity3d

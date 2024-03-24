@@ -3,7 +3,7 @@ CRC: 3073370354
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a064e01aa77b480cf6727e9a132d04b6
+    Hash: 3941bd66dbd0cc2f0ee21484a9e1ec7e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8f0252db3c7fb55fc46c0286ed37380d
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Cute Zoo 2/FBX/Boar.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/29ad110836d3971c4d6066ff314d40f0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/29ad110836d3971c4d6066ff314d40f0.unity3d

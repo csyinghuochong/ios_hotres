@@ -3,7 +3,7 @@ CRC: 2182922986
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0601ca528f928b7d7e8bad739ae3d7bf
+    Hash: 175dd7e0a5bcdd8bb79030e36ba37df6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_mupeng_001_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b0a82b24ff047f8534defcf2f7cca352.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cc1517982d2dddf71b85688bea283785.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b0a82b24ff047f8534defcf2f7cca352.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cc1517982d2dddf71b85688bea283785.unity3d

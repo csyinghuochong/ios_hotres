@@ -3,7 +3,7 @@ CRC: 2867949420
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3d33891ef81a7d497136121169d13cbc
+    Hash: dfccd47935198668438d226b91dca602
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9397ff014da44a8632e81480212955cd
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/RoleModelSet/RoleFaShi/Animtor/Girl_Speak.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d

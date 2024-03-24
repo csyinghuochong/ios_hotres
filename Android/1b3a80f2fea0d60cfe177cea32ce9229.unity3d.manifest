@@ -3,7 +3,7 @@ CRC: 4117666659
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4177c18c66731c2a77eefe7d09a0066c
+    Hash: 93f4670690984416ec28b0568748feb2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Prop_Barrel.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ffb85a455b820e6e6b78a3fa66717ee4.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ffb85a455b820e6e6b78a3fa66717ee4.unity3d

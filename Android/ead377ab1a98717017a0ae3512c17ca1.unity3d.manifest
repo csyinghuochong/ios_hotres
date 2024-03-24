@@ -3,7 +3,7 @@ CRC: 950847092
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 936b2905e8d1a3a84c7c08e3162a84b7
+    Hash: ebadf4e960cf0adeedb0846e4578af54
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/skybox/skybox_stsm_yun_002.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/917976a49d48eac4e98a78117bc2fc38.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/917976a49d48eac4e98a78117bc2fc38.unity3d

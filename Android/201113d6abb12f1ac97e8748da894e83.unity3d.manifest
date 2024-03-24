@@ -3,7 +3,7 @@ CRC: 157769011
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ed031ff5eeaf23d4dd2c8f7780f7e14e
+    Hash: c5a872c14b1a710877dabd5c8b74edde
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Prop_Sword.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac536446970a1ee48c1ff91c18a1f79c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac536446970a1ee48c1ff91c18a1f79c.unity3d

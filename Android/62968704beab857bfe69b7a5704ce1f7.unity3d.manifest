@@ -3,7 +3,7 @@ CRC: 3419911517
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9bc808eca09ea6afe064fecaab4c0448
+    Hash: 2debb71869a33cd652a8c902e3dc043b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Ivy4.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/784d875cffb636f146940d139056e23f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/784d875cffb636f146940d139056e23f.unity3d

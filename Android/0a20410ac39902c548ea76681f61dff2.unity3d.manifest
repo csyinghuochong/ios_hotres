@@ -3,7 +3,7 @@ CRC: 3377772496
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eeb33956133850072eb5d143afe6463f
+    Hash: 26cca0b0e410a39478dd204e0dea036e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Wagon_gate1.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4fc61c97d08c04dfdbdfce96ef6e87f9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4fc61c97d08c04dfdbdfce96ef6e87f9.unity3d
