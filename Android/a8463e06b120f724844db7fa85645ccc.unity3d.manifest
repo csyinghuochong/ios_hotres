@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2386668082
+CRC: 3079694249
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6c1b35c11e3bbb5dd12b2408d410632d
+    Hash: 8f23793409bb7d3ee643624382260d8e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0dcb8e2481c06c3080459cd852e51126
@@ -57,6 +57,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/FenXiang/UIFenXiangQQAddSet.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/72d356d87a42f472edab8b62a9f85f9c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/72d356d87a42f472edab8b62a9f85f9c.unity3d
