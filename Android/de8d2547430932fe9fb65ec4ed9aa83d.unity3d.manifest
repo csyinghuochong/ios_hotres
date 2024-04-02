@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3220619439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfcf034b9cdc6baca3838684dac9236c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/fashi_101_xiayi.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/936a657270f049bd775a37c0ef92c544.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d3f395e1c582b7bf2a2a4240a34b1521.unity3d

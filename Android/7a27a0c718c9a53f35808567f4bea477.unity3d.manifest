@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2963739796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b6e800e3873efb81922af32be806c5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleZhanShi/tga2/Eye.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e0c03124df065acb1c460433cb1cb775.unity3d

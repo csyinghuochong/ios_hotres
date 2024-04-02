@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 45861352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff8cb392b56a992da5172c49de528959
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleZhanShi/tga2/zhanshi_yanjing.tga
+Dependencies: []
