@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 985127868
+CRC: 162352173
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 70349a03c4144a5c804ac9b6fdd1c3ad
+    Hash: 24141ce6ef4269382c29f6b2a2dbd136
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -27,6 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Parts/Fashion/zhanshi_1_toufa.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0458fc11ee74a17380284b0c46fbc14a.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/33a7f842be0555d49a01e850b2532683.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f198a7ee472d81923182d443a670150b.unity3d

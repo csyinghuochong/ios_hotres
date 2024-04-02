@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1999571436
+CRC: 177909806
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f7f064357b9d8918d41443eb42a7acf0
+    Hash: 95fc28d3c0435239e15145b3a4dffc90
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ef6ba447bd16ea765ca310c95df10dc
+    Hash: 8f0252db3c7fb55fc46c0286ed37380d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,6 +15,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
@@ -22,3 +28,4 @@ Assets:
 - Assets/Bundles/Unit/Parts/2/Hero_fashi2.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/36ab60de7e6f866c65e6f7ad6a2d5256.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d3f395e1c582b7bf2a2a4240a34b1521.unity3d

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3166222249
+CRC: 2519623307
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 331bbf1f49bff86afcc7a3c437e52435
+    Hash: 0a4dcd0a091833dc3f36500d121d388d
   TypeTreeHash:
     serializedVersion: 2
     Hash: fd825bcca9806948fca79b0d38d071a7
@@ -70,12 +70,14 @@ Assets:
 - Assets/Bundles/UI/Main/Season/UISeasonTower.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/21f8f91ec896036f9521b37150ba8823.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2e597a19f89fa05a0ec4da82bf92127c.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4340ea9a031f7a0a8d577262c31ba2aa.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4f49dc309a535719742a0ef9ebf4e01b.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/803297a374d8a383fee39c2c4d9fbd87.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8c4435c435b5923c5418265844ffe60f.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ad95c8537a3d6992701f22d140e7f3ad.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/aef281ffcc8f78ab73499eefe549b5ef.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ba8744259bb3e9bab82210311b7d01eb.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e859c443da163c61ec58bbe8914b7ae9.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f5c2b423f2fc45622361f6d3d29e9299.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fd91049ee6b939c843cc004390e04fac.unity3d
