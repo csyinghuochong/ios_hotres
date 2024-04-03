@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1526908738
+CRC: 2330555567
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 359a73db53d08c86e284bb01ffe8f388
+    Hash: 993e09ad939e6a717ac8268945aa3598
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -67,6 +67,7 @@ Assets:
 - Assets/Bundles/Icon/TiTleIcon/Img_UIRunRace.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIUnionMystery.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIWarehouse.png
+- Assets/Bundles/Icon/TiTleIcon/Img_UIWeiJingShop.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIShenQiMake.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIBattleRecruit.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UICountry.png
