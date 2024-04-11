@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 706576887
+CRC: 3111197287
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8c7ba494d4595a5dffab972b2e28e7a7
+    Hash: 9a551ea5cf487df6076aaf178ea30cc4
   TypeTreeHash:
     serializedVersion: 2
     Hash: dc5a8c796b20a6ee7944338d89f32c6f
@@ -45,6 +45,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Common/UILoading.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/320ba508dca749795fb00dfa6d88cda5.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3adefeef541aa505daa687dedb3d4439.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/72cc504ad5cc073f4bdd657482c2820e.unity3d
