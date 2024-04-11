@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3256718385
+CRC: 2672628803
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7990f1bfcf6b6f5e833e52e610dc94ec
+    Hash: 99032bef4e60552e978a92677c4f30f1
   TypeTreeHash:
     serializedVersion: 2
     Hash: dc5a8c796b20a6ee7944338d89f32c6f
@@ -45,7 +45,8 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Common/UILoading.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3adefeef541aa505daa687dedb3d4439.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/72cc504ad5cc073f4bdd657482c2820e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e0e09898e755094e47304d6f5d6b2a7e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/320ba508dca749795fb00dfa6d88cda5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3adefeef541aa505daa687dedb3d4439.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/72cc504ad5cc073f4bdd657482c2820e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e0e09898e755094e47304d6f5d6b2a7e.unity3d
