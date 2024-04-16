@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 232732546
+CRC: 2994375838
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fdcb23f44ce85629ee63fa36a609e70b
+    Hash: 9676673c47fcb7d1227c726734d3b08f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
@@ -23,4 +23,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Parts/Fashion/fashi_2_fashi2.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f392570e7478134f751754a1204be8a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/65b3942825cda85c9eed61c4972630d8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f392570e7478134f751754a1204be8a.unity3d
