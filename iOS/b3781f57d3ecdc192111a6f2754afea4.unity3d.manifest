@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 859502656
+CRC: 349240024
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 26695bbe359bebbc2d3c12ff0957e424
+    Hash: 359e75901cb4a5370fa9fe23e6a3c33f
   TypeTreeHash:
     serializedVersion: 2
     Hash: d02e3c4db1d3ef2f8494a2e3894217c9
@@ -76,6 +76,7 @@ Assets:
 - Assets/Bundles/UI/Login/UISelectServer.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/004b8fee7f96c121490864b4efcef02c.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/05ebe22d3bb066a4c9b0d537eb029073.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/071e9d26a1fafe456f18d05ab880c6c2.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3adefeef541aa505daa687dedb3d4439.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3b354936a9ac617920cea1145f77f1b7.unity3d
@@ -87,4 +88,5 @@ Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/aef281ffcc8f78ab73499eefe549b5ef.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b7a745d5395c097637a14cc9aba51969.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/cd2ad23865f06896020318bafedbe59d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e96a973629134c51d3c3cb39dacc7606.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fe45fba294cb3a85bffa37452b5d31ae.unity3d
