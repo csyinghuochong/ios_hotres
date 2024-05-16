@@ -1,15 +1,17 @@
 ManifestFileVersion: 0
-CRC: 237598886
+CRC: 3044626143
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 088b05e7367a841391615d4cd08f334a
+    Hash: 0f62657c84b7e827664f8b9784041215
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4adb70244c16cc1aa9e07d16399a6be1
+    Hash: 3e1404982a1c7a12a5ced08c7e69ad57
 HashAppended: 0
 ClassTypes:
 - Class: 1
+  Script: {instanceID: 0}
+- Class: 28
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -61,7 +63,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Union/UIUnionRoleXiuLian.prefab
 Dependencies:
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2c03824fe34bb4a2245100cb0dd956b1.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3936eb04267c4859d984ab5a146ae883.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4627121ad72acd24bf042550f2ee404f.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
