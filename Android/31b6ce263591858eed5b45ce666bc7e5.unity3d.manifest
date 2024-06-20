@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3762601756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79f4a65115230eccec87e506d2318ad6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bce5b6110026905c0c5ea759152753a9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_XuanFengZhan_7.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/380fd3a465e04dec70e9788c74f82d78.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a228f8f37fc5292bdbcb2adf992eeabe.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b940b708796a66ede448c211e0457618.unity3d
