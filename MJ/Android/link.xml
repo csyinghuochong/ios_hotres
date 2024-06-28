@@ -9,6 +9,7 @@
     <type fullname="DoTweenScale" preserve="all" />
     <type fullname="ET.Client.PoolObject" preserve="all" />
     <type fullname="ET.GizmosDebug" preserve="all" />
+    <type fullname="ET.SoundData" preserve="all" />
     <type fullname="ET.UILayerScript" preserve="all" />
     <type fullname="FPS" preserve="all" />
     <type fullname="HeadBarUI" preserve="all" />
@@ -36,7 +37,9 @@
     <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
     <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Camera" preserve="all" />
