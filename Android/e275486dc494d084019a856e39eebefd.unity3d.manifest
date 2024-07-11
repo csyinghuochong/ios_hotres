@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3308926939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a45a981edf78e8145b4e48f34474f74d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18a24c3540a2efaa166a60b4dd4ca927
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea6c26686c050414eb1d71a523983e91, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundles/Effect/UIEffect/Effect_ShanShuo.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/60ba88743078bd94d11dfc31789a222d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/899d7e36544cb02346615604644d7e0a.unity3d

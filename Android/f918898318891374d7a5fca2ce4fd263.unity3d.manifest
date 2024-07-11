@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1546507641
+CRC: 116284134
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e160a8c1aa23216db1eca26e2a445984
+    Hash: afb7d6a37dcc1be4dba3590125273679
   TypeTreeHash:
     serializedVersion: 2
     Hash: d89b060f78b6cba5d5ca930ca2087b37
@@ -43,6 +43,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Role/UIPropertyHint.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1f21981b56277187351de2a1d0a6ee91.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/993936939de4747b6b0ed40584be7a55.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1f21981b56277187351de2a1d0a6ee91.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/993936939de4747b6b0ed40584be7a55.unity3d
