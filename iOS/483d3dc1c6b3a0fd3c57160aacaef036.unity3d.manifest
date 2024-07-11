@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1106003712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbd83876f65d96ff65e4b6ddb4b7e1a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18a24c3540a2efaa166a60b4dd4ca927
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea6c26686c050414eb1d71a523983e91, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundles/Effect/UIEffect/Effect_BaoZha.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/294a4fcaa369ea01d2671584eec3fd0c.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/60ba88743078bd94d11dfc31789a222d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c5cfd7a9fd0d2fbf18ff722731cea454.unity3d

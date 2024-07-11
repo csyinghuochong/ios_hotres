@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 2397352031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61e1bca66632104acb844c25fa00e614
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 021151c1ccdda4f37175fdd420a8eb9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea6c26686c050414eb1d71a523983e91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97cdb235702b63d488f2d37137469d13, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundles/UI/Main/Role/UIRoleQiangHuaTip.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/205b68b81852f2f93ef18a9b43898881.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/294a4fcaa369ea01d2671584eec3fd0c.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/37b825214bf4eb952f1d21f517d2fda5.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4513ef296cbbf14974469edc9e00c103.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/60ba88743078bd94d11dfc31789a222d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6a0d7ca8b85a44f67b9e145654bdb29f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/899d7e36544cb02346615604644d7e0a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c5cfd7a9fd0d2fbf18ff722731cea454.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e25d622f1baca1bb66c77e201fd32c17.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ebf2ba71d6daffbbb448707ac1ee11d8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/fd91049ee6b939c843cc004390e04fac.unity3d
