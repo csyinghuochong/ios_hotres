@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3762601756
+CRC: 523776305
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 79f4a65115230eccec87e506d2318ad6
+    Hash: 20a14425a81e480c2f73ef646604672f
   TypeTreeHash:
     serializedVersion: 2
     Hash: bce5b6110026905c0c5ea759152753a9
@@ -28,5 +28,7 @@ Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_XuanFengZhan_7.prefab
 Dependencies:
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/380fd3a465e04dec70e9788c74f82d78.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4c77a531096a993b68ee6511d78bc7d9.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/70dd3019df34174a021b854c2c70ebd0.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a228f8f37fc5292bdbcb2adf992eeabe.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b940b708796a66ede448c211e0457618.unity3d

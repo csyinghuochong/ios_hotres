@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1550474109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b540abb9c46af5815329ecc1e31f9ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Materials/Add_offset03.mat
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/89057ceb5047ffdcd9cb33e3bbfbcb5a.unity3d

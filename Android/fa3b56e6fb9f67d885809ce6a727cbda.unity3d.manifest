@@ -3,7 +3,7 @@ CRC: 2062072269
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 789775c0d1c987f001061d3164c571b9
+    Hash: ff9938d86707ccf735b0d6f6d6bd9a72
   TypeTreeHash:
     serializedVersion: 2
     Hash: 927992f938b2fd1472c3a014541d1669
@@ -36,6 +36,7 @@ Dependencies:
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3c63062964f81c66c242d1ad98761a8c.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/432d37375c962cbbe7516cfe8df89be6.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/548e50ac3b7276eac91f5ff22216d784.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8dad8e9719e980b32bf33a75e68ea001.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/97e18eb199d4aeb20917f7eaa24e52d8.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c1104d46b4d9a812c2f2803408c99d44.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c8024c401be05e88dcad80de97c1edb8.unity3d

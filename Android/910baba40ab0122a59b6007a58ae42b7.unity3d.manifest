@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 703841334
+CRC: 575631626
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 524c59f522483a3a01b495bf67c5d202
+    Hash: f17eaa337bcf13d0d6befafdf65b54af
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1326f00ceeb98cf902cb892cf7342f53
@@ -39,3 +39,4 @@ Dependencies:
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/380fd3a465e04dec70e9788c74f82d78.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8d8dde124fc1957c2273dd58bce0c75e.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a228f8f37fc5292bdbcb2adf992eeabe.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/aa69ec02095364f77c11c0a95dddce0e.unity3d
