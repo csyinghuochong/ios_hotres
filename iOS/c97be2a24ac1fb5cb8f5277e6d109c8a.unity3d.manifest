@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 597060733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44729efc712a2fac90d2b955504005b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Materials/Add_03.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/38af00cfd40a329ee394e746c7db8573.unity3d

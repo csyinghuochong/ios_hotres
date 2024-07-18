@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2250318809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bd3fa27d09d7bde44850fcd8f8e291b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/rays01.png
+Dependencies: []
