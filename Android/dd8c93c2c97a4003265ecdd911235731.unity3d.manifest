@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1467888883
+CRC: 2433415136
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: de23afa2efe04a6ca17c0672d64f6d72
+    Hash: c95f9c9f501ead05425bba89acd83df0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Bundles/Icon/OtherIcon/OccTwo_402.png
 - Assets/Bundles/Icon/OtherIcon/hexin2.png
 - Assets/Bundles/Icon/OtherIcon/HuJia_13.png
 - Assets/Bundles/Icon/OtherIcon/Mine_3.png
@@ -39,7 +40,7 @@ Assets:
 - Assets/Bundles/Icon/OtherIcon/OccTwo_102.png
 - Assets/Bundles/Icon/OtherIcon/OccTwo_203.png
 - Assets/Bundles/Icon/OtherIcon/OccTwo_303.png
-- Assets/Bundles/Icon/OtherIcon/WuQi_4.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_401.png
 - Assets/Bundles/Icon/OtherIcon/Occ_3.png
 - Assets/Bundles/Icon/OtherIcon/Img_hole_101.png
 - Assets/Bundles/Icon/OtherIcon/OccTwo_301.png
@@ -50,6 +51,7 @@ Assets:
 - Assets/Bundles/Icon/OtherIcon/Img_82.png
 - Assets/Bundles/Icon/OtherIcon/Img_hole_102.png
 - Assets/Bundles/Icon/OtherIcon/Img_26.png
+- Assets/Bundles/Icon/OtherIcon/WuQi_4.png
 - Assets/Bundles/Icon/OtherIcon/keji_1.png
 - Assets/Bundles/Icon/OtherIcon/HuJia_12.png
 - Assets/Bundles/Icon/OtherIcon/ShouHu_0.png
@@ -62,6 +64,7 @@ Assets:
 - Assets/Bundles/Icon/OtherIcon/keji_5.png
 - Assets/Bundles/Icon/OtherIcon/Pro_17.png
 - Assets/Bundles/Icon/OtherIcon/OccTwo_101.png
+- Assets/Bundles/Icon/OtherIcon/OccTwo_403.png
 - Assets/Bundles/Icon/OtherIcon/Occ_1.png
 - Assets/Bundles/Icon/OtherIcon/Img_27.png
 - Assets/Bundles/Icon/OtherIcon/WuQi_2.png
@@ -79,5 +82,6 @@ Assets:
 - Assets/Bundles/Icon/OtherIcon/Mine_1.png
 - Assets/Bundles/Icon/OtherIcon/WuQi_1.png
 - Assets/Bundles/Icon/OtherIcon/Occ_2.png
+- Assets/Bundles/Icon/OtherIcon/Occ_4.png
 - Assets/Bundles/Icon/OtherIcon/hexin1.png
 Dependencies: []
