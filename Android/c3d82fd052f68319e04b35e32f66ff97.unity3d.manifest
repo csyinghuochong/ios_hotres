@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2782375574
+CRC: 1373684059
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c19b08ac9f14143aadbaf4dbd44c43c3
+    Hash: 3f0cd3384c2fd7dbbbeb2ac4afff992a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3bfbf5afbfaaeae1bc9b54b11c253522
@@ -33,7 +33,8 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_47.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4205e5552508e26e060c7708557de6fd.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4c1da058a606c3a3d1fa7d6e93dc3214.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/559377e064cbf7db78e478d4caa611b6.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7f433caae76f8cd7dfa87e82dc733f05.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/207e468846d688aab292289b13b1b432.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2f2778d7fb119fd791aae49e89575308.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4205e5552508e26e060c7708557de6fd.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/559377e064cbf7db78e478d4caa611b6.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7f433caae76f8cd7dfa87e82dc733f05.unity3d
