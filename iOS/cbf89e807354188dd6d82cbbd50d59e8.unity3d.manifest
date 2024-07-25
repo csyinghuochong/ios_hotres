@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 92328852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be134a778c8a44af287443a489676ff6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c6c2501eeb49facd8b4fb07ebcdc27cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a959a1b0b8414d4fb8a68bdc12d69ed, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_53.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/47b1061ae4f9107163e70357a91df03a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/efdaeb204fddc014733c40a055552dd3.unity3d

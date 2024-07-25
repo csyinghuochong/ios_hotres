@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2356813066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7291a48d36366bffbdca883a47d91fb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc60c7384289731f8f0db6f62afd0d88
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a959a1b0b8414d4fb8a68bdc12d69ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acbb7810273873d4a82423fa8fc12ea8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_PenHuo_3.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/47c6cf86449da6086c3d8df729948ee7.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4f93427782ac303c77b9e0ad825d8d3e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a391be8cb55e418934cce0adebb65364.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/cc6001d9c8cd40506efb1cfb1421f872.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e11ea0a5f42a4193d7b283ebf8263e23.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/efdaeb204fddc014733c40a055552dd3.unity3d

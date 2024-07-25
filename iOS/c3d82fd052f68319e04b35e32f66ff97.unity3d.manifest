@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2052057290
+CRC: 1422323173
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d3a69240e6d13a63e853bcf7879cab31
+    Hash: bbca450308c1d52dbcdc8c2926926b14
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3bfbf5afbfaaeae1bc9b54b11c253522
@@ -33,7 +33,8 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_47.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/207e468846d688aab292289b13b1b432.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2f2778d7fb119fd791aae49e89575308.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4205e5552508e26e060c7708557de6fd.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4c1da058a606c3a3d1fa7d6e93dc3214.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/559377e064cbf7db78e478d4caa611b6.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7f433caae76f8cd7dfa87e82dc733f05.unity3d
