@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3818443706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f79a34df3190fe5f81ff0850fa4995bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c413d4096bd481968493c85c41a27b6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BianShen_1.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/27245e712c76543f8c190183963f61ad.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/89baae4f9d7b81498fefad56f5d0b9dc.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8d8dde124fc1957c2273dd58bce0c75e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a228f8f37fc5292bdbcb2adf992eeabe.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f9485535cff4ccc0bd990ec2d1a36a96.unity3d
