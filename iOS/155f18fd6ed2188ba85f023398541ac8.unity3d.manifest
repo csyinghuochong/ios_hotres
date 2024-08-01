@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2494211415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f1ef23a438fc82a2e50c3673ed6dc23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/ToonyTinyPeople/TT_RTS/TT_RTS_Standard/models/materials/TT_RTS_Units_texture.tga
+Dependencies: []

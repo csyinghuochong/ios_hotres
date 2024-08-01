@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2803898453
+CRC: 258538368
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 25302f432d2a3205643fb7a97fb4977c
+    Hash: dd8ff97d3c3d24f14819d55cd8570d3d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -281,6 +281,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15203002.png
 - Assets/Bundles/Icon/ItemIcon/15311012.png
 - Assets/Bundles/Icon/ItemIcon/10045109.png
+- Assets/Bundles/Icon/ItemIcon/10000130.png
 - Assets/Bundles/Icon/ItemIcon/10034003.png
 - Assets/Bundles/Icon/ItemIcon/15305001.png
 - Assets/Bundles/Icon/ItemIcon/10045405.png

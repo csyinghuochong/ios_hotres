@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2271226404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f58d3f870a240eb44bcf22e2c758c6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/ToonyTinyPeople/TT_RTS/TT_RTS_Standard/models/materials/TT_RTS_Units.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/155f18fd6ed2188ba85f023398541ac8.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
