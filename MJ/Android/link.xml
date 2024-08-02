@@ -1,5 +1,6 @@
 <linker>
-  <assembly fullname="Unity.Loader, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+  <assembly fullname="Unity.Loader, Version=7.4.2.25, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Animancer.AnimancerComponent" preserve="all" />
     <type fullname="Assets.Scripts.Com.Game.Mono.EffectNode" preserve="all" />
     <type fullname="Assets.Scripts.Com.Game.Mono.EffectScale" preserve="all" />
     <type fullname="DestroyForTime" preserve="all" />
@@ -7,6 +8,8 @@
     <type fullname="DoTweeningMove" preserve="all" />
     <type fullname="DoTweenRatate" preserve="all" />
     <type fullname="DoTweenScale" preserve="all" />
+    <type fullname="ET.AnimData" preserve="all" />
+    <type fullname="ET.AnimGroup" preserve="all" />
     <type fullname="ET.Client.PoolObject" preserve="all" />
     <type fullname="ET.GizmosDebug" preserve="all" />
     <type fullname="ET.SoundData" preserve="all" />
@@ -21,6 +24,8 @@
     <type fullname="ReferenceCollectorData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollPrefabSourceInstance" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollRectBase/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="Animancer.AnimancerEvent/Sequence/Serializable" preserve="nothing" serialized="true" />
+    <type fullname="ET.MotionTransition" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
