@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2693632672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85e0ae8477db8e9c2f30fe3b5599bb5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Monsters Ultimate Pack 05 Cute Series/Soul Mage Cute Series/Textures/Soul
+  Mage Emission.psd
+Dependencies: []
