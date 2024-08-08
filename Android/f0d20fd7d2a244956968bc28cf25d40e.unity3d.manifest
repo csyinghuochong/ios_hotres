@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4267321282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de9d23764037379c3085ad88a77bec9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9397ff014da44a8632e81480212955cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Monsters Ultimate Pack 05 Cute Series/Soul Mage Cute Series/FBX/Soul Mage@Spin
+  Attack.FBX
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ba8b284f0e24731bc618fa62bc46ad97.unity3d

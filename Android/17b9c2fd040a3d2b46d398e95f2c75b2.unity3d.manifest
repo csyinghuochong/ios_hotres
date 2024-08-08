@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 326969044
+CRC: 2846424975
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5426400361842e22f23a8292e769604a
+    Hash: f9a4f47ea89514e74b40c88bdab76459
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e048b4fb955bc04d5fd9104ecb9b848e
+    Hash: e86aac4e67c8d3402f337ee83293a758
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,8 +25,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 74
-  Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
 - Class: 91
@@ -40,4 +38,9 @@ Assets:
 - Assets/Bundles/Unit/Monster/90000301.prefab
 Dependencies:
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1d620e586926f6385bb70880591c7c86.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7bfc816b0f13ceffb0623bc4391b5a99.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ba8b284f0e24731bc618fa62bc46ad97.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e55243922be4283f699179615497d46f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f4411abf2d28eba1085f40968ebce982.unity3d
