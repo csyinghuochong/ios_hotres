@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3314202081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bd12c48a201572c1c3368e959cd9c5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/fashi2/texture/fashi2_yanjing.png
+Dependencies: []

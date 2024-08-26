@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 966465134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1b9038c30019079c8c000528d849306
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/fashi3/texture/fashi3_toufa.png
+Dependencies: []

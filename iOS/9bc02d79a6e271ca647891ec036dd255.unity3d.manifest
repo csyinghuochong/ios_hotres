@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4040619404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b77b07671c953d92c9fd925761fe772e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9579712de1814c7f50fad78188594ee5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/zhanshi2/zhanshi2_skin.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/02cdd3e900d70bd90fe210fb205c87e4.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2481e3b6ddaeb16c47f5676e1f0a47d1.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2a89146e68d2803543706af8297e73ab.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5f83aa11bfea3fa396fc1b2007197b9e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/85a31f6e759f207ee02134e2508e6f8d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/dde186b281fa2a3d12da2a9394163f61.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f302b8f3e78f90b8751d47760d5dc9a7.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f9a1afc3765a4e6235d3df38b25f3f57.unity3d

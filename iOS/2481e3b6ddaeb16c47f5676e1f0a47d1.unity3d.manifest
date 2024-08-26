@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4223597870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00a78f1af6f62131e534e7de3496c3ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/zhanshi2/texture/zhanshi_jian.png
+Dependencies: []
