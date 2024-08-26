@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3643998292
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 639be3a742440a7bd58319a4ca9a8b7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d6cbba0dae6adfffd1d8cadfdb6726f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/fashi_3_fashi.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3832a4e934e634ff7bd3e1187e947d8b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c18029920e453ea2216938400cd75192.unity3d

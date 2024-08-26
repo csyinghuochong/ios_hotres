@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1476409046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cddb396039aa0c577c87518cad23e87b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/zhanshi2/texture/zhanshi_toufa.png
+Dependencies: []

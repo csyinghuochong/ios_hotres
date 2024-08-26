@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1066966924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 909b63a1060a394b92cc3f3dd328536e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/fashi2/texture/fashi2_xiayi.png
+Dependencies: []
