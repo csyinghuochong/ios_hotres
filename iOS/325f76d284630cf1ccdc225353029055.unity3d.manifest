@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3992284774
+CRC: 30744633
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 03595d2c01631561c9b7bd049eb59f83
+    Hash: 9a4e58fc9522e6e41d19ce2169e81b89
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -355,8 +355,9 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/14110012.png
 - Assets/Bundles/Icon/ItemIcon/15401003.png
 - Assets/Bundles/Icon/ItemIcon/13006003.png
-- Assets/Bundles/Icon/ItemIcon/15511003.png
+- Assets/Bundles/Icon/ItemIcon/10000212.png
 - Assets/Bundles/Icon/ItemIcon/3.png
+- Assets/Bundles/Icon/ItemIcon/15511003.png
 - Assets/Bundles/Icon/ItemIcon/10036016.png
 - Assets/Bundles/Icon/ItemIcon/14030003.png
 - Assets/Bundles/Icon/ItemIcon/15204003.png
@@ -448,15 +449,15 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15306001.png
 - Assets/Bundles/Icon/ItemIcon/15404002.png
 - Assets/Bundles/Icon/ItemIcon/10000133.png
-- Assets/Bundles/Icon/ItemIcon/10041404.png
 - Assets/Bundles/Icon/ItemIcon/10041308.png
+- Assets/Bundles/Icon/ItemIcon/10041404.png
+- Assets/Bundles/Icon/ItemIcon/15502006.png
 - Assets/Bundles/Icon/ItemIcon/15410112.png
 - Assets/Bundles/Icon/ItemIcon/17002001.png
 - Assets/Bundles/Icon/ItemIcon/15210211.png
 - Assets/Bundles/Icon/ItemIcon/10036034.png
-- Assets/Bundles/Icon/ItemIcon/15502006.png
-- Assets/Bundles/Icon/ItemIcon/xiangzi3.png
 - Assets/Bundles/Icon/ItemIcon/15511013.png
+- Assets/Bundles/Icon/ItemIcon/xiangzi3.png
 - Assets/Bundles/Icon/ItemIcon/10032014.png
 - Assets/Bundles/Icon/ItemIcon/11200000.png
 - Assets/Bundles/Icon/ItemIcon/15403002.png
