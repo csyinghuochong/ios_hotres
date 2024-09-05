@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 247302507
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80a15e0f26e49ab1a7ca1754885e6be6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/Animations_Cute_Animals/TypeB/TypeB.controller
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/29270c8aceb34e5483be471f1381e5a1.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4d6324d8c9ad97b4629faefca8e98620.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5ed1a47616a4ebbca51d70fdc6bf5073.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/63861f363e6f81750aa704d21011b782.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7e1f756ea2b1dcf9d27fc10c0bf9b470.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b060192dc8f76ced6a7af18e2887bd3b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c6ad4ceacf1b1de21d8fad23abd2377a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d6e87874c0bc0f5df2364434aa3a9eb8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e11818bcaf863fec98714a9213164284.unity3d

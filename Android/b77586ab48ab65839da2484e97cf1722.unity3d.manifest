@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4180200240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4957cbb948f6a621bc78680d83b32a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b332ac3092fbb999989f7b0943d88560
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_Fireball_14.prefab
+Dependencies:
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/32ae72b2d3b3ab2b1ec7d5a5db78593a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9ea97a6a41cbb04757aa2bd74003c5b7.unity3d
