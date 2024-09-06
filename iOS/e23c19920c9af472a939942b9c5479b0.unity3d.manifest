@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 250175451
+CRC: 1122148706
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 82c482b3877329bbacee07fff4ad38ee
+    Hash: 6da37948522bd2bfd1eb6422fe99e6ea
   TypeTreeHash:
     serializedVersion: 2
     Hash: 21414299fb99a3dcafbfbff52df27642
@@ -75,6 +75,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Role/UIRoleGem.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0e809657adbb8b4fc1d080e517b4cc08.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/113f99598e418e3618f7c0d62066fb82.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/254690b6326e19782f6b47056188bbfa.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/37c69053e823b75820803951b8f78aa1.unity3d
