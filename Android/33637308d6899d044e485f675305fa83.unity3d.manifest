@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 379460162
+CRC: 4123058413
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ded1e2f5a15639c2ecfc7a4dcc109593
+    Hash: d009164647431acc25e9a4b66c49ab9f
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -28,5 +28,4 @@ Assets:
 - Assets/Bundles/Unit/Parts/4/Hero_fashi2.prefab
 Dependencies:
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b32176ba46a48708ff44b9f6b6adaf6e.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/df3660646a4b59c724b9f1e4c176730a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/70d7f80d8b08e35b15288c0153560873.unity3d
