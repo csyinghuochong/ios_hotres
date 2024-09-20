@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3666374200
+CRC: 1994959386
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9655152cebab928efbb012ca24376d13
+    Hash: 2f6c8ac361ca758db3dfcc7021b84961
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -28,4 +28,5 @@ Assets:
 - Assets/Bundles/Unit/Parts/4/Hero_toufa.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b32176ba46a48708ff44b9f6b6adaf6e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49376c85dc3e0aea483d73fdfddc470a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/70d7f80d8b08e35b15288c0153560873.unity3d
