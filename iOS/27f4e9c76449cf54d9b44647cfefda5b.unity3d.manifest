@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3822439426
+CRC: 156463751
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e05443a598efd79a8bd38d67117d01f3
+    Hash: a40e729620ee4903ddcdeb1c7209397c
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -28,4 +28,4 @@ Assets:
 - Assets/Bundles/Unit/Parts/Fashion/fashi_3_toufa.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c18029920e453ea2216938400cd75192.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6f392570e7478134f751754a1204be8a.unity3d
