@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3428702181
+CRC: 2958380940
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2fecdd8f78118fd2b7bccd43fea61f83
+    Hash: a5000c188d8820c5086cf0514d0c4f23
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -28,4 +28,4 @@ Assets:
 - Assets/Bundles/Unit/Parts/Fashion/fashi_3_toufa.prefab
 Dependencies:
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c18029920e453ea2216938400cd75192.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f392570e7478134f751754a1204be8a.unity3d

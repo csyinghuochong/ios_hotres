@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3603424611
+CRC: 1024226981
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6966fedb60702289c59b9c980741fe6c
+    Hash: 691f9ade6778f419d01281fb75684f43
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe86367069b21e4f170454c8c8113167
@@ -27,8 +27,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/fashi2/fashi2_skin.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1f9ffb5d6d6a030889cc3efcd202ffa6.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6a1e28aaa6d05684410100337c039253.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a18dea4241e41642c64fdb47c4174ca8.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c781c24c074c888851b8063dc25c0182.unity3d
 - F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e41db97ed2aa52236fc39e7e715e8ac2.unity3d
