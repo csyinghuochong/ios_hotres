@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1315199845
+CRC: 1973905297
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 480a2dea9e35fc5e4d0163252154be37
+    Hash: 30209e9d0355bf8fbd6d738293d257b4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 74d05afb4294d5b82eb1ac7eb89f3f59
@@ -43,6 +43,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Blood/UIEnergyTableNoOpen.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8c4435c435b5923c5418265844ffe60f.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a1f93f4ebcb4bf356f10a7420832188d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8c4435c435b5923c5418265844ffe60f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a1f93f4ebcb4bf356f10a7420832188d.unity3d
