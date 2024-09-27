@@ -1,7 +1,9 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ARPGFX.ARPGFXRotation" preserve="all" />
     <type fullname="Highlands.Interactive" preserve="all" />
     <type fullname="Highlands.PhysicsObject" preserve="all" />
+    <type fullname="PowerUp" preserve="all" />
     <type fullname="Suntail.AudioZoneControl" preserve="all" />
     <type fullname="Suntail.Door" preserve="all" />
     <type fullname="Suntail.LightCulling" preserve="all" />
@@ -17,6 +19,12 @@
     <type fullname="StylizedGrass.StylizedGrassRenderer" preserve="all" />
     <type fullname="StylizedGrass.GrassColorMapRenderer/LayerScaleSettings" preserve="nothing" serialized="true" />
   </assembly>
+  <assembly fullname="SoftMask, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SoftMasking.SoftMask" preserve="all" />
+    <type fullname="SoftMasking.SoftMaskable" preserve="all" />
+    <type fullname="SoftMasking.SoftMask/BorderMode" preserve="nothing" serialized="true" />
+    <type fullname="SoftMasking.SoftMask/MaskSource" preserve="nothing" serialized="true" />
+  </assembly>
   <assembly fullname="Unity.Loader, Version=7.4.2.25, Culture=neutral, PublicKeyToken=null">
     <type fullname="Animancer.AnimancerComponent" preserve="all" />
     <type fullname="Assets.Scripts.Com.Game.Mono.EffectNode" preserve="all" />
@@ -28,6 +36,7 @@
     <type fullname="DoTweenScale" preserve="all" />
     <type fullname="ET.AnimData" preserve="all" />
     <type fullname="ET.AnimGroup" preserve="all" />
+    <type fullname="ET.Client.MaterialManager" preserve="all" />
     <type fullname="ET.Client.PoolObject" preserve="all" />
     <type fullname="ET.SoundData" preserve="all" />
     <type fullname="ET.UILayerScript" preserve="all" />
@@ -43,6 +52,7 @@
     <type fullname="UnityEngine.UI.LoopScrollPrefabSourceInstance" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollRectBase/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="ET.AnimInfo" preserve="nothing" serialized="true" />
+    <type fullname="ET.Client.MaterialGroup" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
@@ -100,6 +110,7 @@
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
     <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Projector" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.ReflectionProbe" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
