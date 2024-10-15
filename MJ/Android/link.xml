@@ -1,4 +1,7 @@
 <linker>
+  <assembly fullname="AmazingAssets.TerrainToMesh, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AmazingAssets.TerrainToMesh.TerrainToMeshConversionDetails" preserve="all" />
+  </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ARPGFX.ARPGFXRotation" preserve="all" />
     <type fullname="Highlands.Interactive" preserve="all" />
