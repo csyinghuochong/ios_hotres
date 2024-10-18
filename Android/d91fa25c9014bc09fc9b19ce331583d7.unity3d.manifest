@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 299949600
+CRC: 3964735093
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3dc7fdf3bd3cec733d1cb6dbed27d977
+    Hash: 78d6adbc115b9f8366ae9326b9c2d8f0
   TypeTreeHash:
     serializedVersion: 2
     Hash: d9bddb3a60fbc2638296aa89900c12f4
@@ -71,12 +71,12 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Recharge/UIRecharge.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/004b8fee7f96c121490864b4efcef02c.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a1e696c468ef2e313d40e5ba4f54e34.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a236a55b42f60fd0f938e9907e66eca.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6a0d7ca8b85a44f67b9e145654bdb29f.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6fcb1729941a464ea84beb35542434e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b88b07e83d709f2711682433b420b801.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/bfae711853b031ed4529d95284b15e8e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cf8c5f43a507552f9219ae405fa8baa3.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/004b8fee7f96c121490864b4efcef02c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a1e696c468ef2e313d40e5ba4f54e34.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a236a55b42f60fd0f938e9907e66eca.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6a0d7ca8b85a44f67b9e145654bdb29f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6fcb1729941a464ea84beb35542434e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b88b07e83d709f2711682433b420b801.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bfae711853b031ed4529d95284b15e8e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/cf8c5f43a507552f9219ae405fa8baa3.unity3d
