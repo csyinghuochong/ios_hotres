@@ -1,7 +1,4 @@
 <linker>
-  <assembly fullname="AmazingAssets.TerrainToMesh, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AmazingAssets.TerrainToMesh.TerrainToMeshConversionDetails" preserve="all" />
-  </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ARPGFX.ARPGFXRotation" preserve="all" />
     <type fullname="Highlands.Interactive" preserve="all" />
@@ -11,6 +8,9 @@
     <type fullname="Suntail.Door" preserve="all" />
     <type fullname="Suntail.LightCulling" preserve="all" />
     <type fullname="Suntail.PhysicsObject" preserve="all" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
   </assembly>
   <assembly fullname="sc.stylizedgrass.demo.runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="StylizedGrassDemo.PlayerController" preserve="all" />
@@ -45,6 +45,7 @@
     <type fullname="ET.UILayerScript" preserve="all" />
     <type fullname="FPS" preserve="all" />
     <type fullname="HeadBarUI" preserve="all" />
+    <type fullname="I2.Loc.Localize" preserve="all" />
     <type fullname="ReferenceCollector" preserve="all" />
     <type fullname="UISizeFangDa" preserve="all" />
     <type fullname="UnityEngine.UI.Extensions.UIParticleSystem" preserve="all" />
@@ -54,6 +55,7 @@
     <type fullname="ReferenceCollectorData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollPrefabSourceInstance" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollRectBase/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.EventCallback" preserve="nothing" serialized="true" />
     <type fullname="ET.AnimInfo" preserve="nothing" serialized="true" />
     <type fullname="ET.Client.MaterialGroup" preserve="nothing" serialized="true" />
   </assembly>
@@ -130,6 +132,7 @@
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
