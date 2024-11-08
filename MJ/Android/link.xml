@@ -46,6 +46,7 @@
     <type fullname="FPS" preserve="all" />
     <type fullname="HeadBarUI" preserve="all" />
     <type fullname="I2.Loc.Localize" preserve="all" />
+    <type fullname="NpcLocal" preserve="all" />
     <type fullname="ReferenceCollector" preserve="all" />
     <type fullname="UISizeFangDa" preserve="all" />
     <type fullname="UnityEngine.UI.Extensions.UIParticleSystem" preserve="all" />
