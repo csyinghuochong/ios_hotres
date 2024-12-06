@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.1",
         "UnityVersion": "2022.3.49f1c1",
-        "BuildDate": "2024/12/6 14:27:36",
-        "BuildSeconds": 269,
+        "BuildDate": "2024/12/6 14:43:45",
+        "BuildSeconds": 112,
         "BuildTarget": 13,
         "BuildPipeline": 1,
         "BuildMode": 1,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2024-12-06-863",
+        "BuildPackageVersion": "2024-12-06-881",
         "EnableAddressable": false,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -19,10 +19,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 4387,
+        "AssetFileTotalCount": 4375,
         "MainAssetTotalCount": 1013,
         "AllBundleTotalCount": 885,
-        "AllBundleTotalSize": 514374923,
+        "AllBundleTotalSize": 513866047,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 0,
@@ -17267,60 +17267,20 @@
             "AssetGUID": "600a878a55608714eafc72a6afc67bed",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_scenes_10001.bundle",
-            "MainBundleSize": 554195,
+            "MainBundleSize": 45319,
             "DependBundles": [
-                "share_assets_res_model_scene_bk_purenature_meadows_models_plants.bundle",
-                "share_assets_res_model_scene_bk_purenature_meadows_textures_fx_materials.bundle",
-                "share_assets_res_model_scene_azure nature_textures_nature.bundle",
                 "share_assets_res_model_scene_stylized grass shader__demo_demoassets_textures.bundle",
-                "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures.bundle",
-                "unityshaders.bundle",
-                "share_assets_res_model_scene.bundle",
-                "share_assets_res_model_scene_bk_purenature_meadows_textures_fx.bundle",
                 "share_assets_bundles_scenes_10001.bundle",
-                "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures_materials.bundle",
-                "share_assets_res_model_scene_bk_purenature_meadows_textures_surfaces.bundle",
                 "share_assets_res_model_scene_stylized grass shader__demo_demoassets_materials.bundle",
                 "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
-                "share_assets_res_model_scene_azure nature_materials_nature.bundle"
+                "unityshaders.bundle"
             ],
             "DependAssets": [
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Wheat.fbx",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Materials/GodRay.mat",
-                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Bark_1_Normal.png",
                 "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Textures/SGS_DemoSkybox.png",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/Wheat_a.png",
-                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Bark_1_Albedo.png",
-                "Assets/Res/Model/Scene/BK/Pure_Common/Shaders/BK_Grass.shader",
-                "Assets/Res/Model/Scene/Butterflies.prefab",
-                "Assets/Res/Model/Scene/AN_Branch_2.prefab",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Materials/Butterflies.mat",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Materials/TreeLeaf.mat",
-                "Assets/Res/Model/Scene/TreeLeaves.prefab",
-                "Assets/Res/Model/Scene/AN_DeadTree_5.prefab",
-                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_Bush_Branches.mat",
-                "Assets/Res/Models/PolygonFarm/Materials/Misc/FX_Default.mat",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/TreeLeaves01_particle 1.png",
-                "Assets/Res/Model/Scene/Wheat.prefab",
-                "Assets/Res/Models/PolygonFarm/Textures/Circle_Texture.png",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/_NoiseGrass.png",
                 "Assets/Bundles/Scenes/10001/NavMesh.asset",
-                "Assets/Res/Models/PolygonFarm/Materials/Misc/Circle_Particle.mat",
-                "Assets/Res/Model/Scene/FX_Fire_02.prefab",
-                "Assets/Res/Model/Scene/GodRays.prefab",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/Materials/Wheat.mat",
-                "Assets/Res/Model/Scene/AZURE Nature/Shaders/AN_Surface.shader",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Surfaces/Grass01_n.png",
-                "Assets/Res/Model/Scene/AZURE Nature/Models/AN_Branch_2.fbx",
                 "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Materials/SGS_DemoSkybox.mat",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Butterfly_a.png",
                 "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
-                "Assets/Res/Model/Scene/AN_Branch_1.prefab",
-                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_DeadTree_Bark.mat",
-                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
-                "Assets/Res/Model/Scene/AZURE Nature/Models/AN_DeadTree_5.fbx",
-                "Assets/Res/Models/PolygonFarm/Models/FX_Sphere.fbx",
-                "Assets/Res/Model/Scene/AZURE Nature/Models/AN_Branch_1.fbx"
+                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
             ]
         },
         {
@@ -35372,28 +35332,16 @@
         },
         {
             "BundleName": "assets_bundles_scenes_10001.bundle",
-            "FileName": "assets_bundles_scenes_10001_1cf169da088abb7f821dcfd90c2e1488.bundle",
-            "FileHash": "1cf169da088abb7f821dcfd90c2e1488",
-            "FileCRC": "f09ed34c",
-            "FileSize": 554195,
+            "FileName": "assets_bundles_scenes_10001_4479a85de2b1e2e9ac8e9c6056c3443c.bundle",
+            "FileHash": "4479a85de2b1e2e9ac8e9c6056c3443c",
+            "FileCRC": "8d752c0c",
+            "FileSize": 45319,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [],
             "AllBuiltinAssets": [
-                "Assets/Bundles/Scenes/10001.unity",
-                "Assets/Res/Model/Scene/AN_Branch_2.prefab",
-                "Assets/Res/Model/Scene/AN_DeadTree_5.prefab",
-                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_Bush_Branches.mat",
-                "Assets/Res/Models/PolygonFarm/Materials/Misc/FX_Default.mat",
-                "Assets/Res/Models/PolygonFarm/Textures/Circle_Texture.png",
-                "Assets/Res/Models/PolygonFarm/Materials/Misc/Circle_Particle.mat",
-                "Assets/Res/Model/Scene/FX_Fire_02.prefab",
-                "Assets/Res/Model/Scene/AZURE Nature/Models/AN_Branch_2.fbx",
-                "Assets/Res/Model/Scene/AN_Branch_1.prefab",
-                "Assets/Res/Model/Scene/AZURE Nature/Models/AN_DeadTree_5.fbx",
-                "Assets/Res/Models/PolygonFarm/Models/FX_Sphere.fbx",
-                "Assets/Res/Model/Scene/AZURE Nature/Models/AN_Branch_1.fbx"
+                "Assets/Bundles/Scenes/10001.unity"
             ]
         },
         {
@@ -39326,22 +39274,22 @@
                 783,
                 784,
                 785,
-                786,
-                791,
-                793,
-                794,
+                787,
+                789,
+                790,
+                792,
+                795,
                 796,
-                797,
-                799,
+                801,
                 802,
                 803,
                 806,
-                807,
                 808,
-                811,
+                810,
+                812,
                 813,
                 816,
-                817,
+                820,
                 821,
                 822,
                 824,
@@ -39606,22 +39554,22 @@
                 783,
                 784,
                 785,
-                786,
-                791,
-                793,
-                794,
+                787,
+                789,
+                790,
+                792,
+                795,
                 796,
-                797,
-                799,
+                801,
                 802,
                 803,
                 806,
-                807,
                 808,
-                811,
+                810,
+                812,
                 813,
                 816,
-                817,
+                820,
                 821,
                 822,
                 824,
@@ -39692,16 +39640,16 @@
                 "Assets/Res/Shader/Mobile-Particle-Add-DetachAlpha-Top.shader",
                 "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader",
                 "Assets/Res/Shader/ToonBasic.shader",
-                "Assets/Res/Model/Scene/BK/Pure_Common/Shaders/BK_Grass.shader",
-                "Assets/Res/Model/Scene/AZURE Nature/Shaders/AN_Surface.shader",
                 "Assets/Res/Model/Scene/Suntail Village/Shaders/Suntail_Surface.shader",
                 "Assets/Res/Model/Scene/Suntail Village/Shaders/Suntail_Water.shader",
                 "Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLit.shader",
+                "Assets/Res/Model/Scene/BK/Pure_Common/Shaders/BK_Grass.shader",
                 "Assets/Res/Model/Scene/Suntail Village/Shaders/Suntail_Foliage.shader",
                 "Assets/Res/Model/Scene/AZURE Nature/Shaders/AN_Vegetation.shader",
                 "Assets/Res/Model/Scene/Stylized Grass Shader/Shaders/StylizedGrassShader.shader",
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Shaders/Highlands_Surface.shader",
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Shaders/Highlands_Foliage.shader",
+                "Assets/Res/Model/Scene/AZURE Nature/Shaders/AN_Surface.shader",
                 "Assets/Toon Deserted Temples/Shaders/TFD_CustomTerrainFirstPass.shader",
                 "Assets/Toon Deserted Temples/Shaders/TFD_CustomToon.shader",
                 "Assets/Toon Deserted Temples/Shaders/TFD_CustomBackground.shader",
@@ -39844,12 +39792,12 @@
                 747,
                 755,
                 761,
-                786,
-                794,
-                797,
-                802,
-                803,
-                806,
+                787,
+                790,
+                795,
+                796,
+                801,
+                808,
                 813,
                 824,
                 825,
@@ -41036,8 +40984,8 @@
                 638,
                 718,
                 761,
-                810,
-                813
+                805,
+                808
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Animation/chestOpen.anim",
@@ -41802,22 +41750,22 @@
                 783,
                 784,
                 785,
-                786,
-                791,
-                793,
-                794,
+                787,
+                789,
+                790,
+                792,
+                795,
                 796,
-                797,
-                799,
+                801,
                 802,
                 803,
                 806,
-                807,
                 808,
-                811,
+                810,
+                812,
                 813,
                 816,
-                817,
+                820,
                 821,
                 822,
                 824,
@@ -41989,7 +41937,6 @@
             "Tags": [],
             "ReferenceIDs": [
                 622,
-                624,
                 626,
                 627,
                 628,
@@ -41998,8 +41945,8 @@
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Materials/GodRay.mat",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Materials/Butterflies.mat",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Materials/TreeLeaf.mat"
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Materials/TreeLeaf.mat",
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Materials/Butterflies.mat"
             ]
         },
         {
@@ -42027,8 +41974,8 @@
                 638,
                 761,
                 763,
-                819,
-                821
+                818,
+                820
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Textures/SGS_DemoSkybox.png",
@@ -42057,9 +42004,6 @@
             "ReferenceIDs": [],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/GodRays.prefab",
-                "Assets/Res/Model/Scene/Butterflies.prefab",
-                "Assets/Res/Model/Scene/TreeLeaves.prefab",
-                "Assets/Res/Model/Scene/Wheat.prefab",
                 "Assets/Res/Model/Scene/Fence_5.prefab",
                 "Assets/Res/Model/Scene/Barrel.prefab",
                 "Assets/Res/Model/Scene/AN_Bush_3.prefab",
@@ -42079,8 +42023,11 @@
                 "Assets/Res/Model/Scene/Fence_3.prefab",
                 "Assets/Res/Model/Scene/Case_2.prefab",
                 "Assets/Res/Model/Scene/Bag_3.prefab",
+                "Assets/Res/Model/Scene/Wheat.prefab",
                 "Assets/Res/Model/Scene/Stone_1.prefab",
+                "Assets/Res/Model/Scene/TreeLeaves.prefab",
                 "Assets/Res/Model/Scene/Pumpkin.prefab",
+                "Assets/Res/Model/Scene/Butterflies.prefab",
                 "Assets/Res/Model/Scene/Bonfire.prefab",
                 "Assets/Res/Model/Scene/SGS_Cliff.prefab",
                 "Assets/Res/Model/Scene/Fence_2.prefab",
@@ -42553,101 +42500,6 @@
             ]
         },
         {
-            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants.bundle",
-            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_e536201f04526e4c9f9b70a98fae9881.bundle",
-            "FileHash": "e536201f04526e4c9f9b70a98fae9881",
-            "FileCRC": "85d5872b",
-            "FileSize": 5959,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                624,
-                626,
-                627,
-                628,
-                629,
-                761
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Wheat.fbx"
-            ]
-        },
-        {
-            "BundleName": "share_assets_res_model_scene_azure nature_textures_nature.bundle",
-            "FileName": "share_assets_res_model_scene_azure nature_textures_nature_3589f7d9676cf235fe78ec1728610f60.bundle",
-            "FileHash": "3589f7d9676cf235fe78ec1728610f60",
-            "FileCRC": "26d13ab5",
-            "FileSize": 489449,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                624,
-                626,
-                627,
-                628,
-                629,
-                761,
-                793,
-                831,
-                848
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Bark_1_Normal.png",
-                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Bark_1_Albedo.png",
-                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Bush_Leaves.png",
-                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Flower.png"
-            ]
-        },
-        {
-            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures.bundle",
-            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures_ab7fe3d662db8bb14216223bfb284eaa.bundle",
-            "FileHash": "ab7fe3d662db8bb14216223bfb284eaa",
-            "FileCRC": "2be702e8",
-            "FileSize": 202092,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                624,
-                626,
-                627,
-                628,
-                629,
-                761,
-                791
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/Wheat_a.png",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/_NoiseGrass.png"
-            ]
-        },
-        {
-            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_textures_fx.bundle",
-            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_textures_fx_5c229178f17a10ed276022b8d52ebbbc.bundle",
-            "FileHash": "5c229178f17a10ed276022b8d52ebbbc",
-            "FileCRC": "5b689e72",
-            "FileSize": 15039,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                622,
-                624,
-                626,
-                627,
-                628,
-                629,
-                759,
-                761
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/TreeLeaves01_particle 1.png",
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Butterfly_a.png"
-            ]
-        },
-        {
             "BundleName": "share_assets_bundles_scenes_10001.bundle",
             "FileName": "share_assets_bundles_scenes_10001_21f5c9517f9700e2dfde05c6a64bc93b.bundle",
             "FileHash": "21f5c9517f9700e2dfde05c6a64bc93b",
@@ -42666,74 +42518,6 @@
             ],
             "AllBuiltinAssets": [
                 "Assets/Bundles/Scenes/10001/NavMesh.asset"
-            ]
-        },
-        {
-            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures_materials.bundle",
-            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures_materials_9da4d2b8bb07b79820bf821f91a9240b.bundle",
-            "FileHash": "9da4d2b8bb07b79820bf821f91a9240b",
-            "FileCRC": "4e3b3a9f",
-            "FileSize": 3146,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                624,
-                626,
-                627,
-                628,
-                629,
-                761
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/Materials/Wheat.mat"
-            ]
-        },
-        {
-            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_textures_surfaces.bundle",
-            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_textures_surfaces_bea28a88389f6a99dcce94cc8c2873b4.bundle",
-            "FileHash": "bea28a88389f6a99dcce94cc8c2873b4",
-            "FileCRC": "c5ea70d8",
-            "FileSize": 97052,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                624,
-                626,
-                627,
-                628,
-                629,
-                761,
-                791
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Surfaces/Grass01_n.png"
-            ]
-        },
-        {
-            "BundleName": "share_assets_res_model_scene_azure nature_materials_nature.bundle",
-            "FileName": "share_assets_res_model_scene_azure nature_materials_nature_00da1e7a4cc098941b0e833a83882356.bundle",
-            "FileHash": "00da1e7a4cc098941b0e833a83882356",
-            "FileCRC": "b199c72c",
-            "FileSize": 4240,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                624,
-                626,
-                627,
-                628,
-                629,
-                761,
-                831,
-                848
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_DeadTree_Bark.mat",
-                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_Bush_Flowers.mat",
-                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_Bush_Leaves_2.mat"
             ]
         },
         {
@@ -42774,8 +42558,8 @@
                 628,
                 629,
                 761,
-                813,
-                816
+                808,
+                812
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Textures/Witches House/Fences_Albedo.png",
@@ -42873,7 +42657,7 @@
                 631,
                 632,
                 638,
-                821
+                820
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/TerrainTieTuSet/Textures/Ground/Ground11.tga"
@@ -42970,7 +42754,7 @@
                 628,
                 629,
                 761,
-                813
+                808
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Audio/Environment/Door/Door_Squeak_2.wav",
@@ -43020,7 +42804,7 @@
                 628,
                 629,
                 761,
-                813
+                808
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Meshes/Witches House/House_Stairs.fbx",
@@ -43048,8 +42832,8 @@
                 629,
                 638,
                 761,
-                799,
-                811,
+                792,
+                806,
                 834,
                 843
             ],
@@ -43091,6 +42875,27 @@
             ]
         },
         {
+            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_textures_surfaces.bundle",
+            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_textures_surfaces_bea28a88389f6a99dcce94cc8c2873b4.bundle",
+            "FileHash": "bea28a88389f6a99dcce94cc8c2873b4",
+            "FileCRC": "c5ea70d8",
+            "FileSize": 97052,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                626,
+                627,
+                628,
+                629,
+                761,
+                810
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Surfaces/Grass01_n.png"
+            ]
+        },
+        {
             "BundleName": "share_assets_res_model_scene_suntail village_textures_nature.bundle",
             "FileName": "share_assets_res_model_scene_suntail village_textures_nature_5cf55a43b6ee1495408142c24d7a6c68.bundle",
             "FileHash": "5cf55a43b6ee1495408142c24d7a6c68",
@@ -43106,7 +42911,7 @@
                 629,
                 638,
                 761,
-                796,
+                789,
                 840
             ],
             "AllBuiltinAssets": [
@@ -43129,6 +42934,32 @@
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Nature/Flower.png",
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Nature/Grass_2.png",
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Nature/Stone_2_Albedo.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_azure nature_textures_nature.bundle",
+            "FileName": "share_assets_res_model_scene_azure nature_textures_nature_3589f7d9676cf235fe78ec1728610f60.bundle",
+            "FileHash": "3589f7d9676cf235fe78ec1728610f60",
+            "FileCRC": "26d13ab5",
+            "FileSize": 489449,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                626,
+                627,
+                628,
+                629,
+                761,
+                821,
+                831,
+                848
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Bush_Leaves.png",
+                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Flower.png",
+                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Bark_1_Normal.png",
+                "Assets/Res/Model/Scene/AZURE Nature/Textures/Nature/AN_Bark_1_Albedo.png"
             ]
         },
         {
@@ -43212,7 +43043,7 @@
             "ReferenceIDs": [
                 626,
                 638,
-                808
+                803
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Background Terrains/Mountain_4_Normal.PNG",
@@ -43328,7 +43159,7 @@
                 629,
                 638,
                 761,
-                811,
+                806,
                 834,
                 843
             ],
@@ -43346,6 +43177,26 @@
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Props/Bucket_Normal.png",
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Props/Log_MetallicSmoothness.png",
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Props/Bucket_MetallicSmoothness.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures_materials.bundle",
+            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures_materials_9da4d2b8bb07b79820bf821f91a9240b.bundle",
+            "FileHash": "9da4d2b8bb07b79820bf821f91a9240b",
+            "FileCRC": "4e3b3a9f",
+            "FileSize": 3146,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                626,
+                627,
+                628,
+                629,
+                761
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/Materials/Wheat.mat"
             ]
         },
         {
@@ -43391,13 +43242,78 @@
                 628,
                 629,
                 761,
-                813
+                808
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Materials/Witches House/Fences.mat",
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Materials/Witches House/House.mat",
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Materials/Witches House/Furniture.mat",
                 "Assets/Res/Model/Scene/HIGHLANDS - Stylized Environment/Materials/Witches House/Glass.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants.bundle",
+            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_e536201f04526e4c9f9b70a98fae9881.bundle",
+            "FileHash": "e536201f04526e4c9f9b70a98fae9881",
+            "FileCRC": "85d5872b",
+            "FileSize": 5959,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                626,
+                627,
+                628,
+                629,
+                761
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Wheat.fbx"
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures.bundle",
+            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_models_plants_textures_ab7fe3d662db8bb14216223bfb284eaa.bundle",
+            "FileHash": "ab7fe3d662db8bb14216223bfb284eaa",
+            "FileCRC": "2be702e8",
+            "FileSize": 202092,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                626,
+                627,
+                628,
+                629,
+                761,
+                810
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/Wheat_a.png",
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Models/Plants/Textures/_NoiseGrass.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_bk_purenature_meadows_textures_fx.bundle",
+            "FileName": "share_assets_res_model_scene_bk_purenature_meadows_textures_fx_5c229178f17a10ed276022b8d52ebbbc.bundle",
+            "FileHash": "5c229178f17a10ed276022b8d52ebbbc",
+            "FileCRC": "5b689e72",
+            "FileSize": 15039,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                622,
+                626,
+                627,
+                628,
+                629,
+                759,
+                761
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/TreeLeaves01_particle 1.png",
+                "Assets/Res/Model/Scene/BK/PureNature_Meadows/Textures/Fx/Butterfly_a.png"
             ]
         },
         {
@@ -43433,7 +43349,7 @@
                 627,
                 628,
                 629,
-                817
+                816
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/Buildings_1.jpg"
@@ -43456,7 +43372,7 @@
                 631,
                 632,
                 638,
-                821
+                820
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Terrain/Dirt.terrainlayer",
@@ -43510,6 +43426,30 @@
             ]
         },
         {
+            "BundleName": "share_assets_res_model_scene_azure nature_materials_nature.bundle",
+            "FileName": "share_assets_res_model_scene_azure nature_materials_nature_00da1e7a4cc098941b0e833a83882356.bundle",
+            "FileHash": "00da1e7a4cc098941b0e833a83882356",
+            "FileCRC": "b199c72c",
+            "FileSize": 4240,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                626,
+                627,
+                628,
+                629,
+                761,
+                831,
+                848
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_Bush_Flowers.mat",
+                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_Bush_Leaves_2.mat",
+                "Assets/Res/Model/Scene/AZURE Nature/Materials/Nature/AN_DeadTree_Bark.mat"
+            ]
+        },
+        {
             "BundleName": "share_assets_res_model_scene_stylized grass shader_materials.bundle",
             "FileName": "share_assets_res_model_scene_stylized grass shader_materials_81ba142b5bbb9435499fdb9cc44e2452.bundle",
             "FileHash": "81ba142b5bbb9435499fdb9cc44e2452",
@@ -43542,13 +43482,12 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                624,
                 626,
                 627,
                 628,
                 629,
                 761,
-                793,
+                821,
                 831,
                 837,
                 848
@@ -43573,7 +43512,7 @@
                 628,
                 629,
                 761,
-                813,
+                808,
                 845
             ],
             "AllBuiltinAssets": [
@@ -43698,7 +43637,7 @@
                 629,
                 638,
                 761,
-                810
+                805
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/Suntail Village/Animations/Fire Light.controller",
@@ -44098,7 +44037,7 @@
                 631,
                 632,
                 638,
-                821
+                820
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/TerrainTieTuSet/Textures/Stone/Stone4.tga"
