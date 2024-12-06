@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2024-12-06-1175",
+    "PackageVersion": "2024-12-06-1180",
     "AssetList": [
         {
             "Address": "",
@@ -9344,7 +9344,6 @@
                 877,
                 743,
                 842,
-                661,
                 878,
                 739
             ]
@@ -19382,9 +19381,9 @@
         },
         {
             "BundleName": "assets_bundles_scenes_10001.bundle",
-            "FileHash": "6f1350a2405428f39f4d763623005be7",
-            "FileCRC": "a4549ff9",
-            "FileSize": 258968,
+            "FileHash": "2f703444f37d9eab33e07de84b588bc1",
+            "FileCRC": "9607dd9c",
+            "FileSize": 240023,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
