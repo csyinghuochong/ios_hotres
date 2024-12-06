@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2024-12-06-1088",
+    "PackageVersion": "2024-12-06-1095",
     "AssetList": [
         {
             "Address": "",
@@ -9191,9 +9191,9 @@
             "BundleID": 665,
             "DependIDs": [
                 839,
+                736,
                 838,
                 840,
-                736,
                 739
             ]
         },
@@ -9337,11 +9337,11 @@
                 868,
                 844,
                 856,
+                736,
                 624,
                 641,
                 631,
                 843,
-                736,
                 809,
                 849,
                 825,
@@ -22025,9 +22025,9 @@
         },
         {
             "BundleName": "unityshaders.bundle",
-            "FileHash": "25f1af03da02a6ad746ff7ed09778f21",
-            "FileCRC": "258423af",
-            "FileSize": 119872280,
+            "FileHash": "68adf2b4b2bbaf7dee74200e75923832",
+            "FileCRC": "d937ab7e",
+            "FileSize": 96195181,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -24864,9 +24864,9 @@
         },
         {
             "BundleName": "share_assets_res_model_scene_highlands - stylized environment_materials_forest.bundle",
-            "FileHash": "422aa49adcb21c233e369ae317186007",
-            "FileCRC": "9340dd29",
-            "FileSize": 3913,
+            "FileHash": "7bb9889d471a194aef5d4da54e0f8a54",
+            "FileCRC": "b33db954",
+            "FileSize": 3819,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
