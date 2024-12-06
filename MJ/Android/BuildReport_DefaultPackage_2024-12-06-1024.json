@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.1",
         "UnityVersion": "2022.3.49f1c1",
-        "BuildDate": "2024/12/6 17:00:29",
-        "BuildSeconds": 52,
+        "BuildDate": "2024/12/6 17:05:38",
+        "BuildSeconds": 50,
         "BuildTarget": 13,
         "BuildPipeline": 1,
         "BuildMode": 1,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2024-12-06-1019",
+        "BuildPackageVersion": "2024-12-06-1024",
         "EnableAddressable": false,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -22,7 +22,7 @@
         "AssetFileTotalCount": 4394,
         "MainAssetTotalCount": 1062,
         "AllBundleTotalCount": 934,
-        "AllBundleTotalSize": 514659336,
+        "AllBundleTotalSize": 514464738,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 0,
@@ -18532,53 +18532,18 @@
             "AssetGUID": "600a878a55608714eafc72a6afc67bed",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_scenes_10001.bundle",
-            "MainBundleSize": 239920,
+            "MainBundleSize": 45322,
             "DependBundles": [
-                "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_xiaozhen.bundle",
-                "share_assets_res_model_scene_stylized grass shader_materials.bundle",
-                "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scenceitem_scence_hua.bundle",
-                "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_tree_textrue.bundle",
-                "share_assets_res_model_scene_stylized grass shader__demo_demoassets_materials.bundle",
-                "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_materials.bundle",
-                "share_assets_res_model_scene_stylized grass shader_materials_textures.bundle",
                 "share_assets_res_model_scene_stylized grass shader__demo_demoassets_textures.bundle",
-                "unityshaders.bundle",
-                "share_assets_res_model_scene_stylized grass shader__demo_demoassets_models.bundle",
-                "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_materials.bundle",
                 "share_assets_bundles_scenes_10001.bundle",
-                "share_assets_res_model_scene_monoold_gamedemo_oldresources_shaders_textures.bundle",
-                "share_assets_res_model_scene_stylized grass shader_models.bundle",
-                "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_textures.bundle",
-                "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle"
+                "share_assets_res_model_scene_stylized grass shader__demo_demoassets_materials.bundle",
+                "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+                "unityshaders.bundle"
             ],
             "DependAssets": [
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelMushrooms.fbx",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Materials/Shrub.mat",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A.mat",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Mushrooms.jpg",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Barrel.jpg",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Materials/StylizedGrassDemo.mat",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/Materials/Tx_Mushrooms.mat",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Materials/Textures/FlowerAtlas.png",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/Materials/Tx_Barrel.mat",
                 "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Textures/SGS_DemoSkybox.png",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Textures/SGS_Cliff_Normals.png",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Materials/SGS_Cliff.mat",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Shaders/StylizedGrassShader.shader",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Models/SGS_Cliff_LP.OBJ",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Materials/Textures/GustNoise.png",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Materials/Textures/GrassField_Normals.png",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Materials/Buildings.mat",
                 "Assets/Bundles/Scenes/10001/NavMesh.asset",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/OldResources/Shaders/Textures/toony lighting.psd",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Textures/SGS_Cliff_Albedo.png",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Models/SGS_Flowers.fbx",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A_1.jpg",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Materials/Textures/GrassField.png",
                 "Assets/Res/Model/Scene/Stylized Grass Shader/_Demo/DemoAssets/Materials/SGS_DemoSkybox.mat",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Models/SGS_Grass.fbx",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/Buildings_1.jpg",
-                "Assets/Res/Model/Scene/Stylized Grass Shader/Materials/Flowers.mat",
                 "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
                 "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
             ]
@@ -37466,10 +37431,10 @@
         },
         {
             "BundleName": "assets_bundles_scenes_10001.bundle",
-            "FileName": "assets_bundles_scenes_10001_64a4f07907ec01def82264811686428c.bundle",
-            "FileHash": "64a4f07907ec01def82264811686428c",
-            "FileCRC": "50eef6f1",
-            "FileSize": 239920,
+            "FileName": "assets_bundles_scenes_10001_52c61430b3003a4bb3782a008f8ff369.bundle",
+            "FileHash": "52c61430b3003a4bb3782a008f8ff369",
+            "FileCRC": "c05eff36",
+            "FileSize": 45322,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -41465,8 +41430,8 @@
                 872,
                 873,
                 874,
-                875,
-                876,
+                877,
+                878,
                 880,
                 883,
                 884,
@@ -41794,8 +41759,8 @@
                 872,
                 873,
                 874,
-                875,
-                876,
+                877,
+                878,
                 880,
                 883,
                 884,
@@ -44082,8 +44047,8 @@
                 872,
                 873,
                 874,
-                875,
-                876,
+                877,
+                878,
                 880,
                 883,
                 884,
@@ -45335,7 +45300,6 @@
                 645,
                 646,
                 661,
-                673,
                 675,
                 676,
                 677,
@@ -45362,7 +45326,6 @@
                 644,
                 646,
                 661,
-                673,
                 675,
                 676,
                 677,
@@ -45642,7 +45605,6 @@
             "Tags": [],
             "ReferenceIDs": [
                 672,
-                673,
                 675,
                 676,
                 677
@@ -45662,7 +45624,6 @@
             "Tags": [],
             "ReferenceIDs": [
                 672,
-                673,
                 675,
                 676,
                 677,
@@ -45885,7 +45846,6 @@
             "Tags": [],
             "ReferenceIDs": [
                 672,
-                673,
                 675,
                 676,
                 677,
@@ -45999,47 +45959,6 @@
             ]
         },
         {
-            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scenceitem_scence_hua.bundle",
-            "FileName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scenceitem_scence_hua_3070d370dc8ff3e6c3effee30ce3d1e5.bundle",
-            "FileHash": "3070d370dc8ff3e6c3effee30ce3d1e5",
-            "FileCRC": "b9507513",
-            "FileSize": 137890,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                673,
-                675,
-                676,
-                677,
-                678
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A.mat",
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A_1.jpg"
-            ]
-        },
-        {
-            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_materials.bundle",
-            "FileName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_materials_391ab355ddffcc594d434cc3313b2ca4.bundle",
-            "FileHash": "391ab355ddffcc594d434cc3313b2ca4",
-            "FileCRC": "400e058d",
-            "FileSize": 2740,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                673,
-                675,
-                676,
-                677,
-                678
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Materials/Buildings.mat"
-            ]
-        },
-        {
             "BundleName": "share_assets_bundles_scenes_10001.bundle",
             "FileName": "share_assets_bundles_scenes_10001_21f5c9517f9700e2dfde05c6a64bc93b.bundle",
             "FileHash": "21f5c9517f9700e2dfde05c6a64bc93b",
@@ -46058,27 +45977,6 @@
             ],
             "AllBuiltinAssets": [
                 "Assets/Bundles/Scenes/10001/NavMesh.asset"
-            ]
-        },
-        {
-            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_textures.bundle",
-            "FileName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_textures_119465a0a9e891eea5f3f012720bd741.bundle",
-            "FileHash": "119465a0a9e891eea5f3f012720bd741",
-            "FileCRC": "a7cb0663",
-            "FileSize": 171132,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                673,
-                675,
-                676,
-                677,
-                678,
-                876
-            ],
-            "AllBuiltinAssets": [
-                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/Buildings_1.jpg"
             ]
         },
         {
@@ -46102,6 +46000,26 @@
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/TerrainTieTuSet/Textures/Ground/Ground11.tga"
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scenceitem_scence_hua.bundle",
+            "FileName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scenceitem_scence_hua_3070d370dc8ff3e6c3effee30ce3d1e5.bundle",
+            "FileHash": "3070d370dc8ff3e6c3effee30ce3d1e5",
+            "FileCRC": "b9507513",
+            "FileSize": 137890,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                675,
+                676,
+                677,
+                678
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/MonoOld/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A_1.jpg",
+                "Assets/Res/Model/Scene/MonoOld/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A.mat"
             ]
         },
         {
@@ -46133,11 +46051,50 @@
             "ReferenceIDs": [
                 675,
                 687,
-                880
+                878
             ],
             "AllBuiltinAssets": [
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Background Terrains/Mountain_4_Normal.PNG",
                 "Assets/Res/Model/Scene/Suntail Village/Textures/Background Terrains/Mountain_4_Albedo.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_materials.bundle",
+            "FileName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_materials_391ab355ddffcc594d434cc3313b2ca4.bundle",
+            "FileHash": "391ab355ddffcc594d434cc3313b2ca4",
+            "FileCRC": "400e058d",
+            "FileSize": 2740,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                675,
+                676,
+                677,
+                678
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Materials/Buildings.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_textures.bundle",
+            "FileName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_maoxiandao2_textures_119465a0a9e891eea5f3f012720bd741.bundle",
+            "FileHash": "119465a0a9e891eea5f3f012720bd741",
+            "FileCRC": "a7cb0663",
+            "FileSize": 171132,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                675,
+                676,
+                677,
+                678,
+                880
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Res/Model/Scene/MonoOld/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/Buildings_1.jpg"
             ]
         },
         {
