@@ -1,0 +1,1514 @@
+{
+    "FileVersion": "1.4.17",
+    "EnableAddressable": false,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 4,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-12-11-1045",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/CommandLine.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/MemoryPack.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/MongoDB.Bson.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/NLog.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/System.Runtime.CompilerServices.Unsafe.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/Unity.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/Unity.Loader.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/AotDlls/Unity.ThirdParty.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Unity.Hotfix.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Unity.Hotfix.pdb.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Unity.HotfixView.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Unity.HotfixView.pdb.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Unity.Model.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Unity.Model.pdb.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Unity.ModelView.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Unity.ModelView.pdb.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Config/ActivityConfigCategory.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Config/AIConfigCategory.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/UI/Dlg/DlgActivity.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": [
+                26,
+                27,
+                28
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/UI/Dlg/DlgActivity2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependIDs": [
+                26,
+                27,
+                28
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/UI/Dlg/DlgAppraisalSelect.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependIDs": [
+                29,
+                26,
+                28
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/UI/Dlg/DlgAppraisalSelect_Btn_58_1_Img_404.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                29,
+                28
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Unit/JingLing/70001001.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7,
+            "DependIDs": [
+                30,
+                31,
+                32
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Unit/Monster/310101.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8,
+            "DependIDs": [
+                30,
+                32
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Unit/Monster/310102.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9,
+            "DependIDs": [
+                30,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                32,
+                39
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Unit/Monster/310103.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependIDs": [
+                30,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                32,
+                39
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Unit/Unit.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependIDs": [
+                32
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Scenes/101.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12,
+            "DependIDs": [
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                32,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                31
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Scenes/104.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": [
+                43,
+                42,
+                41,
+                47,
+                46,
+                48,
+                49,
+                50,
+                51,
+                52,
+                44,
+                54,
+                56,
+                58,
+                32,
+                40,
+                45,
+                53,
+                55,
+                57,
+                31
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Scenes/40003.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependIDs": [
+                59,
+                32,
+                60,
+                52,
+                54,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Scenes/40004.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependIDs": [
+                67,
+                52,
+                59,
+                32,
+                54,
+                68,
+                65,
+                61,
+                62,
+                69,
+                60,
+                64,
+                66,
+                63
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Scenes/40005.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependIDs": [
+                59,
+                54,
+                32,
+                65,
+                69,
+                60,
+                52,
+                66,
+                68,
+                67,
+                61,
+                62,
+                64,
+                63
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/PropertyIcon/PetPro_1.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/PropertyIcon/PetPro_2.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/PropertyIcon/ProType_1.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/PropertyIcon/ProType_2.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/PropertyIcon/ProType_3.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/PropertyIcon/ProType_4.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/PropertyIcon/ProType_5.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/PropertyIcon/ProType_6.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_6.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Material/OutlineFill.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 19,
+            "DependIDs": [
+                32
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Material/OutlineMask.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 19,
+            "DependIDs": [
+                32
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Text/I2_Chinese.csv",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 20,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Text/I2_English.csv",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 20,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Effect/ScenceEffect/SceneEffect_Task_Get.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 21,
+            "DependIDs": [
+                32
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Effect/ScenceEffect/SceneEffect_TaskEnd.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 21,
+            "DependIDs": [
+                32
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Jpg/Back_5.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 22,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Jpg/Back_22.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 23,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Sound/Fight_1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 24,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Sound/MainCity.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 24,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/MapConfig/10001.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 25,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/MapConfig/10001_test.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 25,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_bundles_aotdlls.bundle",
+            "FileHash": "f6cfedb4f2249bb92fc0d4d89c93a47c",
+            "FileCRC": "3f50dc3b",
+            "FileSize": 7775159,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_code.bundle",
+            "FileHash": "500b581a923fb9ecc1c427ccf2d55b2e",
+            "FileCRC": "84ae8226",
+            "FileSize": 5408956,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_config.bundle",
+            "FileHash": "fb72e51bc081a78db03969db22406eeb",
+            "FileCRC": "781da20c",
+            "FileSize": 8179,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_ui_dlg_dlgactivity.bundle",
+            "FileHash": "e14043aa70997a4a28885b927bf9feaa",
+            "FileCRC": "840c1fb4",
+            "FileSize": 12328,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_ui_dlg_dlgactivity2.bundle",
+            "FileHash": "8844f00ea8ae1f8c0587cd52cbcaf08d",
+            "FileCRC": "5c099a8e",
+            "FileSize": 12315,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_ui_dlg_dlgappraisalselect.bundle",
+            "FileHash": "7359d160875203d4236c0e7f89cb9f3f",
+            "FileCRC": "2b5a6206",
+            "FileSize": 107400,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_ui_dlg_dlgappraisalselect_btn_58_1_img_404.bundle",
+            "FileHash": "97bb4998ceeb23f5a655576660a15a41",
+            "FileCRC": "fc41d454",
+            "FileSize": 6908,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_unit_jingling_70001001.bundle",
+            "FileHash": "537e0868ad8323c8f4935715bf77c57e",
+            "FileCRC": "58cb7812",
+            "FileSize": 696731,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_unit_monster_310101.bundle",
+            "FileHash": "c6d2d16537256aa0ba5c186f34252fe7",
+            "FileCRC": "7bd286f2",
+            "FileSize": 393553,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_unit_monster_310102.bundle",
+            "FileHash": "6f0c1657aa708ae05df6d468984e5e11",
+            "FileCRC": "e48d073e",
+            "FileSize": 6055,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_unit_monster_310103.bundle",
+            "FileHash": "a3bd042c7bd13db83c68cf2f72955413",
+            "FileCRC": "ab637c7c",
+            "FileSize": 6033,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_unit_unit.bundle",
+            "FileHash": "b001114961529be70046261b2b6a4394",
+            "FileCRC": "31f3a498",
+            "FileSize": 714894,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_scenes_101.bundle",
+            "FileHash": "6a60e87c87b01cf5731a8d23652ca484",
+            "FileCRC": "ba6c8271",
+            "FileSize": 37122,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_scenes_104.bundle",
+            "FileHash": "f1a9a5ce7f44d96f8b637ca241d46f2d",
+            "FileCRC": "afd9b852",
+            "FileSize": 2091313,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_scenes_40003.bundle",
+            "FileHash": "10460ca5ebacc4ae9c95206a5ee97797",
+            "FileCRC": "f7ec526c",
+            "FileSize": 6149831,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_scenes_40004.bundle",
+            "FileHash": "baaa45eb7e0e77fc589b311d69d6340b",
+            "FileCRC": "137bd6fa",
+            "FileSize": 336831,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_scenes_40005.bundle",
+            "FileHash": "9940fd9f378e98da2ae89b126ba6fedf",
+            "FileCRC": "3caba694",
+            "FileSize": 3706818,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_icon_propertyicon.bundle",
+            "FileHash": "73b322efe249bdf307558ceb8c511df8",
+            "FileCRC": "03fdebf7",
+            "FileSize": 13724,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_icon_rechageicon.bundle",
+            "FileHash": "43b3ac87783c7db7113aa9f44df66252",
+            "FileCRC": "a05fda3d",
+            "FileSize": 14439,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_material.bundle",
+            "FileHash": "12e7e44c7026158c9a22a129da6c3737",
+            "FileCRC": "46a5ba24",
+            "FileSize": 2380,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_text.bundle",
+            "FileHash": "2abf4150127bd040f5dae4769a1a0cf4",
+            "FileCRC": "7acde2e6",
+            "FileSize": 1339,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_effect_scenceeffect.bundle",
+            "FileHash": "31a7fc86e369460bdeaa9ab03dbfc68e",
+            "FileCRC": "eb3baf82",
+            "FileSize": 316387,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_jpg_back_5.bundle",
+            "FileHash": "72838661c50b7eea6101e7e482a834c8",
+            "FileCRC": "8786b4c2",
+            "FileSize": 767496,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_jpg_back_22.bundle",
+            "FileHash": "f4e74365dc0523002f45baad691edbfc",
+            "FileCRC": "4dc9b1da",
+            "FileSize": 1237162,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_sound.bundle",
+            "FileHash": "d6ee14efb051c83899976fe334c331f6",
+            "FileCRC": "c3bce665",
+            "FileSize": 4802618,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundles_mapconfig.bundle",
+            "FileHash": "05498cded502e5591a58374034d8d5fb",
+            "FileCRC": "d79e2ee6",
+            "FileSize": 17651,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "share_assets_res_uires_imgage.bundle",
+            "FileHash": "97a4fcc821c88fe4d9c8147e86c20bae",
+            "FileCRC": "11bf3416",
+            "FileSize": 87708,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_uires_back.bundle",
+            "FileHash": "b6a8743a2a2e3e27551e3ca7ceac7d23",
+            "FileCRC": "f32f2ce3",
+            "FileSize": 734358,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                3,
+                4
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_font.bundle",
+            "FileHash": "49e075e5fd5bf181a4a8f86083c7ed79",
+            "FileCRC": "ef8fddc1",
+            "FileSize": 7106044,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_uires_button.bundle",
+            "FileHash": "3a238d1468bf6ac34db50479c5a660c0",
+            "FileCRC": "c3b17d53",
+            "FileSize": 14693,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                5,
+                6
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_unit_player_hero_1.bundle",
+            "FileHash": "418ebd6d871132508eb5c0d634c160a1",
+            "FileCRC": "c2c2ff2c",
+            "FileSize": 28405,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_shaders_textures.bundle",
+            "FileHash": "dff7b94b18e600ae1a8cecf76039f7de",
+            "FileCRC": "75182e66",
+            "FileSize": 20783,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                7
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileHash": "1586c7443e4783f9ab4fcafe10a35279",
+            "FileCRC": "b536a29a",
+            "FileSize": 10398531,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                19,
+                21,
+                30,
+                36,
+                37,
+                39,
+                41,
+                42,
+                45,
+                46,
+                47,
+                48,
+                50,
+                51,
+                52,
+                53,
+                55,
+                56,
+                57,
+                58,
+                60,
+                61,
+                64,
+                65,
+                66,
+                68,
+                69
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_monsterset_suriyun_monster pack forest 2_animations_porin.bundle",
+            "FileHash": "3b07008f611a12f8f8edd3b1f3b82912",
+            "FileCRC": "edc57988",
+            "FileSize": 25501,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                9,
+                10,
+                34,
+                35,
+                39
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_unit_monster_animator.bundle",
+            "FileHash": "792cce412438951385f932321383acf0",
+            "FileCRC": "c3b4082a",
+            "FileSize": 5740,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                9,
+                10
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_animgroup_monster.bundle",
+            "FileHash": "c42704b701d6b1f6ee5d0d3cbf0f8665",
+            "FileCRC": "9bbaf03c",
+            "FileSize": 2379,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                9,
+                10
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_monsterset_suriyun_monster pack forest 2_fbx.bundle",
+            "FileHash": "826d99d0809409a2cd4a492b57f6062b",
+            "FileCRC": "02dac978",
+            "FileSize": 22303,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                9,
+                10,
+                39
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_monsterset_suriyun_monster pack forest 2_materials.bundle",
+            "FileHash": "b50c679500edeebdb5069bc1d7cf4aaf",
+            "FileCRC": "1a47328f",
+            "FileSize": 6073,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                9,
+                10,
+                36,
+                39
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_monsterset_suriyun_monster pack forest 2_textures.bundle",
+            "FileHash": "b6870ff60683ff692b4379adf632ba3e",
+            "FileCRC": "ff226be0",
+            "FileSize": 111467,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                9,
+                10,
+                36,
+                37,
+                39
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_monsterset_suriyun_monster pack forest 2_prefab.bundle",
+            "FileHash": "f60f8032c97f3f5f29d0f329c01222c4",
+            "FileCRC": "1db66019",
+            "FileSize": 4050,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "share_assets_scenesres_you xi_ye wai chang jing_tga.bundle",
+            "FileHash": "e820e04635c52ef88b930be984bc7573",
+            "FileCRC": "918bce61",
+            "FileSize": 305276,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                41,
+                42
+            ]
+        },
+        {
+            "BundleName": "share_assets_scenesres_you xi_ye wai chang jing_fbx.bundle",
+            "FileHash": "8818951f9d36f9f8a49635247c581532",
+            "FileCRC": "b93c763a",
+            "FileSize": 154684,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "share_assets_scenesres_you xi_ye wai chang jing_material.bundle",
+            "FileHash": "e6db01cceaf9d8095c7eb0ee1105d7b2",
+            "FileCRC": "356c8033",
+            "FileSize": 3035,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "share_assets_scenesres_you xi_ye wai chang jing_psd.bundle",
+            "FileHash": "2e0a236c86b2ba7886308879764ff17e",
+            "FileCRC": "80e56c03",
+            "FileSize": 839100,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                41,
+                42
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_tree_textrue.bundle",
+            "FileHash": "07f95a096589e6e9d28dcfab16440357",
+            "FileCRC": "d424996e",
+            "FileSize": 178448,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                51,
+                57
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scene_model_yewai_yewai_1_model.bundle",
+            "FileHash": "0789528170791e79d7dccba5339f5dad",
+            "FileCRC": "9ffb1167",
+            "FileSize": 11557,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scene_model_yewai_yewai_1_model_materials.bundle",
+            "FileHash": "4acb4ce747ba0ef956d4a0f54e658a90",
+            "FileCRC": "d49eaaa6",
+            "FileSize": 501863,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                45
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scene_model_yewai_yewai_2_prefab.bundle",
+            "FileHash": "216032957cdcdb1ad4d308bef894b09e",
+            "FileCRC": "87e2cf31",
+            "FileSize": 3039,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "share_assets_scenesres_cartoonskyboxmegapack_cartoonskybox.bundle",
+            "FileHash": "c9f51a265c7aba66580179cb4433fc04",
+            "FileCRC": "73bb44c9",
+            "FileSize": 32920,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "share_assets_scenesres_100001.bundle",
+            "FileHash": "5dbf913ad9734d3f943767cafaddfd71",
+            "FileCRC": "63b5e2c6",
+            "FileSize": 19980,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scene_model_yewai_yewai_2_model_materials.bundle",
+            "FileHash": "776ff95ac1adeac5ed4f41e64fa44b8d",
+            "FileCRC": "cd55a2ca",
+            "FileSize": 143653,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                47,
+                58
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_materials.bundle",
+            "FileHash": "ac72ef2f6e06a6b9b487f02be1dcc0fe",
+            "FileCRC": "916a6a0c",
+            "FileSize": 2817,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                57
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_building_materials.bundle",
+            "FileHash": "1f3240d4b3adcfee8c53ca018b443032",
+            "FileCRC": "6d164e10",
+            "FileSize": 3077,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                53,
+                61
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scene_building.bundle",
+            "FileHash": "7266e0a571e856706c9b9cf61c57ad7e",
+            "FileCRC": "320b7c8f",
+            "FileSize": 3132,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_building_textures.bundle",
+            "FileHash": "1545a619163bb97b2ab7ae98e9aab07e",
+            "FileCRC": "e5b3d619",
+            "FileSize": 486263,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                52,
+                53,
+                55,
+                56,
+                61
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scene_building_model_materials.bundle",
+            "FileHash": "58190703a6f3218a5e55affdfd5a5df9",
+            "FileCRC": "a48ce247",
+            "FileSize": 2794,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                53,
+                56
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scene_building_model.bundle",
+            "FileHash": "f8d3075fb73052bdad6f23bb0f0bcf2a",
+            "FileCRC": "fefc4308",
+            "FileSize": 14912,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                53
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_xiaozhen.bundle",
+            "FileHash": "f13828791f671f32dbaea7efe6581fab",
+            "FileCRC": "5ea40777",
+            "FileSize": 20992,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_oldresources_3dmodel_scene_model_yewai_yewai_2_model.bundle",
+            "FileHash": "462ab66b62f1c713d4a5c5f2cbaa2095",
+            "FileCRC": "7306159b",
+            "FileSize": 9017,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12,
+                13,
+                47
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_stylized grass shader__demo_demoassets_textures.bundle",
+            "FileHash": "fdb6340606ebd246c77c49a1fe7dc6c8",
+            "FileCRC": "bd8ef0cf",
+            "FileSize": 544918,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                14,
+                15,
+                16,
+                66
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_other_materials.bundle",
+            "FileHash": "3a5c3c4553002d72d4a5356e835fa3cd",
+            "FileCRC": "5f5fd0a6",
+            "FileSize": 2512,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                14,
+                15,
+                16,
+                65
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_building.bundle",
+            "FileHash": "16dd257a686e167676362c0b04814495",
+            "FileCRC": "15626be0",
+            "FileSize": 28226,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_other_texture.bundle",
+            "FileHash": "7ea704121eaa78c75557924aa87a6346",
+            "FileCRC": "ab60b0e5",
+            "FileSize": 1156930,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                14,
+                15,
+                16,
+                60,
+                65
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_terrain.bundle",
+            "FileHash": "10f5d80169952422d967e39f1cdda491",
+            "FileCRC": "1f61cc9c",
+            "FileSize": 38345,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+            "FileHash": "128dffa774edbe104729b19f858180ff",
+            "FileCRC": "bb44ec0c",
+            "FileSize": 3437,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_house.bundle",
+            "FileHash": "08f14481dd4e66c9898741977b4ac7ec",
+            "FileCRC": "1c23d7e9",
+            "FileSize": 15979,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_stylized grass shader__demo_demoassets_materials.bundle",
+            "FileHash": "996b022a63b09092eadfb5f067607eeb",
+            "FileCRC": "9996624a",
+            "FileSize": 2915,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_common_textures.bundle",
+            "FileHash": "3c4b2c95cdda93c5fb545ea44c34864b",
+            "FileCRC": "e6ae5184",
+            "FileSize": 117651,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                15,
+                16,
+                68,
+                69
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_common_materials.bundle",
+            "FileHash": "e4944587efdcc571fde386e17f12feba",
+            "FileCRC": "557e0c78",
+            "FileSize": 2737,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                15,
+                16,
+                69
+            ]
+        },
+        {
+            "BundleName": "share_assets_res_model_scene_monoold_gamedemo_editor default resources_building_old_common.bundle",
+            "FileHash": "a7c427e14b16b0b372d78d368476b44c",
+            "FileCRC": "8d46266c",
+            "FileSize": 19539,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                15,
+                16
+            ]
+        }
+    ]
+}
