@@ -3,7 +3,7 @@ CRC: 3219792552
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e9c82b7207b5f1904b60f32d76881d67
+    Hash: ffc409ef5c7532c9d42e7cce81bb9a7e
   TypeTreeHash:
     serializedVersion: 2
     Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
@@ -19,4 +19,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/MonsterSet/Toon_RTS/Elves/animation/Cavalry_Archer/ELF_cavalry_archer_10_death_A.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5affec7cc60669c0bee84783759237e8.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5affec7cc60669c0bee84783759237e8.unity3d

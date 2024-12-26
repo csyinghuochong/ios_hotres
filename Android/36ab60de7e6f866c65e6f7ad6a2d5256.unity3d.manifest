@@ -3,7 +3,7 @@ CRC: 3233152033
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b2a323c3ec20a9213de409a3f220e31f
+    Hash: bf841b5ac072e245500dd02cd30772e4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/RoleModelSet/RoleFaShi/fentiModel/texture/sd_yanjing.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/aabdfe8bb45d041db2afb8f49a1fb3de.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/aabdfe8bb45d041db2afb8f49a1fb3de.unity3d

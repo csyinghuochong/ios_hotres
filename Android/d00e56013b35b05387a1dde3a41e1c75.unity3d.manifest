@@ -3,7 +3,7 @@ CRC: 3011846474
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fe6511549de5a1e9759a4d0c28f6bca3
+    Hash: 8183b5d39c82874ebda5ab07d3fc8cd2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Models/Plants_Flower_A4.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a6820e5c0bd1a93a5bbb0d014846da7f.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a6820e5c0bd1a93a5bbb0d014846da7f.unity3d

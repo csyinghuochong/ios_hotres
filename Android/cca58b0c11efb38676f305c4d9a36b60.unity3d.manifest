@@ -3,7 +3,7 @@ CRC: 3730491653
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0f9b25717984f6320f5e1a77cea0373c
+    Hash: 6b3879740972d37cabc4a6a935de15f4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/BANDIT_WALL_03.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4708d4bb4265e16214f063fcfdcaf55b.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/64402fcccdfeb0e10c345ddb11bd4b6b.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4708d4bb4265e16214f063fcfdcaf55b.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/64402fcccdfeb0e10c345ddb11bd4b6b.unity3d

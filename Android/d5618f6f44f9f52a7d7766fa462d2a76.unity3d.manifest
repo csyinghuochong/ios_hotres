@@ -3,7 +3,7 @@ CRC: 1077658076
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4989cf480e0005ffc3cbde33aa9adcf3
+    Hash: 64d5853971ff9a250dfdac97263c4168
   TypeTreeHash:
     serializedVersion: 2
     Hash: d52e6fc37abc9baeae2e5a2026c904f5
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Model/Bom_Element.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0c4c67f4b69e2df3257ce3c22b4c0272.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0c4c67f4b69e2df3257ce3c22b4c0272.unity3d

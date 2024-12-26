@@ -3,7 +3,7 @@ CRC: 1746947500
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 767cd6cb3f566029a4d3c931ea9ad4ef
+    Hash: e26b900251bda4afffecc06208563079
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8f712b4c429d4e71592fe26b15049b2b
@@ -35,4 +35,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/SD Unity-Chan Haon Custom/Animations/WeaponMaster Greatsword(WGS)/WGS_AttackA_set.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1ae33eacf7db74c1456ee4e2751f1d75.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1ae33eacf7db74c1456ee4e2751f1d75.unity3d

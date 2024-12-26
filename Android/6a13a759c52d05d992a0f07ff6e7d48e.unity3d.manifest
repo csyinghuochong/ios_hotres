@@ -3,7 +3,7 @@ CRC: 1762371906
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f76cbbf6de057224413919b2283c3c4f
+    Hash: 7b528a83a743e5b7ca63b5b967eff12c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Model-E3D/E3D-Disk30.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac93674edc2132333d2771b87943c7f7.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac93674edc2132333d2771b87943c7f7.unity3d

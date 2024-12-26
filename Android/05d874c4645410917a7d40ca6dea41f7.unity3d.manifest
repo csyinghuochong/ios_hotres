@@ -3,7 +3,7 @@ CRC: 3968363165
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1713f0928dc0e33b0b649c16729b40d4
+    Hash: 3bb0bf447856fbdd53e55f18261c1dfc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelPotion_red02.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/daa9c2acc8923e32d6b7f5ff1358105b.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/daa9c2acc8923e32d6b7f5ff1358105b.unity3d

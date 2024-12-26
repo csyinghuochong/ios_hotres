@@ -3,7 +3,7 @@ CRC: 1097320247
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 930e4758f944243155540dd4f9e2159c
+    Hash: 49845763a7aad7625c5e5150fd093286
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -26,4 +26,4 @@ Assets:
 - Assets/Res/ScenceModel/Simple Dungeon Props - YP/Models/Book and Paper/Books and
   Paper.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6f316118abb5d24d364cc2ebf803609.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6f316118abb5d24d364cc2ebf803609.unity3d

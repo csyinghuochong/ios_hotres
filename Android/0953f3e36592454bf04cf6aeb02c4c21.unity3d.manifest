@@ -3,7 +3,7 @@ CRC: 511484387
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5f58a8e729da1c869e6f09ff65613a7a
+    Hash: 0d50789e896917aacfaa4f4c0c7d5603
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/CLIFFROCK01.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/518d75427c1fbc2c7b0404eee9a3bb68.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/518d75427c1fbc2c7b0404eee9a3bb68.unity3d

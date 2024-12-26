@@ -3,7 +3,7 @@ CRC: 2844554557
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b41c8af2f8b5ee9a2b354e1593ded1b2
+    Hash: bd17d5259aca0892b14c77bd5b3efe33
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Crystal1.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8240c03ccfc0bbd45eeed1842972be75.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8240c03ccfc0bbd45eeed1842972be75.unity3d

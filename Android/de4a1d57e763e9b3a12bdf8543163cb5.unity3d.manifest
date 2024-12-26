@@ -3,7 +3,7 @@ CRC: 2837205299
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c1206ada7989e523b5b834d37cf95547
+    Hash: d0617b46171e6dff0ed74a329ddc260b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/MonsterModel/ZhangJie_1/shuguai/Boss_Run.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f13acd80941c79b442968e92c94c1b71.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f13acd80941c79b442968e92c94c1b71.unity3d

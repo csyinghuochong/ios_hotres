@@ -3,7 +3,7 @@ CRC: 2608317339
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 06d046f1afe71fac22fa72b0a2ea2b78
+    Hash: 6d9f4783c80bd2c1d2ddea1b66cf67f8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/mesh/line_Plane001.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5e29c0b2d8cea4ff8bbecdc872dbc328.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5e29c0b2d8cea4ff8bbecdc872dbc328.unity3d

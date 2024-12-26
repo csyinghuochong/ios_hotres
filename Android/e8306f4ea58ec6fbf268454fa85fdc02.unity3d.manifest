@@ -3,7 +3,7 @@ CRC: 707227133
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e03330259c698b4cf579ada0a91714e4
+    Hash: 2d98f3418ea9aaf6fb3b197d1b1462d3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelBuilding_PotionShop.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/06098e1a0450b005e05393f277c34b27.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/06098e1a0450b005e05393f277c34b27.unity3d

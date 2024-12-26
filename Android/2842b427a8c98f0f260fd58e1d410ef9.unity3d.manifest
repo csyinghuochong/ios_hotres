@@ -3,7 +3,7 @@ CRC: 85841573
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dfa188803aba704e44b2c6a32424308e
+    Hash: e24ee79385cb006ff9bcc7ca4dc491d3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Brickwall1.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6d524b9dcb68854735d4240de20261.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6d524b9dcb68854735d4240de20261.unity3d

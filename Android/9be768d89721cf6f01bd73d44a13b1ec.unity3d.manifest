@@ -3,7 +3,7 @@ CRC: 3559639496
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e810311f2e32453a324f272bd46659db
+    Hash: b1c292745bab7110e4f060eefe848009
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Tree/Model/GRASS_DEAD_01.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/056eeb25a4ce2020f6e49c235d5f8d99.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/056eeb25a4ce2020f6e49c235d5f8d99.unity3d

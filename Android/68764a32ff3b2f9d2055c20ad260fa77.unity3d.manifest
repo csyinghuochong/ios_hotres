@@ -3,7 +3,7 @@ CRC: 313957130
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 07d0f387c249df386113b252d45051f5
+    Hash: c02e6048fcf086d127ba3d6d1e2907c6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/ScenceModel/Simple Dungeon Props - YP/Models/Coins/Coins.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6f316118abb5d24d364cc2ebf803609.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6f316118abb5d24d364cc2ebf803609.unity3d

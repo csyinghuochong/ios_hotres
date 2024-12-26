@@ -3,7 +3,7 @@ CRC: 2463627482
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a335ea5a93d29edc95177b1d73894636
+    Hash: 442614945884c4ade2c709e45ff580b8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelBottle01.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8a2af99f2cb87030a5b14cbd126c2382.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8a2af99f2cb87030a5b14cbd126c2382.unity3d

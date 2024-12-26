@@ -3,7 +3,7 @@ CRC: 126024786
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 875ce11e49e89d819b7a05674127e162
+    Hash: 790ae6cb37d3295fe264e1ebc55f3ac9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_guanzi_001_d.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5afec2031b4619df01c884ccc4264129.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5afec2031b4619df01c884ccc4264129.unity3d

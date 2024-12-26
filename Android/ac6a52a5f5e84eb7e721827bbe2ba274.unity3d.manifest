@@ -3,7 +3,7 @@ CRC: 758766779
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c9d914bdf6e3785081e08211f0a36ef7
+    Hash: a732346f7b3e510030f64b6a81c705ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7191655af00eba1438d561d224dbefc7
@@ -37,4 +37,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Component/shaizi.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d

@@ -3,7 +3,7 @@ CRC: 864272419
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 147c872a06f9cfb3e5e348858e352675
+    Hash: c42f09202be04990da48480600f6a4be
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/environment_Building_qiaoliang_006_c.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6fc0ac276cca4f479bfeca3240e8f063.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fde3365b898b8e206140073b549a3492.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6fc0ac276cca4f479bfeca3240e8f063.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/fde3365b898b8e206140073b549a3492.unity3d

@@ -3,7 +3,7 @@ CRC: 1180490909
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ac6c43c14955e3806df96296b7f1035b
+    Hash: 432c9e7dcfd51da6aad18d4ddcce7167
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/BANDIT_CAGE_01.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/8c8d5e1c053d89b271bd8fe53a83bdd4.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a1b02fcb8fba192a800f53bbbf78ade9.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8c8d5e1c053d89b271bd8fe53a83bdd4.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a1b02fcb8fba192a800f53bbbf78ade9.unity3d

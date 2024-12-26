@@ -3,7 +3,7 @@ CRC: 1782619186
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ee4ef4a4e13edaa305d8b9ea81eed13
+    Hash: a6de8d1c625fa38aec7161b30a1093cd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_2/model/ZC_yuanjianzhu01.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/288afe0fb3d02dd9e43f71812c8fdec5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/288afe0fb3d02dd9e43f71812c8fdec5.unity3d

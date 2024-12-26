@@ -3,7 +3,7 @@ CRC: 1208172783
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a515626ee4751395d98c2f53c13e4aa2
+    Hash: e0decd04e4489a328069bdc77d0b04e9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_gaopai_001_a.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1388ea1f769d97e6456404fd00a96a5c.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6113d13451c966d667ab00c0e8bd7dad.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1388ea1f769d97e6456404fd00a96a5c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6113d13451c966d667ab00c0e8bd7dad.unity3d

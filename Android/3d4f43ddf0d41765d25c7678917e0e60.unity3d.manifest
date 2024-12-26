@@ -3,7 +3,7 @@ CRC: 56164706
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 33d1c44bffc4cb9ec8f5b1a854755999
+    Hash: be901f5fb87c8130b895c44b3edee741
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Stone/Model/obj_metope_009.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6eb9aee6979bbc96a523c114ad98c6b7.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6eb9aee6979bbc96a523c114ad98c6b7.unity3d

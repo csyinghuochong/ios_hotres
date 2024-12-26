@@ -3,7 +3,7 @@ CRC: 149197041
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d97f979d793728c3d9cb09410a7618f9
+    Hash: cbc79e46758813d63fcca0817fff58ff
   TypeTreeHash:
     serializedVersion: 2
     Hash: d52e6fc37abc9baeae2e5a2026c904f5
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/Skill/Model/Eff_Skill_XuanFengZhan/Ground02.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3241a13703a0c661c0207c5616503258.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3241a13703a0c661c0207c5616503258.unity3d

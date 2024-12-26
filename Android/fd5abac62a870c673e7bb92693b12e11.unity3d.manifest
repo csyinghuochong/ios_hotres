@@ -3,7 +3,7 @@ CRC: 93631071
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4ee11b2220e4468905d614911879ac1b
+    Hash: 9958bd141e6dd96dc772b304767a7d09
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_huodui_001_a.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5ad8a5bb49e221beb553d7f1762655f7.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c15caf8d120e037afef0596c8b9f2c86.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5ad8a5bb49e221beb553d7f1762655f7.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c15caf8d120e037afef0596c8b9f2c86.unity3d

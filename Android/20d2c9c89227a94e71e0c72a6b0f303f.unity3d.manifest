@@ -3,7 +3,7 @@ CRC: 974285444
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ccbab7ace41bd410d1328aa87e5edeea
+    Hash: feb74f607fcca47e1c05a1d408e1eff7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelTable.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e1bb04574de1db498b506591117cc3bd.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e1bb04574de1db498b506591117cc3bd.unity3d

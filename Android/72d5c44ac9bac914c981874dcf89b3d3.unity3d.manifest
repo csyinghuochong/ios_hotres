@@ -3,7 +3,7 @@ CRC: 1136489869
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7f37bd7be6077e617a2ebd7907b28992
+    Hash: a24a9d5e03fb2beb34ca31c72a4aa1e1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_1/model/FB_1_guanmu01.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3871ca48dfad516ef8c4a1e7f4005d0e.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3871ca48dfad516ef8c4a1e7f4005d0e.unity3d

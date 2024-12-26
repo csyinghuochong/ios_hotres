@@ -3,7 +3,7 @@ CRC: 1923967349
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 541c175c8a0bedd1447c65a456093542
+    Hash: 684cd8e8f46c191d78837abda7887b9e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Model/tonado.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0604fa70a6021d93cbf77f4ea9d3b3a9.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0604fa70a6021d93cbf77f4ea9d3b3a9.unity3d

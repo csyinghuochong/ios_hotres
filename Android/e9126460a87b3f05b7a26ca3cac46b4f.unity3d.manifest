@@ -3,7 +3,7 @@ CRC: 3844939790
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ce04bc274996e636002ca88cdd087d30
+    Hash: b7f2b0946634d32e192c94c74e9e11b6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Materials/Flash21bcg.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6b0557ab875d9fd46738c01d16bad409.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6b0557ab875d9fd46738c01d16bad409.unity3d

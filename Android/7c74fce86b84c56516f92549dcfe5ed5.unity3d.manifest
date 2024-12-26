@@ -3,7 +3,7 @@ CRC: 44102416
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a2d249352960fd3dcf54f79650e60bf4
+    Hash: f2456f388d65873a1a6eddec3aa5c499
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelMushrooms.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a1ee89a852b1124ca465095a4573f62.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a1ee89a852b1124ca465095a4573f62.unity3d

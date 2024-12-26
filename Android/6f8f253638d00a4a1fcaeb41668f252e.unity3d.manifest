@@ -3,7 +3,7 @@ CRC: 4201945405
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 82e62b223db057c06ce191ae4e55cd46
+    Hash: 77aba1c25a78bdb1f4921d6689c3397c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,6 +27,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/ESTHGRAVEYARD_ROCKS_01.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/130a0a0bfb36c7513040db1f4d645d56.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/22edd78b85e6bb2d2aa566a1018b6a56.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e01c7f958bf2022154ad8cb58a6e2f22.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/130a0a0bfb36c7513040db1f4d645d56.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/22edd78b85e6bb2d2aa566a1018b6a56.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e01c7f958bf2022154ad8cb58a6e2f22.unity3d

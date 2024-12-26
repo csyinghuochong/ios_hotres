@@ -3,7 +3,7 @@ CRC: 3215737277
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2fdcb4765911641727a8c9de97567967
+    Hash: c44791bfa790cdfc6f45488a9d1f01d8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,5 +25,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Trunk_01.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f47c598e3be4f8ae60f02f8cdc2eaa0.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/784d875cffb636f146940d139056e23f.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f47c598e3be4f8ae60f02f8cdc2eaa0.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/784d875cffb636f146940d139056e23f.unity3d

@@ -3,7 +3,7 @@ CRC: 339579905
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee1cf7b2225070417b2b4a8a2e64daca
+    Hash: bfbd617ccfda70d7fde052ffa8ca3ed5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_jiazi_001_a.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5ad8a5bb49e221beb553d7f1762655f7.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c15caf8d120e037afef0596c8b9f2c86.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5ad8a5bb49e221beb553d7f1762655f7.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c15caf8d120e037afef0596c8b9f2c86.unity3d

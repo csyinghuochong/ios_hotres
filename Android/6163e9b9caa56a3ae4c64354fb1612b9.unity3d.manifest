@@ -3,7 +3,7 @@ CRC: 1650137120
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d22d0b52b4facfa5121689fece3875d3
+    Hash: 5b93bca9d4b1bb62d25668c137bf9400
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9397ff014da44a8632e81480212955cd
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/RoleModelSet/RoleFaShi/Animtor/Girl_Run2.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d

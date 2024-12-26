@@ -3,7 +3,7 @@ CRC: 4231634747
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3222464c4fa26054c6073d26c395dde1
+    Hash: 3991af179f9ae2489a6cf7edcb7eaa13
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Stone/modelRock03.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c7d6e2856f51d6ed8d94f75135a25285.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c7d6e2856f51d6ed8d94f75135a25285.unity3d

@@ -3,7 +3,7 @@ CRC: 1528128390
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 77801f43423c1d43a98df34da7584d23
+    Hash: 42d9401e43a0ade2184431eb3bdf546d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2f0af9edeb2eedebfc9b44088062794b
@@ -31,5 +31,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/Effect/SkillZhishi/Skill_Area_60.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/79deb227f583ad08ecc8ff4ce4bd5e09.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c061d644a2da2c3008ab26259434a3fe.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/79deb227f583ad08ecc8ff4ce4bd5e09.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c061d644a2da2c3008ab26259434a3fe.unity3d

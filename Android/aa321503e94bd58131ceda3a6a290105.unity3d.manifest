@@ -3,7 +3,7 @@ CRC: 3063905896
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 249fa44bd87460edc2465db9e806bb6a
+    Hash: 27972f5018bbc4f5c08c0cc1fdfbcc86
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,7 +27,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/BANDIT_LOOKOUT_01.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6e4bd93fdc0585b0a3e6a934f7db3f76.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6ea057008392db2182d89eb08afef294.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ad782bb3690a4f08d78156922462b349.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c2c307a12905a6838b065253c75466a5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6e4bd93fdc0585b0a3e6a934f7db3f76.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6ea057008392db2182d89eb08afef294.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ad782bb3690a4f08d78156922462b349.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c2c307a12905a6838b065253c75466a5.unity3d

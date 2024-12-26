@@ -3,7 +3,7 @@ CRC: 3825332033
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8160291239a6b5bcf41b1a5882d00abc
+    Hash: 9c38e1fd82d816de2072d1caacdfae73
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Tree/Model/GRASS_05.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/071a818b6a4a23ed221f31912ea54b42.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/071a818b6a4a23ed221f31912ea54b42.unity3d

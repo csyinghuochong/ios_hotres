@@ -3,7 +3,7 @@ CRC: 881989624
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d0dab68ac1490ef2f5c81e175688604d
+    Hash: f45c5948161aeaccf5ac23d372b53e68
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Materials/FlashGroundCG.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/97e18eb199d4aeb20917f7eaa24e52d8.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/97e18eb199d4aeb20917f7eaa24e52d8.unity3d
