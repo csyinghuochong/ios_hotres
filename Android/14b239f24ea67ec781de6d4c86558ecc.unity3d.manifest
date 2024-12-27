@@ -3,7 +3,7 @@ CRC: 2368442127
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 609067b64dde25e2fbe9f2d8f9984204
+    Hash: c0cd3a92162c5482bcf9e77b45e01e91
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -26,4 +26,4 @@ Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelCoconut
   1.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/30fc131b78ab6f25d83f7555b468d945.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/30fc131b78ab6f25d83f7555b468d945.unity3d

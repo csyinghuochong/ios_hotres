@@ -3,7 +3,7 @@ CRC: 2188676562
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c33146d700a7905f7bac54bed1c8cbee
+    Hash: 873aee6d68b9a429b53a6221e749c958
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Blocker_wall10x.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a2f7c5481bc25d204fa75a2b74244261.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a2f7c5481bc25d204fa75a2b74244261.unity3d

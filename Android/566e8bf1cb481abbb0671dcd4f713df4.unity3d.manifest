@@ -3,7 +3,7 @@ CRC: 3398879572
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ac1d988da791ff764dc1bb00becd93b8
+    Hash: c27f9ec64b6566dd81965a6128307199
   TypeTreeHash:
     serializedVersion: 2
     Hash: db0e312b6b14d29c3f5efd4298b934b6
@@ -31,6 +31,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/RoleModelSet/RoleLieRen/zhanshi.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2eacbdfecd197dd083218c697657052e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c6a8253037240ae3e475216caf19c138.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ec3ffb07bc47cdcdeee8069866887ea4.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2eacbdfecd197dd083218c697657052e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c6a8253037240ae3e475216caf19c138.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ec3ffb07bc47cdcdeee8069866887ea4.unity3d

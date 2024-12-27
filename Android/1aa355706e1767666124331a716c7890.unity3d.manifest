@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 71583060
+CRC: 280710947
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1a19a539e41a63c363fbe6c60cdcdf0a
+    Hash: e7457cdedc15dd5d654b19a6e1dd3928
   TypeTreeHash:
     serializedVersion: 2
     Hash: 68c985bf88fecc38b460cdb825182138
@@ -72,8 +72,8 @@ Assets:
 - Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/E3D-Effect-Shader/UV/E3DVFX-3T-UV-VC-Add.shader
 - Assets/Mono/GameDemo/OldResources/Water (Basic)/Sources/Shaders/FX-Water Simple.shader
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/351c5015b248c929352575691af33897.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/613311d53ab353c42b0d25e3b695cd1e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/67e09de2cca9549e217fdd435873bf64.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a5136d288de244948ea0a4bf8f918be4.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddb5a7d28c3dee34b832a6f0087d5d79.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/351c5015b248c929352575691af33897.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/613311d53ab353c42b0d25e3b695cd1e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/67e09de2cca9549e217fdd435873bf64.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a5136d288de244948ea0a4bf8f918be4.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ddb5a7d28c3dee34b832a6f0087d5d79.unity3d

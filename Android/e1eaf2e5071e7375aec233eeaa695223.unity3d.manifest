@@ -3,7 +3,7 @@ CRC: 2195289337
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6ca06f6b70cab5144cadf1f354d36bca
+    Hash: 6c6658f83218680dea9d54b2d6166050
   TypeTreeHash:
     serializedVersion: 2
     Hash: eb15005fff9b3de4c9e1675cc6cbea20
@@ -45,4 +45,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Blood/UIStallIem.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d

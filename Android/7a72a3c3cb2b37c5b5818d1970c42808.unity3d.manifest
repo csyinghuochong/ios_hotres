@@ -3,7 +3,7 @@ CRC: 2502485876
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7985fb087ca871a6d6720847ad759171
+    Hash: 7553ba8becc934da678416c4dbf28c0c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Fantasy upgrade building/building/etc_woodbox01.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d

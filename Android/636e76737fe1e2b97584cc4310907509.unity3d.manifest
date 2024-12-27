@@ -3,7 +3,7 @@ CRC: 668861309
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aed68f2dbf9d5dc3d828687409a8f5cc
+    Hash: 6f28801e630a46593dcd4bcd44fdf634
   TypeTreeHash:
     serializedVersion: 2
     Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
@@ -19,4 +19,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Warrior/Suriyun/Animations/Animations_v3/AnimSD@Dash.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/063b1d375fc60f398487df1d2aefa388.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/063b1d375fc60f398487df1d2aefa388.unity3d

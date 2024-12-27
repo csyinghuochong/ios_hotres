@@ -3,7 +3,7 @@ CRC: 2796789835
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 887ed5db228ecd59a9d164e5b1ff93f5
+    Hash: 9a085d55cd9c02cdb423110d24823ca4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -26,4 +26,4 @@ Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
   Ice Vol.1/Models/ice_06.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f1a2d78170c97d6546eca817274a7a43.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f1a2d78170c97d6546eca817274a7a43.unity3d

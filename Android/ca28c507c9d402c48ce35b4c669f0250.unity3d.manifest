@@ -3,7 +3,7 @@ CRC: 3484268200
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 03f81ec88e19f9a481e9d20d14fa7cd2
+    Hash: 311d487aaf37512b5be89967f5bfe2d2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Tree_Dead1.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f47c598e3be4f8ae60f02f8cdc2eaa0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f47c598e3be4f8ae60f02f8cdc2eaa0.unity3d

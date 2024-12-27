@@ -3,7 +3,7 @@ CRC: 930394835
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2819d31e631c394c14c03a4eb8595915
+    Hash: 242c073a23841dcfca66ad69cd22fb1e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/Water (Basic)/Sources/Objects/Water Plane.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac757c32eb01980c4055805d5851b542.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac757c32eb01980c4055805d5851b542.unity3d

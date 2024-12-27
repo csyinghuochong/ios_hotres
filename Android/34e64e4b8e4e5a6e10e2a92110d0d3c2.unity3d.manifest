@@ -3,7 +3,7 @@ CRC: 2984341331
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee2fcd22efcf5800a6ccfd708108f452
+    Hash: 18e7894c9211b4b34a786608c486c018
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Jar1B.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6d524b9dcb68854735d4240de20261.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6d524b9dcb68854735d4240de20261.unity3d

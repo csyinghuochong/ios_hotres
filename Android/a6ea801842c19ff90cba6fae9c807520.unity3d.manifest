@@ -3,7 +3,7 @@ CRC: 3288774393
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fde6f524a162274a6ad8afa3124111d7
+    Hash: ce44822ecd594e1c4c70ee704502a995
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_1/model/FB_1_shitou02.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0e3064bdc5ba06cf57edd22a17c41217.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0e3064bdc5ba06cf57edd22a17c41217.unity3d

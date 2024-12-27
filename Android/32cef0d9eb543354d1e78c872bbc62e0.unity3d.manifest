@@ -3,7 +3,7 @@ CRC: 2092728032
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 06f45bab4b94ec2152997fa5e6726ddb
+    Hash: 79d1ce084df7a9c060c4113b480dba48
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Building/Model/Tent1_trunk.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/73f2317093383dfbdec3b0326ff0bf67.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/73f2317093383dfbdec3b0326ff0bf67.unity3d

@@ -3,7 +3,7 @@ CRC: 214043069
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9a924de22990412a5cef48bd7aafbad2
+    Hash: 5fa777395f01ad6422144e05477014d9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_weilan_001_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9e35f40123f8a057e57a7ae00bace80c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9e35f40123f8a057e57a7ae00bace80c.unity3d

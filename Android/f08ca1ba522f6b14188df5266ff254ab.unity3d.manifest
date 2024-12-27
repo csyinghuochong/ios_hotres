@@ -3,7 +3,7 @@ CRC: 3752063011
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 35c84bfbb8d7d75437eebc862b40a571
+    Hash: bb5dccd94d8f6ace4fe384a3789fccbf
   TypeTreeHash:
     serializedVersion: 2
     Hash: b07e95eec8d55770ffce51414c7b0714
@@ -25,7 +25,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/UIEffect/Effect_ComTask.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/17912dc84836b76c19be67a204a58d71.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4169bed4f58861eb43b0704cd7ed227c.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6a5a623ab9fede55b530482ae788e73.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f5899c3fa18c6866cc9b0b1f47a30b61.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/17912dc84836b76c19be67a204a58d71.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4169bed4f58861eb43b0704cd7ed227c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6a5a623ab9fede55b530482ae788e73.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f5899c3fa18c6866cc9b0b1f47a30b61.unity3d

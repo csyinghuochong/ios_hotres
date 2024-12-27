@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2075394547
+CRC: 3947327796
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 809ac3cb016d766da25fec10cc73e001
+    Hash: 8b74ae87902dcd5bb505686a5e5ad551
   TypeTreeHash:
     serializedVersion: 2
     Hash: bcc271a55e5c12a2bdc4d219f9358e84
@@ -41,6 +41,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_FireWall_7.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c3fcc341d2d1afde59b74847acb8e34.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/bf70c6db0c0c12e04df48bd3f4d4b508.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e548f1b004367adecdf2bd52c57e5c8a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c3fcc341d2d1afde59b74847acb8e34.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bf70c6db0c0c12e04df48bd3f4d4b508.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e548f1b004367adecdf2bd52c57e5c8a.unity3d

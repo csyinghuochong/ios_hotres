@@ -3,7 +3,7 @@ CRC: 1698672804
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e2d96db02e96dd9310136e96936f97f
+    Hash: 5378881c25540b2c54d5285c168f9120
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/Point5cg.mat
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/971d0f354be1c39b809e6e4f5ddc9393.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/971d0f354be1c39b809e6e4f5ddc9393.unity3d

@@ -3,7 +3,7 @@ CRC: 815461427
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d62073e474ea8ddc45065c10c5168805
+    Hash: fd2ee82a912a9d79c50165e1034150aa
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8f0252db3c7fb55fc46c0286ed37380d
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/FBX/Fire_Gazer.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6e78f5e651117a5b3169998154f549a0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6e78f5e651117a5b3169998154f549a0.unity3d

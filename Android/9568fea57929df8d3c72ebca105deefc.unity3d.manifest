@@ -3,7 +3,7 @@ CRC: 1345173272
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c25f87b7a2d622000e490d2a3e94a28c
+    Hash: 2ae71065fbbc8eaf9a84454abc372275
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9b06bb802330cbddda5a6015204cbe7c
@@ -39,5 +39,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_FireWall_Size3.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/50d0c1813f82d388950e2fd43e824df8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/50d0c1813f82d388950e2fd43e824df8.unity3d

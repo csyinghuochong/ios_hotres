@@ -3,7 +3,7 @@ CRC: 1858630406
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4cac442204686da779ebd0c84806079b
+    Hash: 0101c5e31049eb89ef46b50b1e34e491
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/SS2bcg.mat
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/394087d6b9a7933cbc93ac5c29418017.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/394087d6b9a7933cbc93ac5c29418017.unity3d

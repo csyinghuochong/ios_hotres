@@ -3,7 +3,7 @@ CRC: 479034877
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4117718e03d28085829a31388c88bd89
+    Hash: 9f85ce740461b91413d0ff0399ad5fdf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 37d83f42ba351671392486d2929b58e1
@@ -31,4 +31,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/MonsterSet/ToonyTinyPeople/TT_RTS/TT_RTS_Standard/models/units/TT_RTS_Character_customizable.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f798d0ec1f77e24fc455a91b714d0117.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f798d0ec1f77e24fc455a91b714d0117.unity3d

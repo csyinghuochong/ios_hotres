@@ -3,7 +3,7 @@ CRC: 3594229104
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d06614164b0e785941e8b5380894381c
+    Hash: a6d97fde2eb07cc21782516033eebd9c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Plant_07.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a2dadbeda5755b80ac3d417fd0cc5a0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a2dadbeda5755b80ac3d417fd0cc5a0.unity3d

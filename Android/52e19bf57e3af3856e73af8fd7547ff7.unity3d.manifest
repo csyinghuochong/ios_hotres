@@ -3,7 +3,7 @@ CRC: 3882429412
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee35d9483acb95883eaaa485396d6cfe
+    Hash: c088c8ae41f74819c8282f904a2267be
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_zhandao_001_d.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/30036884da56635e4933f108f2b6f8e7.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/30036884da56635e4933f108f2b6f8e7.unity3d
