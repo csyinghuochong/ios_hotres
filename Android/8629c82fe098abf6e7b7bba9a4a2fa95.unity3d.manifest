@@ -3,7 +3,7 @@ CRC: 2446221780
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e09534320174d4c0026458cb4476aa42
+    Hash: b1cce1c04c67948f4a0bcdb5cfa7fb94
   TypeTreeHash:
     serializedVersion: 2
     Hash: 58fe018cf8dffe9cf0704cf3593ab5dc
@@ -39,7 +39,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_ChiXu_14.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3752d31f1724967ab463184194f90a22.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9db8b80cd1a1f3637e5d89edae0f754c.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fa9a6f1b9ecfd49130a7940bcb1733e5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3752d31f1724967ab463184194f90a22.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9db8b80cd1a1f3637e5d89edae0f754c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/fa9a6f1b9ecfd49130a7940bcb1733e5.unity3d

@@ -3,7 +3,7 @@ CRC: 1630129296
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e83ca4de2a81d2d0e4b8df3160134c20
+    Hash: 08a62ed04e1f44481c4465b6f1031b6d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Wagon_wagon.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4fc61c97d08c04dfdbdfce96ef6e87f9.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4fc61c97d08c04dfdbdfce96ef6e87f9.unity3d

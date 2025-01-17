@@ -3,7 +3,7 @@ CRC: 3760151916
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea18c916f0db014b7abe49b31bfab8d0
+    Hash: 632c4bf3381e31e4facc6a3864ebfc59
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Lumber.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a9dab49e23221a807eeb896073bd2de5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a9dab49e23221a807eeb896073bd2de5.unity3d

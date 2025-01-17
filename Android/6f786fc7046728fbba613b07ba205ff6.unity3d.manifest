@@ -3,7 +3,7 @@ CRC: 3454291730
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 58a339b3be0f1fb025b3f22375e25a38
+    Hash: 7ab61c6fc48ee29706cdfcbedf9e7bc5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/RUG_LARGE.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/64e8f951a5ddb5f085805309e345ce46.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/64e8f951a5ddb5f085805309e345ce46.unity3d

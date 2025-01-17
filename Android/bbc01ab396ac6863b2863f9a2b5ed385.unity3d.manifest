@@ -3,7 +3,7 @@ CRC: 1587201956
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e95a26b04b82c8c5d1401fd12eddc2e3
+    Hash: 66567899b957a9f4d21e8ef859371c93
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9df39041634ef16e17ea13cbd63cc7db
@@ -33,6 +33,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Monster/70001209.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1ac32e3efa395861465ab576a1a503df.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ae7d768a26908a7b7fb324b9433a3266.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1ac32e3efa395861465ab576a1a503df.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ae7d768a26908a7b7fb324b9433a3266.unity3d

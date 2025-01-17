@@ -3,7 +3,7 @@ CRC: 3003506653
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9e6843cde2d5fa00b5f5781c581877e9
+    Hash: 0ecfd04eaac68599e38bfe97e429534f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/Other/Warp/WarpGround.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e4f7fdf7057fb2a49274a7b48d475fcd.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e4f7fdf7057fb2a49274a7b48d475fcd.unity3d

@@ -3,7 +3,7 @@ CRC: 4265275915
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 17af9fcd34561112481d7e4903caf66f
+    Hash: f6cd7c926bc046a09c38f7de4585adb7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelRock07.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/96d5fe15fa27c12d9e564015bbd31c3a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/96d5fe15fa27c12d9e564015bbd31c3a.unity3d

@@ -3,7 +3,7 @@ CRC: 2340125570
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ba81a2f77dd8ab41f82ffc1eb37a76c3
+    Hash: 5b9fa10d6ebf5c10806326634b7144e0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/Tower_Base1_2.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e65c7126080f4352a655ca0ffc5c1c85.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e65c7126080f4352a655ca0ffc5c1c85.unity3d

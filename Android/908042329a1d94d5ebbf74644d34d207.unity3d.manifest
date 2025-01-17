@@ -3,7 +3,7 @@ CRC: 2572901246
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5c52ebc4093d11fae335f44a77e2b9be
+    Hash: 48b1f349958c49bc79c180295916a80b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/BROADLEAF_03.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2d52786e62f65771989b06aed63acb72.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2d52786e62f65771989b06aed63acb72.unity3d

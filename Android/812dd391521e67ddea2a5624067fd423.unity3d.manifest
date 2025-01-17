@@ -3,7 +3,7 @@ CRC: 1475113041
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a16591f872b0d41722a22a7a2a6bd100
+    Hash: 71789847c93955767864e40aa4dba038
   TypeTreeHash:
     serializedVersion: 2
     Hash: 913e2f0fa69b2eadcf236e8afbd596be
@@ -35,6 +35,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_46.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0cf706234df0324253ac85470d1c17be.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/76db1820955387bb0f9ec337a3e04506.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0cf706234df0324253ac85470d1c17be.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/76db1820955387bb0f9ec337a3e04506.unity3d

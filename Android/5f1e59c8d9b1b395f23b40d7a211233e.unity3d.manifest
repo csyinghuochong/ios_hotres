@@ -3,7 +3,7 @@ CRC: 248064632
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5701ed80926e4d25e6d5ef6850b99b1c
+    Hash: 27cf72e45a605fd88dc19498291ac781
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Barrier4.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/576d1294547367f48c8a42b27f6467c5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/576d1294547367f48c8a42b27f6467c5.unity3d

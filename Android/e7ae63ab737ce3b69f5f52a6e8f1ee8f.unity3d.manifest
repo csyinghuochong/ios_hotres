@@ -3,7 +3,7 @@ CRC: 3258431276
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c66690e236238141270ee582b9eb5369
+    Hash: 1dc1bdf33b7bc391e216277c010a629b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/Stone3bcg.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/efd9d0b4f4c8d8b2730c4afb43458653.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/efd9d0b4f4c8d8b2730c4afb43458653.unity3d

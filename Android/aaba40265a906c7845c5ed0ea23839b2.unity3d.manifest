@@ -3,7 +3,7 @@ CRC: 1856757571
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7cce40b9a46f7a742a5178454300c130
+    Hash: 588ca4c080a07e2a8a142e25b4582c8d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/ARPG Effects/Models/StarIcon.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6a5a623ab9fede55b530482ae788e73.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b6a5a623ab9fede55b530482ae788e73.unity3d

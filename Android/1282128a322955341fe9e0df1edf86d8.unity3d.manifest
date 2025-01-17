@@ -3,7 +3,7 @@ CRC: 1246677243
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e27a806425a7a644977a96be38fe5e0
+    Hash: 5f93f369f0bbc90cefcc3e458f36fec1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,5 +29,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/build/stsm_build_penshuichi_001.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/05c99a5d46c3318686955f2ad3ac30b5.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e70a42f5864d5e8fdc74744df5467901.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/05c99a5d46c3318686955f2ad3ac30b5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e70a42f5864d5e8fdc74744df5467901.unity3d

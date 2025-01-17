@@ -3,7 +3,7 @@ CRC: 848033950
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8290699b7641929c111ab72937bba9db
+    Hash: f0b5e3b26e2c79a14ff7f62923ec2724
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,6 +29,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/environment_Building_fenghuotai_e.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9eef10683f14f58750080df43190d45b.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bd7191a87de6aa1c39eda26fc642a1bd.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e3ce1f796c1a428dff49d741133e060b.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9eef10683f14f58750080df43190d45b.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/bd7191a87de6aa1c39eda26fc642a1bd.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e3ce1f796c1a428dff49d741133e060b.unity3d

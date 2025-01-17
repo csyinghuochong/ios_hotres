@@ -3,7 +3,7 @@ CRC: 3670031339
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8d63c9054c4450efaaabd510963f4dcf
+    Hash: 581a8a8fd30a2f604dfad6e8a03c6a25
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/MonsterModel/ZhangJie_5/HuoZhiZhu/ZhiZhu_1.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9c152682b6316ec674bbaf84664a09e1.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9c152682b6316ec674bbaf84664a09e1.unity3d

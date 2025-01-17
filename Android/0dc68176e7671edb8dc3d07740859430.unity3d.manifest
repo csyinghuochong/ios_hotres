@@ -3,7 +3,7 @@ CRC: 3867499356
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b413cafce82d9daf23f5d58c8921e31
+    Hash: 9c09b06e4140326a43e6367642085975
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,6 +25,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Fantasy upgrade building/building/building_Herbal_lv5.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2c3da8ba63bb8d9dc6d445982cd91421.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/924001deb4807f27a6f7513c29593e3b.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e38580b7d21afc94b49f88cf1303b7ee.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2c3da8ba63bb8d9dc6d445982cd91421.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/924001deb4807f27a6f7513c29593e3b.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e38580b7d21afc94b49f88cf1303b7ee.unity3d

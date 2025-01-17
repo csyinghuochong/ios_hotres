@@ -3,7 +3,7 @@ CRC: 2141305958
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b9525dc7de059b62933a108502c2fc3e
+    Hash: 2ff99559b9faa60f611a768c319e4071
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_RanLiaoPin/modelPotion_red01.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/01ed5a6f4d2e9172c9737f5b8fd6c2d1.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/01ed5a6f4d2e9172c9737f5b8fd6c2d1.unity3d

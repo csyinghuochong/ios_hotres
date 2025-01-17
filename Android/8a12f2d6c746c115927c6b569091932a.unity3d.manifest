@@ -3,7 +3,7 @@ CRC: 4215287535
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bfbaf364a9fe9162e47ad86c451e4e55
+    Hash: f42651e8d37da16f6cc5327eaac7b0c4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,6 +29,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/SHOP_01_SIDEAWNING.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/181aefb79597cee3497346c67a04a64d.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/52ca62922cbe4fdf78ab1488a54e56f6.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ae41fca129e796591690dc18ba5de574.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/181aefb79597cee3497346c67a04a64d.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/52ca62922cbe4fdf78ab1488a54e56f6.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ae41fca129e796591690dc18ba5de574.unity3d

@@ -3,7 +3,7 @@ CRC: 2537580564
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d4b2852f5b5879d8c2f416d664cb89eb
+    Hash: 76e795fd87edcba3caeaf520df7781f8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_zawu_003_a.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7f70e316bc31f652a4047e4ca683fe56.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7f70e316bc31f652a4047e4ca683fe56.unity3d

@@ -3,7 +3,7 @@ CRC: 319237819
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c825cb6baea9628f4457f363367c008e
+    Hash: 93e2fba98b9cd7918d19c5d159ae54f1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Prop_Chest2.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac536446970a1ee48c1ff91c18a1f79c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac536446970a1ee48c1ff91c18a1f79c.unity3d

@@ -3,7 +3,7 @@ CRC: 1377134278
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 22a4b63e46167df9f61359a2b4623fb8
+    Hash: 4348ed60fd92162a4633518ca891fbff
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,5 +25,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Fantasy upgrade building/building/building_spell_lv1.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9c25ba18a4946959b2d7ebefacd8e445.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e606328d5600551b76d1d1df5faa4f1f.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9c25ba18a4946959b2d7ebefacd8e445.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e606328d5600551b76d1d1df5faa4f1f.unity3d

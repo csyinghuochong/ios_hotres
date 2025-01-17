@@ -3,7 +3,7 @@ CRC: 2333181118
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 78867c460c5eab11a85893f1f33924d4
+    Hash: 312d6e56f5a8c5bd454f37f8e1cc85dd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Campfire.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4b516b0bc3320f7093fa9c8f89b0cf72.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4b516b0bc3320f7093fa9c8f89b0cf72.unity3d

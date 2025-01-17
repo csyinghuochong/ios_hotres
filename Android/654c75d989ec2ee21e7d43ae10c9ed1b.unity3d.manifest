@@ -3,7 +3,7 @@ CRC: 4124659620
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c03cdb9b276e4d231e8317e9533cce66
+    Hash: 4fb64eda75e241b3042519e9f3033422
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelFlower_blue.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d31330f5568b0549fd1d0bf15d165715.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d31330f5568b0549fd1d0bf15d165715.unity3d

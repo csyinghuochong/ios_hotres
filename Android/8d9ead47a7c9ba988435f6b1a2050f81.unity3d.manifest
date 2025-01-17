@@ -3,7 +3,7 @@ CRC: 1214205249
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8da082bd4fda48265fe062920e61b28c
+    Hash: 9b182d85033b085f53e14adacbc75a2b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelTableAndChair.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/074de78c612e801f5ccdcf9b4c140609.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/074de78c612e801f5ccdcf9b4c140609.unity3d
