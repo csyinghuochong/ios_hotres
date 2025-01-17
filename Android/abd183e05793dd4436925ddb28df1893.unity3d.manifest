@@ -3,7 +3,7 @@ CRC: 651870592
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f1a58f868ef89ee2f5dada5b27383f1c
+    Hash: 844cab3ae161869b54fd8ae5e5fba5d8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Bush_08.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/784d875cffb636f146940d139056e23f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/784d875cffb636f146940d139056e23f.unity3d

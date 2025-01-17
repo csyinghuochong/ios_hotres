@@ -3,7 +3,7 @@ CRC: 3747521924
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7d744bda4143a494372f2171e003355d
+    Hash: 7fe812ebfa9b164824ba8917018a4317
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0dcb8e2481c06c3080459cd852e51126
@@ -57,6 +57,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/FenXiang/UIFenXiangQQAddSet.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/72d356d87a42f472edab8b62a9f85f9c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/72d356d87a42f472edab8b62a9f85f9c.unity3d

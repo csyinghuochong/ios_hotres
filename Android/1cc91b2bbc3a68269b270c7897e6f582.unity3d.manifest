@@ -3,7 +3,7 @@ CRC: 2977496225
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 33c8587b153f4b1ee6180ddcb36be6ad
+    Hash: 74f32ba95bdc5cc66af496b5e2d125a2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_1/model/FB_1_tengtiao01.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/40d1e8f9f5cd397f766ba1ecaea7e2c2.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/40d1e8f9f5cd397f766ba1ecaea7e2c2.unity3d

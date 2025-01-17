@@ -3,7 +3,7 @@ CRC: 415684716
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc20038ffbcd85f19749543d3a60c943
+    Hash: 40aeb38c3f36d413e18c9c2261dec155
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/ArtResource/Scence/Modle/Other/Yxsl_1/model/Yx_diaosu01.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/57a9be05d8c244d33234d262e196d10b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/57a9be05d8c244d33234d262e196d10b.unity3d

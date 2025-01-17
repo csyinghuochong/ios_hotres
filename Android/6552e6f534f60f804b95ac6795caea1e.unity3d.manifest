@@ -3,7 +3,7 @@ CRC: 1162922230
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 99a6e4851683a4f929c394731f7fbb14
+    Hash: 911b3f0ea6f9d33a97fe0d8c0a4274d2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/environment_common_fenbao_001_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/65c0b1df1d50b99ad262b194bd470524.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/65c0b1df1d50b99ad262b194bd470524.unity3d

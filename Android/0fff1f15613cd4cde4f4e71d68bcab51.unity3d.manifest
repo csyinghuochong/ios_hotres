@@ -3,7 +3,7 @@ CRC: 3472197638
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 99734ff6128966cca68d85e269398ee2
+    Hash: c219649b3921345486a6fb9feeaddd0d
   TypeTreeHash:
     serializedVersion: 2
     Hash: c7f08c2b2de87e65961862a1d5ccad7b
@@ -47,6 +47,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/PetSet/UIPetFormationSet.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d78abe373aa3e2360b35ccd203b8cf90.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/eaa3897b6fe44faac1ebdb280e3f832c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d78abe373aa3e2360b35ccd203b8cf90.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/eaa3897b6fe44faac1ebdb280e3f832c.unity3d

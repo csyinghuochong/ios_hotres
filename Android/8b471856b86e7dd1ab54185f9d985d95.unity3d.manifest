@@ -3,7 +3,7 @@ CRC: 3002869972
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 472f04082e294fee84d8c374fb3ac7bd
+    Hash: 49653e296f05c1d314dc9a266b508335
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,5 +29,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/environment_Building_yingzhai_001_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/114d8734a23caf82840487a65196f4f1.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d7ca8811bd01318800f88be9fdbe8635.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/114d8734a23caf82840487a65196f4f1.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d7ca8811bd01318800f88be9fdbe8635.unity3d

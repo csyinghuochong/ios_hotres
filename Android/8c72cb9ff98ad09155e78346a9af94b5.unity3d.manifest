@@ -3,7 +3,7 @@ CRC: 2390181505
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cafbe1e9911d5dd3a6939f234cefd9f0
+    Hash: 84fdb50e4d78fd0099182ddefb0ba8d5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Prop_Cargo3.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ffb85a455b820e6e6b78a3fa66717ee4.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ffb85a455b820e6e6b78a3fa66717ee4.unity3d

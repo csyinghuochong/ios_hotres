@@ -3,7 +3,7 @@ CRC: 3944275257
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c1c43b6247bfabaa69055fd2f3486ded
+    Hash: b4a799a2f543e057525d3cfb0ef53670
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,5 +25,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Fantasy upgrade building/building/building_house_lv3.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3478191b376b7b841147c306eb2b74df.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3e69178802d1923aec8c0dfdc79c050a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3478191b376b7b841147c306eb2b74df.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3e69178802d1923aec8c0dfdc79c050a.unity3d

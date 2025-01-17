@@ -3,7 +3,7 @@ CRC: 2142954173
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dca941531331ba99d67d279251c2277e
+    Hash: 8c12b34c45d1f2008422c51e56488e36
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/build/stsm_build_chengqiang_002.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a7e60f251bfc742e8abe45ac7d7f5844.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a7e60f251bfc742e8abe45ac7d7f5844.unity3d

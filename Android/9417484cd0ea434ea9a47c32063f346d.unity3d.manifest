@@ -3,7 +3,7 @@ CRC: 1131484371
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5866196ec4ee81179f880c300b3ae842
+    Hash: b7ce0c0fb57d919b59a4238602bfb3e6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Tree_Fall4.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f47c598e3be4f8ae60f02f8cdc2eaa0.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4f47c598e3be4f8ae60f02f8cdc2eaa0.unity3d

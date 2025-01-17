@@ -3,7 +3,7 @@ CRC: 1365044804
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a4fa7ddbd953debc2ad34e8cc873e27e
+    Hash: 7e0e8dbe412a458c8ad04a7f17f080c5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/environment_common_juma_001_a.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d1957bfc8b9935bf658476e97cdd1da5.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d1957bfc8b9935bf658476e97cdd1da5.unity3d

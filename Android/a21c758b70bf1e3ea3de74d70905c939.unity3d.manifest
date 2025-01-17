@@ -3,7 +3,7 @@ CRC: 987602742
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e19f49637aa3c666519a13dd40c1f7b1
+    Hash: 183e7825076f0a500d5b54fff8c313c0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Media/Character/Model/ju_du_zhu_001_ty.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c1e018ce3c70ca313f69480199ecba75.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c1e018ce3c70ca313f69480199ecba75.unity3d

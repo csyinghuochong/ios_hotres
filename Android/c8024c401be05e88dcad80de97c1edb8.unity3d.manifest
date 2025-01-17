@@ -3,7 +3,7 @@ CRC: 406902164
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bfbce23422b905a4d344b3e660ef5b9d
+    Hash: be1e515ef63bd1e8fb258521b0249e20
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/Crater40bcg.mat
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4dab663406ca6c162f1418f683a217af.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4dab663406ca6c162f1418f683a217af.unity3d

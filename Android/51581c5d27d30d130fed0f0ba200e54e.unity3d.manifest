@@ -3,7 +3,7 @@ CRC: 2420675743
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 165781ae290449fc693e3e93cb4f6a47
+    Hash: c3773c8b4e8c20006256e1c6d66b2af6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelFence01.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2b51e6ebadd6ebed65858df1df31022c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2b51e6ebadd6ebed65858df1df31022c.unity3d

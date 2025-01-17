@@ -3,7 +3,7 @@ CRC: 419379660
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 61a1ffc3c4e9376819c4aca5cf53c9f7
+    Hash: 468edc5aafe85966a266af2f28876d79
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Floor5.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6d524b9dcb68854735d4240de20261.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6d524b9dcb68854735d4240de20261.unity3d

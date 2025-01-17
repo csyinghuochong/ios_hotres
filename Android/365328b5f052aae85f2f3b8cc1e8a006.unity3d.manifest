@@ -3,7 +3,7 @@ CRC: 1725837518
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 44c6f0e4f0d6b2a29aa228bd92655709
+    Hash: bc78aed5ad696afbc0b3a9bdf9669cc4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9397ff014da44a8632e81480212955cd
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/RoleModelSet/RoleFaShi/Animtor/Girl_Rest2.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d

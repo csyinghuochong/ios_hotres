@@ -3,7 +3,7 @@ CRC: 1836454007
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6ca46799c89cc873c909d17c9941d85b
+    Hash: d2d4beb1e35d9df80eb941f6290f2447
   TypeTreeHash:
     serializedVersion: 2
     Hash: 35e03ddb0c796f9935eca3f07a30e232
@@ -41,6 +41,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Common/UITipsDi.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d58aea790d387b0c3c11e61fd28fc6ce.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ebf2ba71d6daffbbb448707ac1ee11d8.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d58aea790d387b0c3c11e61fd28fc6ce.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ebf2ba71d6daffbbb448707ac1ee11d8.unity3d

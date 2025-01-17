@@ -3,7 +3,7 @@ CRC: 3150958449
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6097017c9a965dc3685d48b46e2cc0a7
+    Hash: 399fbc304551adcdd17c38e456b715c5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/MonsterModel/Monster/M19005/M19005.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a54d1a14aed34cf8bf1e977f1958218b.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a54d1a14aed34cf8bf1e977f1958218b.unity3d

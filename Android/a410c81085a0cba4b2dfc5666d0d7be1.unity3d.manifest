@@ -3,7 +3,7 @@ CRC: 4223332417
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 27ad1bf0de9c51b519e7e9f683590234
+    Hash: e5550da2b76915400c6f222ad3e79a75
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8f0252db3c7fb55fc46c0286ed37380d
@@ -27,6 +27,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Model-E3D/E3D-Role2.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/bfad223678d547f34bd0f9026f34f22d.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d3b8ed0bbbaac8eed38b01c7fcfabbb3.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d811ff84c602a73375354bda054a559f.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/bfad223678d547f34bd0f9026f34f22d.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d3b8ed0bbbaac8eed38b01c7fcfabbb3.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d811ff84c602a73375354bda054a559f.unity3d

@@ -3,7 +3,7 @@ CRC: 820609215
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4e8abbbf9619cd5112be61c905f277d3
+    Hash: 84da491475cb6365a58c8c25e5f0d5d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Brickwall_debris1.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6d524b9dcb68854735d4240de20261.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce6d524b9dcb68854735d4240de20261.unity3d

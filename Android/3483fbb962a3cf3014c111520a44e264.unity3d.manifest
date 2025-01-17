@@ -3,7 +3,7 @@ CRC: 4119658456
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1852b0ba4c45aa447dfafa65a72aa185
+    Hash: 42599ebb1bf336847cc202eab7d40445
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_daocaoduo_001_b.FBX
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a9a55bf94885d7e723970f54d13fb386.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a9a55bf94885d7e723970f54d13fb386.unity3d

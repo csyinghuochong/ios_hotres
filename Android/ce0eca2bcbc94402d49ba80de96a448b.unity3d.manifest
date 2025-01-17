@@ -3,7 +3,7 @@ CRC: 3771765162
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1c4d9a3765497e869d47a04a451e0581
+    Hash: 41a679f1570e63a569e010192f80590b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelBonfire.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0f0e1f8ca0eacde7d905ed5e782eca3c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0f0e1f8ca0eacde7d905ed5e782eca3c.unity3d

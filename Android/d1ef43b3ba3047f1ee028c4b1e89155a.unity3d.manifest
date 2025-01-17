@@ -3,7 +3,7 @@ CRC: 3922455854
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7b5da054276eb871eaff7412b8b7fe13
+    Hash: 3257741a1d00bbc8f18789ace66fae77
   TypeTreeHash:
     serializedVersion: 2
     Hash: c205496f8750f16c93b71c5adb21312e
@@ -35,6 +35,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_MoGuZhaDan.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2cfb037f5400c58d702a7e22222e2cbd.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f98647c1e99d54fd6eaef5904c17b38c.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2cfb037f5400c58d702a7e22222e2cbd.unity3d
+- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/f98647c1e99d54fd6eaef5904c17b38c.unity3d
