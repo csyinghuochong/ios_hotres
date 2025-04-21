@@ -3,7 +3,7 @@ CRC: 4279728000
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fe20d8e871ad117b44cf4aa4537b8c86
+    Hash: dd17beb51c9bfb169fd09e3f258916a7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 37d83f42ba351671392486d2929b58e1
@@ -31,4 +31,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/MonsterSet/Toon_RTS/Elves/models/ELF_Cavalry_customizable.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9d00458e2141b53a494451b8f9932add.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9d00458e2141b53a494451b8f9932add.unity3d

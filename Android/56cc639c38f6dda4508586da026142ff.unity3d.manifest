@@ -3,7 +3,7 @@ CRC: 3428871574
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8501aeca3dd749fffb236d5fac24ac68
+    Hash: 37ff83a16c6066b29e384cd139eb6e18
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3a17269f3c7efb94dff28b8e57bb701f
@@ -39,7 +39,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_QunLiao.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/432d37375c962cbbe7516cfe8df89be6.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/548e50ac3b7276eac91f5ff22216d784.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/78b5a6db7f0db0089b9257bfe608c9fd.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/432d37375c962cbbe7516cfe8df89be6.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/548e50ac3b7276eac91f5ff22216d784.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/78b5a6db7f0db0089b9257bfe608c9fd.unity3d

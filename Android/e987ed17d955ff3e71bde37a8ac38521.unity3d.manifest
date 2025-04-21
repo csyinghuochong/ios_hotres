@@ -3,7 +3,7 @@ CRC: 2465062124
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c0c4926544dcf12e6b322349e1eba34c
+    Hash: 373fdb7b8d47d589e46cd5e52720b7b5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/sculp_010.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0ce601c5962f88472ad95083bfedeff0.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0ce601c5962f88472ad95083bfedeff0.unity3d

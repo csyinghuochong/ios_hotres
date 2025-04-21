@@ -3,7 +3,7 @@ CRC: 494324726
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 87d1ab7d9d0bd610f2b33f13b7ea83e0
+    Hash: 3a540a41e7ac89009f593c688b291d8d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 427bc66a6bbaed6dcc5cbce15a07ab1f
@@ -35,5 +35,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_YouLingFly.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9db8b80cd1a1f3637e5d89edae0f754c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9db8b80cd1a1f3637e5d89edae0f754c.unity3d

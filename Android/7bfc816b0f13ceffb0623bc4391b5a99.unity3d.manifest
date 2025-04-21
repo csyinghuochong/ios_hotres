@@ -3,7 +3,7 @@ CRC: 3882360752
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2dc19d72a6899f07fe942d5655a85406
+    Hash: f4793ad14755ba2af2bf98d41f668c91
   TypeTreeHash:
     serializedVersion: 2
     Hash: db0e312b6b14d29c3f5efd4298b934b6
@@ -31,4 +31,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Monsters Ultimate Pack 05 Cute Series/Soul Mage Cute Series/FBX/Soul Mage.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ba8b284f0e24731bc618fa62bc46ad97.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ba8b284f0e24731bc618fa62bc46ad97.unity3d

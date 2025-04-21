@@ -3,7 +3,7 @@ CRC: 1753332397
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4941bd1c57611e6dd6c572894938bf3b
+    Hash: 37c16d79601e8ee2275646a80a527507
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,6 +29,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/Shion/Models/Shion.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9d8578a1ff4c8a7e3b96651fb242d0ab.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a2817d2eeaab9935e29f0c507f62685e.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce97eb3ef8fedd59fc4e077fae674894.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9d8578a1ff4c8a7e3b96651fb242d0ab.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a2817d2eeaab9935e29f0c507f62685e.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ce97eb3ef8fedd59fc4e077fae674894.unity3d

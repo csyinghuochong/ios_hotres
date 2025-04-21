@@ -3,7 +3,7 @@ CRC: 528027955
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7d05267f5a24212035a38ddad25f65bf
+    Hash: 52c9aad5446329a3f0806e481994ee4f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/Flare6cg.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/2178088a5d23fa4fd88e6648293bde1f.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/2178088a5d23fa4fd88e6648293bde1f.unity3d

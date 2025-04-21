@@ -3,7 +3,7 @@ CRC: 3564563485
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a1e5ec13f5a75b0a5e81531e162fe9ce
+    Hash: f3a76df7b1f74ece76774bd3d4bf8603
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7a107dc2e5b91368bb715249dde775ee
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Model-E3D/E3D-Curve-Surround44.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/baed776fb3bb1907a40bf9ddf9b541ae.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/baed776fb3bb1907a40bf9ddf9b541ae.unity3d

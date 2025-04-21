@@ -3,7 +3,7 @@ CRC: 1875426417
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a7367dcdb066d71fa70706bf09740018
+    Hash: b3c75819159cd0357becef0ee25d14d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/RongYan/HuoDiLong.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/187bed9358ff055b8918a56f3d804be3.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/187bed9358ff055b8918a56f3d804be3.unity3d

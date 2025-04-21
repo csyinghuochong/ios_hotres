@@ -3,7 +3,7 @@ CRC: 2985912546
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ef9541722081828dd949fb5b6101da17
+    Hash: 688bbf9090c01b2133539d1345630149
   TypeTreeHash:
     serializedVersion: 2
     Hash: d89b060f78b6cba5d5ca930ca2087b37
@@ -43,6 +43,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Season/UISeasonMain.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/66b79c41bb658dcd9b14278171ee0bbb.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/a9afd27aac424ed4aeba6e4728bc30f2.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/66b79c41bb658dcd9b14278171ee0bbb.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a9afd27aac424ed4aeba6e4728bc30f2.unity3d

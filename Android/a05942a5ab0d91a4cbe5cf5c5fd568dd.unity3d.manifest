@@ -3,7 +3,7 @@ CRC: 885823909
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 005388ee6c18d2e3a4766e58ef57753f
+    Hash: 91a7bafe568aba03783e481ba835ca87
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9397ff014da44a8632e81480212955cd
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Models/RoleModelSet/RoleFaShi/Animtor/Girl_Chong.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d

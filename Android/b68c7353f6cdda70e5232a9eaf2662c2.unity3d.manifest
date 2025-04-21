@@ -3,7 +3,7 @@ CRC: 3796289808
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 098485316f38a97795da5cd0c43e865f
+    Hash: e973e9a6edb58751a52dfd4766f433bc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -27,7 +27,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_stone_shuijing_001_i.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/308e0e3dc1635864f846bc3fa5c3dfe3.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/afd1384528da08cb90d3f1b5efd19efe.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d03385a242d6421eb01945e5b4202fe5.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d43006bffeb325aed47e4da0f45220db.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/308e0e3dc1635864f846bc3fa5c3dfe3.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/afd1384528da08cb90d3f1b5efd19efe.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d03385a242d6421eb01945e5b4202fe5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d43006bffeb325aed47e4da0f45220db.unity3d

@@ -3,7 +3,7 @@ CRC: 1537724718
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98d65d2052c35c0faf6c5ef95c650d2b
+    Hash: d561ab4ec4961864e5f9b8c2db76163e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/CritterPack/AnimalModels/frog.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/e7cc1bfb00fed1b165237177b828b985.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e7cc1bfb00fed1b165237177b828b985.unity3d

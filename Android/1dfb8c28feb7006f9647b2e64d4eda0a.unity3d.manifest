@@ -3,7 +3,7 @@ CRC: 605623277
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b061989c149efd9d28f63ac0fc1fcb1
+    Hash: 0f0a4acce58740ebc3dc027962f5e5cd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7a107dc2e5b91368bb715249dde775ee
@@ -29,5 +29,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Component/zhanshi_jian.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0d536a6b4529dc5a383a89524d8c9c65.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0d536a6b4529dc5a383a89524d8c9c65.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d

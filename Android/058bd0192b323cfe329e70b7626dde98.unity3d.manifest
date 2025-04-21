@@ -3,7 +3,7 @@ CRC: 3597402926
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 792216e0432eda342409171516dca68e
+    Hash: de1d7f236207384e27be155d429f3b5f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/BingZhiZhu.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ed7c8a05dff8966d2845db9795e6b34c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ed7c8a05dff8966d2845db9795e6b34c.unity3d

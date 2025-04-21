@@ -3,7 +3,7 @@ CRC: 3392242693
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 290e34c3355222ded8d9d7a5d024439c
+    Hash: e1843fda06a8d5fee04b395dc7d47755
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8f0252db3c7fb55fc46c0286ed37380d
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/Cute Pet/FBX/TypeB/Horse.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/027a329febb58d60e1079e50019dac7d.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/027a329febb58d60e1079e50019dac7d.unity3d

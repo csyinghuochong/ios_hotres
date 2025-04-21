@@ -3,7 +3,7 @@ CRC: 238304088
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 04f69dde97d469708e648bcb0a0dab5f
+    Hash: eefdf04d7ad735cef6a11492f67eb745
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -30,4 +30,4 @@ Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/model/100631_gtss_npc
   #5237077.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/555ee4bb8340f8959896d4d2471cba4c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/555ee4bb8340f8959896d4d2471cba4c.unity3d

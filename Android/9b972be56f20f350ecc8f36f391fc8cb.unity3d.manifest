@@ -3,7 +3,7 @@ CRC: 2544589513
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8024066ba2fd9cd669dc1856dc5f605f
+    Hash: e2b1362ea57a0e816b2f05bebb9381b0
   TypeTreeHash:
     serializedVersion: 2
     Hash: bd7cc5d3d4a7e1b2de605d79dd7cfd8e
@@ -19,4 +19,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/MonsterSet/Toon_RTS/Elves/animation/Spearman/ELF_spearman_01_idle.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/ed25edb14faa9503a8aa7e2a9c71c8c3.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ed25edb14faa9503a8aa7e2a9c71c8c3.unity3d

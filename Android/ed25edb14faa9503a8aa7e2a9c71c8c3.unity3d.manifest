@@ -3,7 +3,7 @@ CRC: 771287399
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 83b79ea1bb875e8ce2165b559049fa13
+    Hash: 1f2b7417be07c061db572bd5bed45613
   TypeTreeHash:
     serializedVersion: 2
     Hash: 37d83f42ba351671392486d2929b58e1
@@ -31,4 +31,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/MonsterSet/Toon_RTS/Elves/models/ELF_Characters_customizable.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/9d00458e2141b53a494451b8f9932add.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/9d00458e2141b53a494451b8f9932add.unity3d

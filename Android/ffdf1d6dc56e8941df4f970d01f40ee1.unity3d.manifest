@@ -3,7 +3,7 @@ CRC: 3301253148
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3e90ce673b81e7f4ebfd294581c644e3
+    Hash: 6f67f1508cac5713565b46fc24d61833
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Materials/Point12cg.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/773a8fbff00e1a08c0f6509e5603b051.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/773a8fbff00e1a08c0f6509e5603b051.unity3d

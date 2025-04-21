@@ -3,7 +3,7 @@ CRC: 3689680509
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 34474d2a4edc355246d9a2f53729d618
+    Hash: 181edfe1d47770c05624ba96626e718d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/KuangDong/Bianfu_1.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/6aa7ccdf31dafc1dddfa8ce3316d933f.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6aa7ccdf31dafc1dddfa8ce3316d933f.unity3d

@@ -3,7 +3,7 @@ CRC: 477084524
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 817c2df930d63021df10a0ea37fce272
+    Hash: 2cd8e141db3f815a25885831e3a75756
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/KuangDong/LaoShu_1.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/dae92d24879f087f852fbcab63f9627c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/dae92d24879f087f852fbcab63f9627c.unity3d

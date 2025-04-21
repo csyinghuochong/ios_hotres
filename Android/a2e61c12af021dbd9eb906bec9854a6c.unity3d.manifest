@@ -3,7 +3,7 @@ CRC: 2913575145
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b5190ffb0464df80ddcd9ec39f7b50ba
+    Hash: e99c25d040a38b706a5b20813a3d167e
   TypeTreeHash:
     serializedVersion: 2
     Hash: d8ebac64479daed4cc03e1bcee586804
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/obj_small_048.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/c66b0de1c512daa089726ce9563e903a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c66b0de1c512daa089726ce9563e903a.unity3d

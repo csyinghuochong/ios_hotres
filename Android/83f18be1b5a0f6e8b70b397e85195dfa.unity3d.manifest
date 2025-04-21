@@ -3,7 +3,7 @@ CRC: 3260590028
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 61b4a9881195e9db7442ee3c2e0adc9b
+    Hash: 187ce46dab50769fcc177d064a379d63
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8f0252db3c7fb55fc46c0286ed37380d
@@ -27,4 +27,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Lang/Lang_2.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/19673ae068df5509314ba00a0e993307.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/19673ae068df5509314ba00a0e993307.unity3d

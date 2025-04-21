@@ -3,7 +3,7 @@ CRC: 510315590
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f3bae3e5632fdc79f392f1f2f1671626
+    Hash: e2a9e37d3cd5e7374496a01363523c31
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a29453440e1881222464ed411a06d5a
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Lang/WOLF.fbx
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/98e353d3df3e2948a2a273f53de5acc9.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/98e353d3df3e2948a2a273f53de5acc9.unity3d

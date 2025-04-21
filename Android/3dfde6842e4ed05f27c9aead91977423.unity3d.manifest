@@ -3,7 +3,7 @@ CRC: 2393440191
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3a48b6eef230164341f71b6ce198d531
+    Hash: 3fe90764170da9c7c6d50f3d91cad845
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -25,4 +25,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/JiaYuan/101301.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/640024fda8eb9812de9d9b3dc0ae8c87.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/640024fda8eb9812de9d9b3dc0ae8c87.unity3d

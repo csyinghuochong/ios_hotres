@@ -3,7 +3,7 @@ CRC: 2438447366
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f3fada8b7daa5967bb2d4644a9b975a4
+    Hash: 6f8541e73912843ca13d4e959e63391a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7a107dc2e5b91368bb715249dde775ee
@@ -29,4 +29,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Fbx/yewai_zhalan_01.FBX
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3c0b9e7390bbab0542f11b945154b339.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3c0b9e7390bbab0542f11b945154b339.unity3d
