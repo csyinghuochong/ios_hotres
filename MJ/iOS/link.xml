@@ -1,8 +1,18 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AnimationSpeed" preserve="all" />
     <type fullname="ARPGFX.ARPGFXRotation" preserve="all" />
+    <type fullname="BKPureNature.BK_EnvironmentManager" preserve="all" />
+    <type fullname="commanastationwww.eternaltemple.DisableMeshAtRuntime" preserve="all" />
+    <type fullname="commanastationwww.eternaltemple.Door_Controller" preserve="all" />
+    <type fullname="commanastationwww.eternaltemple.HideablePart" preserve="all" />
+    <type fullname="commanastationwww.eternaltemple.HideGroup" preserve="all" />
+    <type fullname="commanastationwww.eternaltemple.HideSelf" preserve="all" />
+    <type fullname="Destroy" preserve="all" />
+    <type fullname="EGA_EffectSound" preserve="all" />
     <type fullname="Highlands.Interactive" preserve="all" />
-    <type fullname="Highlands.PhysicsObject" preserve="all" />
+    <type fullname="ParticleAutoDestruction" preserve="all" />
+    <type fullname="ParticleScaler" preserve="all" />
     <type fullname="PowerUp" preserve="all" />
     <type fullname="Suntail.AudioZoneControl" preserve="all" />
     <type fullname="Suntail.Door" preserve="all" />
@@ -11,16 +21,6 @@
   </assembly>
   <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
-  </assembly>
-  <assembly fullname="sc.stylizedgrass.demo.runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="StylizedGrassDemo.PlayerController" preserve="all" />
-  </assembly>
-  <assembly fullname="sc.stylizedgrass.runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="StylizedGrass.GrassBender" preserve="all" />
-    <type fullname="StylizedGrass.GrassColorMapRenderer" preserve="all" />
-    <type fullname="StylizedGrass.GrassMaskingSphere" preserve="all" />
-    <type fullname="StylizedGrass.StylizedGrassRenderer" preserve="all" />
-    <type fullname="StylizedGrass.GrassColorMapRenderer/LayerScaleSettings" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="SoftMask, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="SoftMasking.SoftMask" preserve="all" />
@@ -32,6 +32,7 @@
     <type fullname="Animancer.AnimancerComponent" preserve="all" />
     <type fullname="Assets.Scripts.Com.Game.Mono.EffectNode" preserve="all" />
     <type fullname="Assets.Scripts.Com.Game.Mono.EffectScale" preserve="all" />
+    <type fullname="Coffee.UIExtensions.UIMirrorReflection" preserve="all" />
     <type fullname="DestroyForTime" preserve="all" />
     <type fullname="DoTweenAlpha" preserve="all" />
     <type fullname="DoTweeningMove" preserve="all" />
@@ -41,12 +42,15 @@
     <type fullname="ET.AnimGroup" preserve="all" />
     <type fullname="ET.Client.MaterialManager" preserve="all" />
     <type fullname="ET.Client.PoolObject" preserve="all" />
+    <type fullname="ET.EffectDelayPlay" preserve="all" />
     <type fullname="ET.SoundData" preserve="all" />
     <type fullname="ET.UILayerScript" preserve="all" />
     <type fullname="FPS" preserve="all" />
     <type fullname="HeadBarUI" preserve="all" />
     <type fullname="I2.Loc.Localize" preserve="all" />
+    <type fullname="NpcLocal" preserve="all" />
     <type fullname="ReferenceCollector" preserve="all" />
+    <type fullname="UIImage" preserve="all" />
     <type fullname="UISizeFangDa" preserve="all" />
     <type fullname="UnityEngine.UI.Extensions.UIParticleSystem" preserve="all" />
     <type fullname="UnityEngine.UI.LoopHorizontalScrollRect" preserve="all" />
@@ -56,31 +60,13 @@
     <type fullname="UnityEngine.UI.LoopScrollPrefabSourceInstance" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollRectBase/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="I2.Loc.EventCallback" preserve="nothing" serialized="true" />
-    <type fullname="ET.AnimInfo" preserve="nothing" serialized="true" />
     <type fullname="ET.Client.MaterialGroup" preserve="nothing" serialized="true" />
-  </assembly>
-  <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
-    <type fullname="UnityEngine.Rendering.VolumeProfile" preserve="all" />
-    <type fullname="UnityEngine.Rendering.BoolParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.ClampedFloatParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.ClampedIntParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.ColorParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.MinFloatParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.TextureParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.Vector2Parameter" preserve="nothing" serialized="true" />
+    <type fullname="ET.AnimInfo" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Rendering.Universal.Bloom" preserve="all" />
-    <type fullname="UnityEngine.Rendering.Universal.ColorLookup" preserve="all" />
-    <type fullname="UnityEngine.Rendering.Universal.MotionBlur" preserve="all" />
-    <type fullname="UnityEngine.Rendering.Universal.Tonemapping" preserve="all" />
     <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
     <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalLightData" preserve="all" />
-    <type fullname="UnityEngine.Rendering.Universal.Vignette" preserve="all" />
-    <type fullname="UnityEngine.Rendering.Universal.MotionBlurModeParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.Universal.MotionBlurQualityParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.Universal.TonemappingModeParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.TemporalAA/Settings" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
@@ -103,6 +89,7 @@
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.ComputeShader" preserve="all" />
     <type fullname="UnityEngine.Cubemap" preserve="all" />
     <type fullname="UnityEngine.GameObject" preserve="all" />
     <type fullname="UnityEngine.Light" preserve="all" />
@@ -121,6 +108,7 @@
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
     <type fullname="UnityEngine.RenderTexture" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.ShaderVariantCollection" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
@@ -159,6 +147,7 @@
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
@@ -190,15 +179,20 @@
     <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Canvas" preserve="all" />
     <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VFXModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.VFX.VFXRenderer" preserve="all" />
+    <type fullname="UnityEngine.VFX.VisualEffect" preserve="all" />
+    <type fullname="UnityEngine.VFX.VisualEffectAsset" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.WindModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.WindZone" preserve="all" />
