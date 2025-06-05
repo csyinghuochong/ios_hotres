@@ -60,8 +60,8 @@
     <type fullname="UnityEngine.UI.LoopScrollPrefabSourceInstance" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollRectBase/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="I2.Loc.EventCallback" preserve="nothing" serialized="true" />
-    <type fullname="ET.Client.MaterialGroup" preserve="nothing" serialized="true" />
     <type fullname="ET.AnimInfo" preserve="nothing" serialized="true" />
+    <type fullname="ET.Client.MaterialGroup" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
@@ -79,6 +79,7 @@
     <type fullname="UnityEngine.AnimationClip" preserve="all" />
     <type fullname="UnityEngine.Animator" preserve="all" />
     <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.AvatarMask" preserve="all" />
     <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
