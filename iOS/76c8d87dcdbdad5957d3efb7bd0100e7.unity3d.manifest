@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4248306507
+CRC: 2760080351
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 23a9ec07e64bd7242793a5c790f8142c
+    Hash: e3406fff5027871ddb3495044d6837b8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d7522fe451151f78f4892f34f831289
@@ -70,6 +70,7 @@ Assets:
 - Assets/Bundles/UI/Main/PetSet/UIPetMiningReward.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/00aaf078852a3677f6310163332391c2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0b03acfe4e24741d659129221cff17a8.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0cd674abc641bca99ec141eaa477d6f2.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3b354936a9ac617920cea1145f77f1b7.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d

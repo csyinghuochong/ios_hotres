@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1899300652
+CRC: 3231126138
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67f98d575560c34a4f927e35217e6d28
+    Hash: 30e2cf3369c0be19acdc5b9647108431
   TypeTreeHash:
     serializedVersion: 2
     Hash: e9092ef2d1bb29adb1ea59bb2a1c8250
@@ -70,6 +70,7 @@ Assets:
 - Assets/Bundles/UI/Main/Country/UICountryHuoDong.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/00aaf078852a3677f6310163332391c2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0b03acfe4e24741d659129221cff17a8.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/22e32649998028efdbc71895f4d0bfc7.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/356d0e872a3f800a5ed574015280208d.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/37a68634425dddfacbd33fb634bcdfe8.unity3d

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1247956492
+CRC: 763883540
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: deec40551ad17519ddab62b215bac7f8
+    Hash: 1e97e3969de0fb84bfac5bca5f7503ef
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6267b4db044719665fdc19daa3dfdb2a
@@ -56,6 +56,7 @@ Assets:
 - Assets/Bundles/UI/Main/FenXiang/UIFenXiangSet.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/00aaf078852a3677f6310163332391c2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0b03acfe4e24741d659129221cff17a8.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/50252a38f6861313c929fe3056e798a6.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d

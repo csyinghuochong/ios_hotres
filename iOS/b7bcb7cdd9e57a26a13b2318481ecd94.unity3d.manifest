@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1800257772
+CRC: 1386468410
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d37ebf3557084c07b633f5102a51c522
+    Hash: ea455d3c94a156c0503dc5a70c60b787
   TypeTreeHash:
     serializedVersion: 2
     Hash: e9092ef2d1bb29adb1ea59bb2a1c8250
@@ -70,6 +70,7 @@ Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UIChengJiuReward.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/00aaf078852a3677f6310163332391c2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0b03acfe4e24741d659129221cff17a8.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0e3b27ceaa3224218667f981d56e5552.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/254690b6326e19782f6b47056188bbfa.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/32dc36e5e66a3560a21175edceae8948.unity3d

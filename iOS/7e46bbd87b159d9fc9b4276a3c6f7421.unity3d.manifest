@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4011753219
+CRC: 3201683703
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: de439d079c277650a1c1fefc4b100c59
+    Hash: 2991855a8a332712f23cfecfd887b113
   TypeTreeHash:
     serializedVersion: 2
     Hash: 35e03ddb0c796f9935eca3f07a30e232
@@ -42,6 +42,7 @@ Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UISpiritShowItem.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/00aaf078852a3677f6310163332391c2.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0b03acfe4e24741d659129221cff17a8.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4c7a5da6f2726ccfe64b56e99acd4285.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/59377b882607119f2a0817f4ad83209d.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
