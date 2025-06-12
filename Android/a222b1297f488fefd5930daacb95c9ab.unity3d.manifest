@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2952201223
+CRC: 878607460
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a4331be6720c7e420dd5f8aec2b97ad5
+    Hash: 5742d7da621fc8a023d86b6425b93bc9
   TypeTreeHash:
     serializedVersion: 2
     Hash: c10f1390724baf899d392bbf885ef88f
@@ -74,6 +74,7 @@ Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UIChengJiuShow.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/00aaf078852a3677f6310163332391c2.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0b03acfe4e24741d659129221cff17a8.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1a236a55b42f60fd0f938e9907e66eca.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/300a207faed8f7b216aae3e3e4306913.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/300df170e57910bf18b2e0932c636a58.unity3d

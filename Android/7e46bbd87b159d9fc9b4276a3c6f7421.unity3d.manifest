@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2276169103
+CRC: 2915050520
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 64cc59b32ebc1d0d93d98c2d4b8b718e
+    Hash: b2968080b254a4cd52a9b118c4e25367
   TypeTreeHash:
     serializedVersion: 2
     Hash: 35e03ddb0c796f9935eca3f07a30e232
@@ -42,6 +42,7 @@ Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UISpiritShowItem.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/00aaf078852a3677f6310163332391c2.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0b03acfe4e24741d659129221cff17a8.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4c7a5da6f2726ccfe64b56e99acd4285.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/59377b882607119f2a0817f4ad83209d.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d

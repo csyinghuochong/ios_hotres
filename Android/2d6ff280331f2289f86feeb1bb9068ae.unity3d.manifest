@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1922703328
+CRC: 3288039849
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 764a19d6e69601becc2b5c7a52d3ab33
+    Hash: c8e472ce3caf3cf1a49302745155c5cf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 15b49f5cdf7f5bb909b701dd6800ce05
@@ -70,6 +70,7 @@ Assets:
 - Assets/Bundles/UI/Main/Country/UICountryHuoDong.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/00aaf078852a3677f6310163332391c2.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0b03acfe4e24741d659129221cff17a8.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/22e32649998028efdbc71895f4d0bfc7.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/356d0e872a3f800a5ed574015280208d.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/37a68634425dddfacbd33fb634bcdfe8.unity3d

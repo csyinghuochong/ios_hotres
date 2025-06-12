@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2519217077
+CRC: 2361445075
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: caad6de897d7efee835d780d3ac40a46
+    Hash: e77dfcad7ddc1fdc21570335ed272c9c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6ad37cd6c8e2a657f656471c6cf7e238
@@ -70,6 +70,7 @@ Assets:
 - Assets/Bundles/UI/Main/PetSet/UIPetMiningReward.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/00aaf078852a3677f6310163332391c2.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0b03acfe4e24741d659129221cff17a8.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0cd674abc641bca99ec141eaa477d6f2.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3b354936a9ac617920cea1145f77f1b7.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d

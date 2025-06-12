@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1652142999
+CRC: 4227229041
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a0194b3170c1fd121f3b5f20ac29b34a
+    Hash: 46518bcd4e8d9715fdb0deb70d3f96ef
   TypeTreeHash:
     serializedVersion: 2
     Hash: 15b49f5cdf7f5bb909b701dd6800ce05
@@ -70,6 +70,7 @@ Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UIChengJiuReward.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/00aaf078852a3677f6310163332391c2.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0b03acfe4e24741d659129221cff17a8.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0e3b27ceaa3224218667f981d56e5552.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/254690b6326e19782f6b47056188bbfa.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/32dc36e5e66a3560a21175edceae8948.unity3d
