@@ -19,9 +19,6 @@
     <type fullname="Suntail.LightCulling" preserve="all" />
     <type fullname="Suntail.PhysicsObject" preserve="all" />
   </assembly>
-  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
-  </assembly>
   <assembly fullname="SoftMask, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="SoftMasking.SoftMask" preserve="all" />
     <type fullname="SoftMasking.SoftMaskable" preserve="all" />
